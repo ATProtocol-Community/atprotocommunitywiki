@@ -2,7 +2,7 @@
 title: AI on ATProto Group Session, Seattle 2025
 description: AI on ATProto Group Notes
 published: true
-date: 2025-03-26T23:00:54.119Z
+date: 2025-03-26T23:15:35.992Z
 tags: atmosphereconf, notes, ai, llm
 editor: markdown
 dateCreated: 2025-03-26T22:48:01.916Z
@@ -12,6 +12,8 @@ dateCreated: 2025-03-26T22:48:01.916Z
 
 * Seattle 2025, Day 1
 * Facilitated by Dr. Cameron Pfiffer [@cameron.pfiffer.org](https://bsky.app/profile/cameron.pfiffer.org)
+
+Also see Cameron's [Comind presentation](/atmosphereconf/seattle2025/comind)
 
 ![cameron-aiproto.jpg](/assets/cameron-aiproto.jpg)
 
