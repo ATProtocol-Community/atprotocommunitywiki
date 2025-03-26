@@ -2,7 +2,7 @@
 title: Comind: the cognitive layer for ATproto
 description: Cameron Pfiffer presents Comind
 published: true
-date: 2025-03-26T23:12:06.278Z
+date: 2025-03-26T23:14:43.590Z
 tags: atmosphereconf, ai, llm, aiproto, lightningtalk, comind
 editor: markdown
 dateCreated: 2025-03-26T23:12:06.278Z
@@ -15,6 +15,10 @@ https://youtu.be/nLtzdHeGnjA?si=PioGgh4o9biNun7k
 
 * Cameron Pfiffer https://bsky.app/profile/cameron.pfiffer.org
 * Comind Stream https://bsky.app/profile/comind.stream
+
+Also check out
+* group discussion https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/ai-atproto
+* working group https://wiki.atprotocol.community/en/working-groups/aiproto
 
 # Transcript
 
