@@ -2,7 +2,7 @@
 title: Community Documentation Working Group
 description: Discussion around community maintained documentation, including this wiki
 published: true
-date: 2025-03-26T01:15:54.827Z
+date: 2025-03-26T15:06:46.447Z
 tags: wiki, documentation, working group
 editor: markdown
 dateCreated: 2025-03-25T20:13:47.371Z
@@ -13,6 +13,10 @@ dateCreated: 2025-03-25T20:13:47.371Z
 Participants
 * Boris [@bmann.ca](https://bsky.app/profile/bmann.ca)
 * Baldemoto [@baldemo.to](https://bsky.app/profile/baldemo.to)
+
+Resources
+* this site!
+* [#wiki-discussions](https://discord.com/channels/1097580399187738645/1288609400432627816) on [Community Dev Discord](https://discord.atprotocol.dev)
 
 ## Wiki
 
