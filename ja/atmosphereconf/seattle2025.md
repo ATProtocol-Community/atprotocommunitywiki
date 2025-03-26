@@ -2,7 +2,7 @@
 title: ATmosphere Conf 2025 シアトル
 description: 2025年3月22日にシアトルで開催されたATmosphereカンファレンスの概要
 published: true
-date: 2025-03-26T00:59:02.717Z
+date: 2025-03-26T01:01:23.212Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-26T00:55:37.675Z
@@ -19,7 +19,7 @@ dateCreated: 2025-03-26T00:55:37.675Z
 - [#atmosphereconf](https://bsky.app/search?q=%23atmosphereconf)  
 - [ATmosphereConf 参加者リスト](https://bsky.app/profile/atprotocol.dev/lists/3lgepftxhzy2d)
 
-[フィードバックページ](/atmosphereconf/seattle2025/feedback)があります。カンファレンス体験に関する長文の感想などを自由にお寄せください。
+[フィードバックページ](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/feedback)があります。カンファレンス体験に関する長文の感想などを自由にお寄せください。
 
 ---
 
