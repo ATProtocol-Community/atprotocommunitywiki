@@ -2,21 +2,21 @@
 title: AT Protocol Community Wiki
 description: Homepage of the AT Protocol Community Wiki
 published: true
-date: 2025-03-25T20:14:28.955Z
+date: 2025-03-26T00:51:21.224Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T06:48:14.149Z
 ---
 
-# Welcome to the AT Protocol Community Wiki
+# Willkommen bei der AT Protocol Community Wiki
 
 ![@wiki logo](/assets/atwiki512.png)
 
-This is a quick install of [WikiJS](/wikijs) to experiment if it's a good fit for community wiki pages.
+Das ist eine schnelle Installierung [WikiJS](/wikijs) um zu probperen ob es für unsere Gemeinschaft funktioniert.
 
-It may be useful for emerging working groups, eg [Community Documentation WG](/working-groups/community-documentation/)
+zum Beispiel können wir es für die [Community Documentation WG](/working-groups/community-documentation/) benutzen.
 
-We will be storing transcripts and other artifacts from [ATmosphereConf Seattle 2025 here](/atmosphereconf/seattle2025/)
+wir werden die Abschrift der Konferenz [ATmosphereConf Seattle 2025](/atmosphereconf/seattle2025/)  hier speichern.
 
 ## License
 
