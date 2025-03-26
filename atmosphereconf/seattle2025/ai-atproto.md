@@ -2,7 +2,7 @@
 title: AI on ATProto Group Session, Seattle 2025
 description: AI on ATProto Group Notes
 published: true
-date: 2025-03-26T22:48:01.916Z
+date: 2025-03-26T23:00:54.119Z
 tags: atmosphereconf, notes, ai, llm
 editor: markdown
 dateCreated: 2025-03-26T22:48:01.916Z
@@ -23,7 +23,7 @@ We’ll probably discuss the [user intent proposal](https://github.com/bluesky-s
 
 ## Follow Up Working Group
 
-See [AIproto](working-groups/aiproto)
+See [AIproto](/working-groups/aiproto)
 
 # Notes
 
