@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-26T16:47:18.500Z
+date: 2025-03-26T20:34:23.830Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -17,6 +17,7 @@ dateCreated: 2025-03-25T19:45:22.665Z
 Resources
 * [#atmosphereconf](https://bsky.app/search?q=%23atmosphereconf)
 * [ATmosphereConf Participants List](https://bsky.app/profile/atprotocol.dev/lists/3lgepftxhzy2d)
+* [YouTube Playlist of the Main Room Talks](https://www.youtube.com/playlist?list=PLyIg0j_mbb2tVegEMBg5ke2Z-1ALksU-I)
 
 
 We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can leave us long form notes about your conference experience.
