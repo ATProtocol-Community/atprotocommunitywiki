@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-26T22:41:11.223Z
+date: 2025-03-26T23:13:30.862Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -50,7 +50,7 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 | 15:15-15:30 | DO NOT REPLY TO THIS LIGHTNING TALK, Dan Hon |
 | 15:30-16:00 | Break |
 | 16:00-16:15 | Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights, Michelle Lee |
-| 16:15-16:30 | Comind: The cognitive layer for ATProto, Cameron Pfiffer |
+| 16:15-16:30 | [Comind: The cognitive layer for ATProto, Cameron Pfiffer](/atmosphereconf/seattle2025/comind) |
 | 16:30-16:45 | Protocol composition: extending atproto for private data, Rashid Aziz |
 | 16:45-17:30 | Yearning for the Open Protocols, Ms Boba |
 | 17:15-17:30 | Day 1 Wrap Up |
