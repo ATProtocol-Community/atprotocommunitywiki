@@ -2,7 +2,7 @@
 title: Private Data Group Session, Seattle 2025
 description: Private Data group session notes
 published: true
-date: 2025-03-26T17:34:15.482Z
+date: 2025-03-26T18:22:55.458Z
 tags: atmosphereconf, private data, notes
 editor: markdown
 dateCreated: 2025-03-26T17:34:15.482Z
@@ -24,6 +24,8 @@ dateCreated: 2025-03-26T17:34:15.482Z
 
 ## Stickies
 
+![privacy-stickies.jpg](/assets/privacy-stickies.jpg)
+
 Sharing Google Doc >> Share 1 record with specific ppl
 Shared (private) data > Messaging, many editors on a doc
 Give someone/service access to all of a data type (lexicon), location data
@@ -31,8 +33,8 @@ Private likes, follows, posts
 Bookmarks
 Private votes, aggregatable but not viewable
 "Private" = visible to friends or colleagues; people i have a meat space relatoinship with and can retaliate against personally if they break trust
-Oath scopes for access to private records
-Oath scopes
+Oauth scopes for access to private records
+Oauth scopes
 Block Pri... PDS > Relay > App View, relays that block malicious app views
 Personal data
 How do 3rd party apps get notified of new private posts w/o firehouse ? assuming authorization)
