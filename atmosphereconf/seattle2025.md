@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-26T20:34:23.830Z
+date: 2025-03-26T22:41:11.223Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -59,7 +59,7 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 
 | **Time**        | **Group Discussion** |
 |-------------|------------------------------------------|
-| 14:00-15:00 | AI on ATproto, hosted by Cameron Pfiffer |
+| 14:00-15:00 | [AI on ATproto, hosted by Cameron Pfiffer](/atmosphereconf/seattle2025/ai-atproto) |
 | 15:00-16:30 | [Private Data, hosted by Georgia Bullen & Boris Mann](/atmosphereconf/seattle2025/private-data) |
 | 16:30-17:30 | Lexicon Community, hosted by Nick Gerakines |
 
