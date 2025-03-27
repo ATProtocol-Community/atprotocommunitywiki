@@ -2,7 +2,7 @@
 title: Grupos de Trabalho
 description: Uma lista de grupos de trabalho da comunidade no ATProto
 published: true
-date: 2025-03-27T10:09:25.273Z
+date: 2025-03-27T21:48:00.621Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T09:29:25.391Z
@@ -19,8 +19,12 @@ dateCreated: 2025-03-27T09:29:25.391Z
 
 # Grupos de Trabalho Ativos
 
-* [IA no ATProto](/working-groups/aiproto)
-* [ATGeo](/working-groups/atgeo)
+* [IA no ATProto](https://wiki.atprotocol.community/en/working-groups/aiproto)
+* [ATGeo](https://wiki.atprotocol.community/en/working-groups/atgeo)
 * [Documentação Comunitária](/working-groups/community-documentation)
-* [Mensagens com E2EE](/working-groups/e2ee)
-* [Dados Privados](/working-groups/private-data)
+* [Mensagens com E2EE](https://wiki.atprotocol.community/en/working-groups/e2ee)
+* [Dados Privados](https://wiki.atprotocol.community/en/working-groups/private-data)
+
+# Grupos de Trabalho Regionais
+
+* [Grupo de Trabalho Seattle Atmosphere](https://wiki.atprotocol.community/en/working-groups/seattle)
