@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Notes and discussion around WikiJS and this install in particular
 published: true
-date: 2025-03-26T23:13:24.467Z
+date: 2025-03-27T22:30:40.281Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-25T20:25:09.180Z
@@ -37,3 +37,7 @@ Comments that pull in bsky microblog replies from ATProto
 ### Figure out YouTube Players
 
 Can turn on iframes and use embed code. Or, figure out a way to paste in links, and inject some header code that turns youtube links into embeds on the fly.
+
+Research
+* https://feedback.js.wiki/wiki/p/how-to-embedded-youtube-video
+* https://github.com/Requarks/wiki/discussions/4580
