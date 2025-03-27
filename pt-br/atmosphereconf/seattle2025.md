@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Anotações, palestras e outros artefatos do evento ATmosphereConf Seattle, realizado em março de 2025
 published: true
-date: 2025-03-27T08:56:54.761Z
+date: 2025-03-27T08:58:11.131Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-27T08:56:54.761Z
@@ -14,7 +14,7 @@ dateCreated: 2025-03-27T08:56:54.761Z
 * 22 e 23 de Março de 2025
 * OAK Hall da Universidade de Washington
 
-Resources
+Recursos
 * [#ATmosphereConf](https://bsky.app/search?q=%23atmosphereconf)
 * [Lista de Participantes da ATmosphereConf](https://bsky.app/profile/atprotocol.dev/lists/3lgepftxhzy2d)
 * [Playlist no YouTube das palestras feitas na Sala Principal](https://www.youtube.com/playlist?list=PLyIg0j_mbb2tVegEMBg5ke2Z-1ALksU-I)
@@ -118,6 +118,9 @@ Nós temos uma [página de feedback](/atmosphereconf/seattle2025/feedback) onde 
 ## Artigos
 
 *Artigos publicados na imprensa e por indivíduos*
+
+> TODO: traduzir os títulos e citações dos artigos para o português.
+{.is-info}
 
 ### What do a Goose, Community Minded Innovators, and Web 2.0 have in common?
 
