@@ -2,7 +2,7 @@
 title: ATGeo
 description: Geo, venue, and general location and gis data for ATProto
 published: true
-date: 2025-03-27T18:33:13.710Z
+date: 2025-03-27T18:43:14.130Z
 tags: working group, atgeo, gis
 editor: markdown
 dateCreated: 2025-03-27T18:33:13.710Z
@@ -16,6 +16,7 @@ The bulk of the WGs will be run through the [Lexicon Community](/lexicon-communi
 
 Resources
 * Dev Discord [#lcwg-atgeo-gazetteer](https://discord.com/channels/1097580399187738645/1354817305594302647)
+* [ATgeo Gazetteer WG](https://github.com/lexicon-community/wg-atgeo-gazetteer)
 
 # Location Data on ATProto
 
