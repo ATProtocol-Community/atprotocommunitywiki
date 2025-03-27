@@ -2,7 +2,7 @@
 title: E2EE Messaging Working Group
 description: E2EE Messaging for ATProto
 published: true
-date: 2025-03-27T22:10:04.246Z
+date: 2025-03-27T22:21:30.280Z
 tags: e2ee, mls, chat, dms
 editor: markdown
 dateCreated: 2025-03-26T23:24:40.083Z
@@ -30,6 +30,7 @@ The Messaging Layer Security [MLS](/mls) IETF standard is the preferred standard
 # Meetings
 
 # Notes
+[Mark's suggestion on next steps](working-groups/e2ee/march2025NextSteps)
 
 ## Group Discussion in Seattle 2025
 [Followup session notes](/working-groups/e2ee/atmosphereGroupNotes)
