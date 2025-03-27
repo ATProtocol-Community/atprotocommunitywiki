@@ -2,7 +2,7 @@
 title: E2EE Messaging Working Group
 description: E2EE Messaging for ATProto
 published: true
-date: 2025-03-27T18:28:27.777Z
+date: 2025-03-27T22:08:25.422Z
 tags: e2ee, mls, chat, dms
 editor: markdown
 dateCreated: 2025-03-26T23:24:40.083Z
