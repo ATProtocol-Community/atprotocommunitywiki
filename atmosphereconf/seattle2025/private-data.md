@@ -2,7 +2,7 @@
 title: Private Data Group Session, Seattle 2025
 description: Private Data group session notes
 published: true
-date: 2025-03-26T18:25:41.614Z
+date: 2025-03-27T00:27:30.577Z
 tags: atmosphereconf, private data, notes
 editor: markdown
 dateCreated: 2025-03-26T17:34:15.482Z
@@ -57,6 +57,49 @@ Private PDS separated from Public PDS, linked to publci PDS, unlocked by passkey
 Shared metadata of private data
 
 # Notes
+
+## Kev Moo Raw Notes
+
+Private Data Group Discussion
+=============================
+
+Topics covered
+1. Private Data (what it means)
+2. Private messaging (e2ee DMs)
+3. What is the role of private data in AT protocol?
+
+VERY rough notes by [@kevmoo.com](https://bsky.app/profile/kevmoo.com)
+
+# DMs
+
+- Paul said: we *do* want e2e encrypted DMs.
+- Only visible to the participants
+- Richard and Tessa + Mark of Germ Network that implements an MLS (?) would love to f***ing not roll their own f***ing cryptography. germnetwork.com
+- You've heard of TLS...
+- MLS: messaging layer security
+    - Group key exchange protocol
+    - See https://en.wikipedia.org/wiki/Messaging_Layer_Security
+- Signal has set the standard here
+- Germ Network (?)
+    - https://www.germnetwork.com/
+- https://p2panda.org/
+    - Building blocks for peer-to-peer applications
+- Goal: hoping text of messages is not visible to folks not in the group
+    - IP leaks are...an open issue
+    - And, of course, as long as your trust the app
+- Maybe Signal should allow bootstrap via AT identifier (??)
+- this is basically what Germ will allow 
+----
+
+- The relay is the component we're most worried about
+- A PDS emits records that are tied to your account
+    - "logically centralized"
+    - In encrypted messaging, we would *not* want a record of me calling Chris (for example)
+    - *hand waving*
+    - *cryptographic nonsense*
+- Boris: need folks outside of the core group to experiment here
+
+
 
 ## Boris Raw Notes
 
