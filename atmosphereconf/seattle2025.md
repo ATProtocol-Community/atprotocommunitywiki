@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-27T20:11:19.191Z
+date: 2025-03-27T21:43:29.548Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -39,20 +39,20 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 | 09:30-09:45 | Opening Remarks |
 | 09:45-10:30 | [Network Punk: Welcome to the Jungle, Blaine Cook](/atmosphereconf/seattle2025/networkpunk)|
 | 10:30-10:45 | Coffee Break |
-| 10:45-11:30 | Where did we come from; where will we go, Paul Frazee |
-| 11:30-12:15 | Smoke Signal, an journey in building open ecosystems for communities, Nick Gerakines |
-| 12:15-12:30 | Skyseed Fund, Peter Wang |
-| 12:30-12:45 | Jay Graber Remarks  |
+| 10:45-11:30 | [Where did we come from; where will we go, Paul Frazee](/atmosphereconf/seattle2025/where-did-we-come-from) |
+| 11:30-12:15 | [Smoke Signal, an journey in building open ecosystems for communities, Nick Gerakines](/atmosphereconf/seattle2025/smoke-signal) |
+| 12:15-12:30 | [Skyseed Fund, Peter Wang](/atmosphereconf/seattle2025/skyseed-fund) |
+| 12:30-12:45 | [Jay Graber Remarks](/atmosphereconf/seattle2025/jay-graber-remarks)  |
 | 12:30-14:00 | Lunch |
-| 14:00-14:45 | Atproto Ethos, Daniel Holmgren |
-| 14:45-15:00 | All the protocols, compared, Ryan Barrett |
-| 15:00-15:15 | Fedica's Bluesky analysis and discovery tools, Samir Al-Battran |
-| 15:15-15:30 | DO NOT REPLY TO THIS LIGHTNING TALK, Dan Hon |
+| 14:00-14:45 | [Atproto Ethos, Daniel Holmgren](/atmosphereconf/seattle2025/atproto-ethos) |
+| 14:45-15:00 | [All the protocols, compared, Ryan Barrett](/atmosphereconf/seattle2025/all-protocols-compared) |
+| 15:00-15:15 | [Fedica's Bluesky analysis and discovery tools, Samir Al-Battran](/atmosphereconf/seattle2025/fedica) |
+| 15:15-15:30 | [DO NOT REPLY TO THIS LIGHTNING TALK, Dan Hon](/atmosphereconf/seattle2025/do-not-reply) |
 | 15:30-16:00 | Break |
-| 16:00-16:15 | Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights, Michelle Lee |
+| 16:00-16:15 | [Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights, Michelle Lee](/atmosphereconf/seattle2025/beyond-the-skeet) |
 | 16:15-16:30 | [Comind: The cognitive layer for ATProto, Cameron Pfiffer](/atmosphereconf/seattle2025/comind) |
-| 16:30-16:45 | Protocol composition: extending atproto for private data, Rashid Aziz |
-| 16:45-17:30 | Yearning for the Open Protocols, Ms Boba |
+| 16:30-16:45 | [Protocol composition: extending atproto for private data, Rashid Aziz](/atmosphereconf/seattle2025/protocol-composition) |
+| 16:45-17:30 | [Yearning for the Open Protocols, Ms Boba](/atmosphereconf/seattle2025/yearning-for-the-open-protocols) |
 | 17:15-17:30 | Day 1 Wrap Up |
 
 #### Streamplace Room - Group Discussions
@@ -72,21 +72,21 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 |-------------|-----------------|
 | 09:00-09:30 | Doors Open |
 | 09:30-09:45 | Opening Remarks |
-| 09:45-10:30 | People In Platforms: A Research Update, Erin Kissane |
+| 09:45-10:30 | [People In Platforms: A Research Update, Erin Kissane](/atmosphereconf/seattle2025/people-in-platforms) |
 | 10:30-10:45 | Coffee Break |
-| 10:45-11:30 | Beyond Horseless Carriages: Building Communities for the Decentralized Era, Rudy Fraser |
-| 11:30-12:15 | The Shape of Apps to Come, Devin Ivy |
-| 12:15-12:30 | Free Our Feeds: Developing the AT infra, ecosystem and governance, Marc Faddoul |
-| 12:30-12:45 | Bridges &amp; The Last Network Effect, Anuj Ahooja |
+| 10:45-11:30 | [Beyond Horseless Carriages: Building Communities for the Decentralized Era, Rudy Fraser](/atmosphereconf/seattle2025/beyond-horseless-carriages) |
+| 11:30-12:15 | [The Shape of Apps to Come, Devin Ivy](/atmosphereconf/seattle2025/shape-of-apps) |
+| 12:15-12:30 | [Free Our Feeds: Developing the AT infra, ecosystem and governance, Marc Faddoul](/atmosphereconf/seattle2025/free-our-feeds) |
+| 12:30-12:45 | [Bridges &amp; The Last Network Effect, Anuj Ahooja](/atmosphereconf/seattle2025/bridges) |
 | 12:45-14:00 | Lunch |
-| 14:00-14:45 | Supporting and growing ATProto development in 2025 and beyond, Ændra Rininsland |
-| 14:45-15:30 | Scaling atproto down and back up again, phil |
+| 14:00-14:45 | [Supporting and growing ATProto development in 2025 and beyond, Ændra Rininsland](/atmosphereconf/seattle2025/supporting-growing-atproto) |
+| 14:45-15:30 | [Scaling atproto down and back up again, phil](/atmosphereconf/seattle2025/scaling-atproto) |
 | 15:30-16:00 | Break |
-| 16:00-16:15 | Introducing Roost: Robust Open Online Safety Tools, Christopher DiBona |
-| 16:15-16:30 | Tales of Adding oAuth "Login with Bsky" to an OS Comments Tool, Jessie Rushing |
-| 16:30-16:45 | PMsky: Enabling Peer Moderation on Bluesky, Drew McArthur |
-| 16:45-17:00 | Message Gardening in the Atmosphere with Roomy.Chat, Zeu Capua |
-| 17:00-17:15 | Bringing HOT HOT HOT Backups to Bluesky, Travis Vachon |
+| 16:00-16:15 | [Introducing Roost: Robust Open Online Safety Tools, Christopher DiBona](/atmosphereconf/seattle2025/introducing-roost) |
+| 16:15-16:30 | [Tales of Adding oAuth "Login with Bsky" to an OS Comments Tool, Jessie Rushing](/atmosphereconf/seattle2025/adding-oauth) |
+| 16:30-16:45 | [PMsky: Enabling Peer Moderation on Bluesky, Drew McArthur](/atmosphereconf/seattle2025/pmsky) |
+| 16:45-17:00 | [Message Gardening in the Atmosphere with Roomy.Chat, Zeu Capua](/atmosphereconf/seattle2025/message-gardening) |
+| 17:00-17:15 | [Bringing HOT HOT HOT Backups to Bluesky, Travis Vachon](/atmosphereconf/seattle2025/bringing-hot-backups) |
 | 17:15-17:30 | Day 2 Wrap Up |
 
 #### Streamplace Room - Group Discussions
