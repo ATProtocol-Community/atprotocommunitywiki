@@ -1,8 +1,8 @@
 ---
-title: Grupos de Trabalho Working Groups
+title: Grupos de Trabalho
 description: Uma lista de grupos de trabalho da comunidade no ATProto
 published: true
-date: 2025-03-27T09:29:25.391Z
+date: 2025-03-27T10:09:25.273Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T09:29:25.391Z
