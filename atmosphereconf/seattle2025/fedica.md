@@ -2,7 +2,7 @@
 title: Fedica's Bluesky analysis and discovery tools
 description: todo
 published: true
-date: 2025-03-27T21:01:19.216Z
+date: 2025-03-27T21:53:34.040Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:01:19.216Z
@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=CR7CemnHZyA
 - Samir Al-Battran: https://bsky.app/profile/samir.fedica.com
 - company/orgs links
 - link to slides
+- add tags to page
 
 # Transcript
 TODO
