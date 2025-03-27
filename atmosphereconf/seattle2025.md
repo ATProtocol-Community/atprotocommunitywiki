@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-27T18:35:08.793Z
+date: 2025-03-27T20:09:34.125Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -37,7 +37,7 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 |-------------|------------------|
 | 09:00-09:30 | Doors open|
 | 09:30-09:45 | Opening Remarks |
-| 09:45-10:30 | Network Punk: Welcome to the Jungle, Blaine Cook|
+| 09:45-10:30 | [Network Punk: Welcome to the Jungle, Blaine Cook](/atmosphereconf/seattle2025/networkpunk)|
 | 10:30-10:45 | Coffee Break |
 | 10:45-11:30 | Where did we come from; where will we go, Paul Frazee |
 | 11:30-12:15 | Smoke Signal, an journey in building open ecosystems for communities, Nick Gerakines |
