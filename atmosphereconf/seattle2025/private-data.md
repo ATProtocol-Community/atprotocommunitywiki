@@ -2,7 +2,7 @@
 title: Private Data Group Session, Seattle 2025
 description: Private Data group session notes
 published: true
-date: 2025-03-27T00:27:30.577Z
+date: 2025-03-27T15:06:40.324Z
 tags: atmosphereconf, private data, notes
 editor: markdown
 dateCreated: 2025-03-26T17:34:15.482Z
@@ -12,6 +12,10 @@ dateCreated: 2025-03-26T17:34:15.482Z
 
 * Seattle 2025, Day 1
 * Facilitated by Boris [@bmann.ca](https://bsky.app/profile/bmann.ca) & Georgia [@georgiamoon.social](https://bsky.app/profile/georgiamoon.social)
+
+Working Groups forming:
+* [E2EE](/working-groups/e2ee) - covering DMs / group chats using MLS
+* [Private Data](/working-groups/private-data)
 
 ## Private Data Session
 
