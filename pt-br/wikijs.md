@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Anotações e discussões sobre WikiJS e esta instalação em particular
 published: true
-date: 2025-03-27T05:47:26.684Z
+date: 2025-03-27T05:47:45.889Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-27T05:47:26.684Z
@@ -36,4 +36,4 @@ Comentários que extraem respostas no microblog bsky do ATProto
 
 ### Fazer Player do YouTube funcionar
 
-Podemos ativar iframes e usar código incorporado. Ou, descobrir um jeito de colar links, e injetar algum código que transforma links do youtube em elementos incorporado em tempo real.
+Podemos ativar iframes e usar código incorporado. Ou, descobrir um jeito de colar links, e injetar algum código que transforma links do youtube em elementos incorporados em tempo real.
