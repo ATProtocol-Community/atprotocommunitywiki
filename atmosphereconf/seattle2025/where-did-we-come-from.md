@@ -2,7 +2,7 @@
 title: Where did we come from; where will we go
 description: TODO
 published: true
-date: 2025-03-27T20:54:58.597Z
+date: 2025-03-27T21:54:49.951Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T20:54:58.597Z
@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=i0hz9uzHEbc
 - Paul Frazee: https://bsky.app/profile/pfrazee.com
 - company/orgs links
 - link to slides
+- add tags to page
 
 # Transcript
 TODO
