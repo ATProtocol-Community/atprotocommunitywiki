@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Anotações, palestras e outros artefatos do evento ATmosphereConf Seattle, realizado em março de 2025
 published: true
-date: 2025-03-27T22:42:56.032Z
+date: 2025-03-27T22:43:27.539Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-27T08:56:54.761Z
@@ -50,7 +50,7 @@ Nós temos uma [página de feedback](https://wiki.atprotocol.community/en/atmosp
 | 15:15-15:30 | [NÃO RESPONDA A ESTA PALESTRA (Dan Hon)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/do-not-reply) |
 | 15:30-16:00 | Intervalo |
 | 16:00-16:15 | [Além do Skeet: O Potencial do ATProto para Preservação Digital e Direitos Humanos (Michelle Lee)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/beyond-the-skeet) |
-| 16:15-16:30 | [Comind: A camada cognitiva para ATProto, Cameron Pfiffer](/atmosphereconf/seattle2025/comind) |
+| 16:15-16:30 | [Comind: A camada cognitiva para ATProto, Cameron Pfiffer](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/comind) |
 | 16:30-16:45 | [Composição do protocolo: expandindo o atproto para dados privados (Rashid Aziz)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/protocol-composition) |
 | 16:45-17:30 | [Ansiando por Protocolos Abertos (Ms. Boba)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/yearning-for-the-open-protocols) |
 | 17:15-17:30 | Encerramento do Dia 1 |
