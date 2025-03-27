@@ -2,7 +2,7 @@
 title: ATmosphere 23 March E2EE notes
 description: 
 published: true
-date: 2025-03-27T22:06:30.914Z
+date: 2025-03-27T22:06:50.840Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T22:06:30.914Z
@@ -27,4 +27,4 @@ We’re agreed on MLS as the common encryption layer for messaging.
 
 Need to agree on more (Application message format, mode of operation of MLS, Transport) to get to interoperability
 
-1:1 Messaging apps built on MLS this year (SkyChat - in testflight!, Germ, more!)
+ATProto 1:1 Messaging apps built on MLS this year (SkyChat - in testflight!, Germ, more!)
