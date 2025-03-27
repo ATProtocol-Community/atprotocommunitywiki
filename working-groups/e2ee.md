@@ -2,22 +2,21 @@
 title: E2EE Messaging Working Group
 description: E2EE Messaging for ATProto
 published: true
-date: 2025-03-26T23:24:40.083Z
+date: 2025-03-27T18:20:23.461Z
 tags: e2ee, mls, chat, dms
 editor: markdown
 dateCreated: 2025-03-26T23:24:40.083Z
 ---
 
-# AI Proto Working Group
+# E2EE Messaging Working Group
 
 Participants
+* 
 * Your Name Here!
 
 Resources
 * this site!
 * channel on Discord?
-
-
 
 # Overview
 
@@ -25,13 +24,16 @@ The E2EE messaging working group is focused on DMs and group chat. The current i
 
 The Messaging Layer Security [MLS](/mls) IETF standard is the preferred standard to build on.
 
+> See the [Private Data WG](/working-groups/private-data) for ATproto lexicon record privacy.
+{.is-info}
+
 # Meetings
 
 # Notes
 
 ## Group Discussion in Seattle 2025
 
-See [AI on ATProto](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/private-data)
+See [private data session](/atmosphereconf/seattle2025/private-data) - covers both e2ee and private data.
 
 
 
