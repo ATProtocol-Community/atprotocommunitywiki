@@ -2,7 +2,7 @@
 title: Wiki Comunitária do AT Protocol
 description: Página Inicial da Wiki Comunitária do AT Protocol
 published: true
-date: 2025-03-27T04:57:41.757Z
+date: 2025-03-27T04:58:27.671Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T04:51:31.200Z
@@ -12,11 +12,11 @@ dateCreated: 2025-03-27T04:51:31.200Z
 
 ![@logo da wiki](/assets/atwiki512.png)
 
-Esta é uma instalação rápida do [WikiJS](pt-br//wikijs) para testar se é uma boa opção para páginas wiki da comunidade.
+Esta é uma instalação rápida do [WikiJS](/wikijs) para testar se é uma boa opção para páginas wiki da comunidade.
 
-Pode ser útil para grupos de trabalho emergentes, como por exemplo o [Grupo de Trabalho de Documentação Comunitária](pt-br//working-groups/community-documentation/).
+Pode ser útil para grupos de trabalho emergentes, como por exemplo o [Grupo de Trabalho de Documentação Comunitária](/working-groups/community-documentation/).
 
-Armazenaremos transcrições e outros artefatos da [ATmosphereConf Seattle 2025 aqui](pt-br/atmosphereconf/seattle2025/).
+Armazenaremos transcrições e outros artefatos da [ATmosphereConf Seattle 2025 aqui](/atmosphereconf/seattle2025/).
 
 ## Licença
 
