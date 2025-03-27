@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-26T23:13:30.862Z
+date: 2025-03-27T18:35:08.793Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -102,7 +102,7 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 
 | **Time**        | **Group Discussion** |
 |-------------|------------------------------------------|
-| 11:30-12:30 | ATGeo (Nick & Boris) |
+| 11:30-12:30 | [ATGeo (Nick & Boris)](/atmosphereconf/seattle2025/atgeo) |
 | 14:00-15:00 | Micropayments (Georgia) |
 | 15:00-16:30 | Building new services (Ms. Boba) |
 | 16:30-17:30 | Creating Tech-Co Ops (maxine.science) |
