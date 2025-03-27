@@ -2,7 +2,7 @@
 title: Beyond Horseless Carriages: Building Communities for the Decentralized Era
 description: todo
 published: true
-date: 2025-03-27T21:07:43.513Z
+date: 2025-03-27T21:52:07.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:07:43.513Z
@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=OZN8y8kVFFI
 - black sky links
 - company/orgs links
 - link to slides
+- add tags to page
 
 # Transcript
 TODO
