@@ -2,14 +2,18 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-03-27T17:15:52.207Z
+date: 2025-03-27T17:17:43.932Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
 ---
 
 # Schedule
-Your content here
+Our current schedule:
+
+- Wednesday, `/dev/hack`, 6-8pm
+
+There has been discussion of meeting other times and locations, but nothing has been scheduled.
 
 # Location
 
