@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Anotações, palestras e outros artefatos do evento ATmosphereConf Seattle, realizado em março de 2025
 published: true
-date: 2025-03-27T08:58:11.131Z
+date: 2025-03-27T09:41:51.128Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-27T08:56:54.761Z
@@ -20,7 +20,7 @@ Recursos
 * [Playlist no YouTube das palestras feitas na Sala Principal](https://www.youtube.com/playlist?list=PLyIg0j_mbb2tVegEMBg5ke2Z-1ALksU-I)
 
 
-Nós temos uma [página de feedback](/atmosphereconf/seattle2025/feedback) onde você pode nos deixar comentários sobre sua experiência na conferência.
+Nós temos uma [página de feedback](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/feedback) onde você pode nos deixar comentários sobre sua experiência na conferência.
 
 ## Agenda
 
