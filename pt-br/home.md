@@ -2,13 +2,13 @@
 title: Wiki Comunitária do AT Protocol
 description: Página Inicial da Wiki Comunitária do AT Protocol
 published: true
-date: 2025-03-27T04:58:27.671Z
+date: 2025-03-27T06:34:38.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T04:51:31.200Z
 ---
 
-# Bem vindo à Wiki Comunitária do AT Protocol
+# Bem-vindo à Wiki Comunitária do AT Protocol
 
 ![@logo da wiki](/assets/atwiki512.png)
 
