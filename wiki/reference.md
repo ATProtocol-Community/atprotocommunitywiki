@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-28T05:18:39.965Z
+date: 2025-03-28T05:20:38.762Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -71,9 +71,4 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [Libraries](/en/wiki/reference/community/libraries)
 - [Tools](/en/wiki/reference/community/tools)
 - [Lore](/en/wiki/reference/community/lore)
-{.links-list}
-
-### Lore
-- [Gustopher Goosetopher](/en/wiki/reference/community/lore/gustopher)
-- [Young Jack Dorsey](/en/wiki/reference/community/lore/young-dorsey)
 {.links-list}
