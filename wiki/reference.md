@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-28T05:20:38.762Z
+date: 2025-03-28T05:23:53.296Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -12,9 +12,9 @@ dateCreated: 2025-03-28T03:33:21.144Z
 
 ## Core Architecture
 
-- [AppView](/en/wiki/reference/core-architecture/appview)
-- [Personal Data Server *User repository and network entry point*](/en/wiki/reference/core-architecture/pds)
-- [Relay](/en/wiki/reference/core-architecture/relay)
+- [AppViews](/en/wiki/reference/core-architecture/appview)
+- [Personal Data Servers *User repository and network entry point*](/en/wiki/reference/core-architecture/pds)
+- [Relays](/en/wiki/reference/core-architecture/relay)
 {.links-list}
 
 ## Opinionated Services
@@ -58,8 +58,8 @@ dateCreated: 2025-03-28T03:33:21.144Z
 
 
 ## Cryptography
-- [Rotation keys](/en/wiki/reference/cryptography/rotation-keys)
-- [Signing keys](/en/wiki/reference/cryptography/signing-keys)
+- [Rotation Keys](/en/wiki/reference/cryptography/rotation-keys)
+- [Signing Keys](/en/wiki/reference/cryptography/signing-keys)
 - [NIST P256](/en/wiki/reference/cryptography/p256)
 - [NIST K256](/en/wiki/reference/cryptography/k256)
 - [Messaging Layer Security (MLS)](/en/wiki/reference/cryptography/mls)
