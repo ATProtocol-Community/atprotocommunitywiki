@@ -2,14 +2,14 @@
 title: Personal Data Server (PDS)
 description: User repository and entry point
 published: true
-date: 2025-03-28T01:33:09.565Z
+date: 2025-03-28T01:54:39.169Z
 tags: wiki, documentation, core architecture
 editor: markdown
 dateCreated: 2025-03-28T01:33:09.565Z
 ---
 
 # Personal Data Server (PDS)
-A **Personal Data Server (PDS)** is the main entry point and "digital home" of users within the AT Protocol. They store a user's [data repository](/en/working-groups/community-documentation/data/data-repository) and [blobs](/en/working-groups/community-documentation/data/blob), manage user identity, and provides the APIs necessary for data queries, cryptographic signing, and other interactions with the broader network. PDSes provides an update stream for its data repositories, which are crawled by [relays](/en/working-groups/community-documentation/core-architecture/relay) to broadcast new records in relay [firehoses](/en/working-groups/community-documentation/data/firehose).
+A **Personal Data Server (PDS)** is the main entry point and "digital home" of users within the AT Protocol. They store a user's [data repository](/en/working-groups/community-documentation/data/data-repository) and [blobs](/en/working-groups/community-documentation/data/blob), manage user identity, and provides the APIs necessary for data queries, cryptographic signing, and other interactions with the broader network. PDSes provides an update stream for its data repositories, which are crawled by [relays](/en/working-groups/community-documentation/core-architecture/relay) to broadcast new records in relay [firehoses](/en/working-groups/community-documentation/networking/firehose).
 
 PDSes are designed to be lightweight and modular. A single PDS can host anywhere from one to hundreds of thousands of user accounts, depending on its resources and configuration. PDSes are designed such that users can self-host their own PDS on modest hardware. Service provides can host PDSes for many users efficiently, and users can migrate between PDSes without losing their identity or data. 
 
