@@ -2,7 +2,7 @@
 title: Community Documentation Working Group
 description: Discussion around community maintained documentation, including this wiki
 published: true
-date: 2025-03-27T23:13:15.612Z
+date: 2025-03-28T13:27:48.411Z
 tags: wiki, documentation, working group
 editor: markdown
 dateCreated: 2025-03-25T20:13:47.371Z
@@ -14,6 +14,7 @@ Participants
 * Boris [@bmann.ca](https://bsky.app/profile/bmann.ca)
 * Baldemoto [@baldemo.to](https://bsky.app/profile/baldemo.to)
 * Victoria [@vicwalker.bsky.social](https://bsky.app/profile/vicwalker.bsky.social)
+* Silvern [@silvernskye.bsky.social](https://bsky.app/profile/silvernskye.bsky.social)
 
 Resources
 * this site!
