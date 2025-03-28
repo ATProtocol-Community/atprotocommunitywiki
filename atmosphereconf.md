@@ -2,7 +2,7 @@
 title: ATmosphereConf
 description: A list of ATmosphere Conferences
 published: true
-date: 2025-03-25T20:09:44.063Z
+date: 2025-03-28T23:13:17.446Z
 tags: atmosphereconf
 editor: markdown
 dateCreated: 2025-03-25T20:09:44.063Z
@@ -16,7 +16,8 @@ dateCreated: 2025-03-25T20:09:44.063Z
 
 ## Past
 
-* March 2025 [Seattle](/atmosphereconf/seattle2025/)
+* [Seattle *March 2025*](/atmosphereconf/seattle2025/)
+{.links-list}
 
 ## Frequently Asked Questions
 
