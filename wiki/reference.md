@@ -1,8 +1,8 @@
 ---
 title: Protocol Reference
-description: to do
+description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-28T04:48:47.383Z
+date: 2025-03-28T04:51:52.699Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
