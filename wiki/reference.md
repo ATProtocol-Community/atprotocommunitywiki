@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-28T05:23:53.296Z
+date: 2025-03-28T05:24:25.309Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -32,7 +32,7 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [AT URIs](/en/wiki/reference/identifiers/at-uri)
 - [DID:PLC](/en/wiki/reference/identifiers/did:plc)
 - [DID:WEB](/en/wiki/reference/identifiers/did:web)
-- [Record keys (rkeys)](/en/wiki/reference/identifiers/rkey)
+- [Record Keys (rkeys)](/en/wiki/reference/identifiers/rkey)
 {.links-list}
 
 ## Networking
