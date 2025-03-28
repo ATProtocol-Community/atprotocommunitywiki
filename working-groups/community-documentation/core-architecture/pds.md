@@ -2,7 +2,7 @@
 title: Personal Data Server (PDS)
 description: User repository and entry point
 published: true
-date: 2025-03-28T01:54:39.169Z
+date: 2025-03-28T01:57:24.176Z
 tags: wiki, documentation, core architecture
 editor: markdown
 dateCreated: 2025-03-28T01:33:09.565Z
@@ -18,7 +18,7 @@ PDSes are designed to be lightweight and modular. A single PDS can host anywhere
 ### Account and Identity Management
 PDSes handle the complete lifecycle of user accounts, from creation through deletion or migration. They manage account security through email verification, password reset flows, and email change processes. 
 
-PDSes resolve and maintain the connection between a user's [handle](/en/working-groups/community-documentation/identifiers/DID) and [Decentralized Identifier (DID)](/en/working-groups/community-documentation/identifiers/DID), and often manage a default handle namespace (base domain) for its users. 
+PDSes resolve and maintain the connection between a user's [handle](/en/working-groups/community-documentation/identifiers/handle) and [Decentralized Identifier (DID)](/en/working-groups/community-documentation/identifiers/DID), and often manage a default handle namespace (base domain) for its users. 
 
 PDSes handle the user's cryptographic keys - both the AT Protocol [signing key](/en/working-groups/community-documentation/cryptography/signing-key) used to authenticate repository changes, and the [PLC](/en/working-groups/community-documentation/identifiers/DID:PLC) [rotation key](/en/working-groups/community-documentation/cryptography/rotation-key) used for identity operations. It implements the necessary cryptographic operations to generate keys, sign data, and validate signatures according to the protocol's specifications. 
 
