@@ -2,7 +2,7 @@
 title: ATgeo Experiments
 description: Write ups on product loops and experiments around ATgeo
 published: true
-date: 2025-03-28T23:38:14.695Z
+date: 2025-03-28T23:46:10.548Z
 tags: atgeo
 editor: markdown
 dateCreated: 2025-03-28T23:03:45.107Z
@@ -42,7 +42,7 @@ Instructions for devs to do a PR to add support for display / interaction in "pi
 
 ## App
 
-The home page is a map view showing the last N pins + native geo items (so: we're running a backend service that fetches pins + records with native geo lexicon support).
+The home page is a map view showing the last N markers + native geo items (so: we're running a backend service that fetches pins + records with native geo lexicon support).
 
 You can login via OAuth and get access to:
 
@@ -50,7 +50,7 @@ You can login via OAuth and get access to:
 * Listing your markers
 * Deleting your markers
 
-* Making "maps" which are collections of pins (e.g. Places that serve great Lahksa in Vancouver, Places I took Pictures Last Week, etc)
+* Making "maps" which are collections of markers (e.g. Places that serve great Lahksa in Vancouver, Places I took Pictures Last Week, etc)
 	* we may need to do this as a complete example / purpose --> make markers of things and collect them on a map
   
 ### Creating a New Pin
