@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: to do
 published: true
-date: 2025-03-28T04:13:47.082Z
+date: 2025-03-28T04:15:25.447Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -23,14 +23,16 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [Labelers](/en/wiki/opinionated-services/labelers)
 {.links-list}
 
-## Data
-- [Blobs](/en/wiki/reference/data/blobs)
-- [Records](/en/wiki/reference/data/records)
-- [Merkle Search Tree (MST)](/en/wiki/reference/data/mst)
-- [Lexicons](/en/wiki/guides/lexicons)
-- [CAR File Format](/en/wiki/reference/data/car-files)
-- [Collection](/en/wiki/reference/data/collection)
-- [Data Repositories](/en/wiki/reference/data/repositories)
+## Identifiers
+- [Handles](/en/wiki/reference/identifiers/handles)
+- [Decentralized Identifiers (DIDs)](/en/wiki/reference/identifiers/did)
+- [Content Identifiers (CIDs)](/en/wiki/reference/identifiers/cid)
+- [Namespaced Identifiers (NSIDs)](/en/wiki/reference/identifiers/nsid)
+- [Timestamp Identifiers (TIDs)](/en/wiki/reference/identifiers/tid)
+- [AT URIs](/en/wiki/reference/identifiers/at-uri)
+- [DID:PLC](/en/wiki/reference/identifiers/did:plc)
+- [DID:WEB](/en/wiki/reference/identifiers/did:web)
+- [Record keys (rkeys)](/en/wiki/reference/identifiers/rkey)
 {.links-list}
 
 ## Networking
@@ -43,6 +45,17 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [Jetstream](/en/wiki/reference/networking/jetstream)
 {.links-list}
 
+## Data
+- [Blobs](/en/wiki/reference/data/blobs)
+- [Records](/en/wiki/reference/data/records)
+- [Merkle Search Tree (MST)](/en/wiki/reference/data/mst)
+- [Lexicons](/en/wiki/guides/lexicons)
+- [CAR File Format](/en/wiki/reference/data/car-files)
+- [Collection](/en/wiki/reference/data/collection)
+- [Data Repositories](/en/wiki/reference/data/repositories)
+{.links-list}
+
+
 ## Cryptography
 - [Rotation keys](/en/wiki/reference/cryptography/rotation-keys)
 - [Signing keys](/en/wiki/reference/cryptography/signing-keys)
@@ -50,14 +63,3 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [NIST K256](/en/wiki/reference/cryptography/k256)
 {.links-list}
 
-## Identifiers
-- [Handles](/en/wiki/reference/identifiers/handles)
-- [Decentralized Identifiers (DIDs)](/en/wiki/reference/identifiers/did)
-- [Content Identifiers (CIDs)](/en/wiki/reference/identifiers/cid)
-- [Namespaced Identifiers (NSIDs)](/en/wiki/reference/identifiers/nsid)
-- [Timestamp Identifiers (TIDs)](/en/wiki/reference/identifiers/tid)
-- [AT URIs](/en/wiki/reference/identifiers/at-uri)
-- [DID:PLC](/en/wiki/reference/identifiers/did:plc)
-- [DID:WEB](/en/wiki/reference/identifiers/did:web)
-- [Record keys (rkeys)](/en/wiki/reference/identifiers/rkey)
-{.links-list}
