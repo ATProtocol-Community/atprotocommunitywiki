@@ -2,7 +2,7 @@
 title: Grupo de Trabalho de Documentação Comunitária
 description: Discussões sobre documentação mantida pela comunidade, incluindo esta wiki
 published: true
-date: 2025-03-27T23:15:20.639Z
+date: 2025-03-28T21:26:04.557Z
 tags: wiki, documentation, working group
 editor: markdown
 dateCreated: 2025-03-27T06:20:26.911Z
@@ -14,6 +14,7 @@ Participantes
 * Boris [@bmann.ca](https://bsky.app/profile/bmann.ca)
 * Baldemoto [@baldemo.to](https://bsky.app/profile/baldemo.to)
 * Victoria [@vicwalker.bsky.social](https://bsky.app/profile/vicwalker.bsky.social)
+* Silvern [@silvernskye.bsky.social](https://bsky.app/profile/silvernskye.bsky.social)
 
 Recursos
 * este site!
