@@ -2,7 +2,7 @@
 title: ATGeo
 description: Geo, venue, and general location and gis data for ATProto
 published: true
-date: 2025-03-27T18:43:14.130Z
+date: 2025-03-29T01:05:00.203Z
 tags: working group, atgeo, gis
 editor: markdown
 dateCreated: 2025-03-27T18:33:13.710Z
@@ -38,6 +38,7 @@ Backend, commons infrastructure servers will be run for at least a year to start
 > If you are a developer intending to / wanting support to implement the ATgeo lexicons, please list your bsky handle, your app name, and a source code git link or other relevant links.
 {.is-success}
 
+* Schuyler [@schuyler.info](https//bsky.app/profile/schuyler.info), [Garganorn](https://github.com/schuyler/garganorn)
 * Your Name [@example.com](https://bsky.app/profile/example.com), Your App Name, github.com/you/yourapp
 
 
