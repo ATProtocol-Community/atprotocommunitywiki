@@ -2,7 +2,7 @@
 title: AT Protocol Community Wiki
 description: Homepage of the AT Protocol Community Wiki
 published: true
-date: 2025-03-29T18:31:38.104Z
+date: 2025-03-30T03:43:00.350Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T06:48:14.149Z
@@ -19,7 +19,7 @@ Please join the [Community Documentation Working Group](/working-groups/communit
 ## Updates
 
 <!-- Is there a way of showing recently updated pages? -->
-* The recent [ATmosphereConf Seattle 2025 here](/atmosphereconf/seattle2025/) has notes and transcripts here
+* The recent [ATmosphereConf Seattle 2025](/atmosphereconf/seattle2025/) has notes and transcripts here
 * This is a fresh install of [WikiJS](/wikijs). That link contains some meta information about the setup here, as well wishlists for features like Login with ATProto
 
 
