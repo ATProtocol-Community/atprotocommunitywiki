@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-28T05:24:25.309Z
+date: 2025-03-31T22:06:02.741Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -18,9 +18,9 @@ dateCreated: 2025-03-28T03:33:21.144Z
 {.links-list}
 
 ## Opinionated Services
-- [Feed Generators](/en/wiki/opinionated-services/feed-generators)
-- [Labels](/en/wiki/opinionated-services/labels)
-- [Labelers](/en/wiki/opinionated-services/labelers)
+- [Feed Generators](/en/wiki/reference/opinionated-services/feed-generators)
+- [Labels](/en/wiki/reference/opinionated-services/labels)
+- [Labelers](/en/wiki/reference/opinionated-services/labelers)
 {.links-list}
 
 ## Identifiers
