@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-31T22:09:56.812Z
+date: 2025-03-31T22:18:13.709Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -14,7 +14,7 @@ dateCreated: 2025-03-28T03:33:21.144Z
 
 - [AppViews](/en/wiki/reference/core-architecture/appview)
 - [Personal Data Servers *User repository and network entry point*](/en/wiki/reference/core-architecture/pds)
-- [Relays](/en/wiki/reference/core-architecture/relay)
+- [Relays](/en/wiki/reference/core-architecture/relay) 
 {.links-list}
 
 ## Opinionated Services
