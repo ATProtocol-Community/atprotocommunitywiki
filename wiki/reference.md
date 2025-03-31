@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-31T22:06:02.741Z
+date: 2025-03-31T22:09:56.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -30,8 +30,8 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [Namespaced Identifiers (NSIDs)](/en/wiki/reference/identifiers/nsid)
 - [Timestamp Identifiers (TIDs)](/en/wiki/reference/identifiers/tid)
 - [AT URIs](/en/wiki/reference/identifiers/at-uri)
-- [DID:PLC](/en/wiki/reference/identifiers/did:plc)
-- [DID:WEB](/en/wiki/reference/identifiers/did:web)
+- [DID:PLC](/en/wiki/reference/identifiers/did-plc)
+- [DID:WEB](/en/wiki/reference/identifiers/did-web)
 - [Record Keys (rkeys)](/en/wiki/reference/identifiers/rkey)
 {.links-list}
 
