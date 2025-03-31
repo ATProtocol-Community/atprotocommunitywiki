@@ -2,7 +2,7 @@
 title: What is required to make a PDS implementation?
 description: 
 published: true
-date: 2025-03-31T20:00:11.627Z
+date: 2025-03-31T20:00:47.473Z
 tags: pds
 editor: markdown
 dateCreated: 2025-03-31T20:00:11.627Z
@@ -10,7 +10,7 @@ dateCreated: 2025-03-31T20:00:11.627Z
 
 # What is required to make a PDS implementation?
 
-See [existing PDS implementations](wiki/reference/community/implementations/pds-implementations).
+See [existing PDS implementations](/wiki/reference/community/implementations/pds-implementations).
 
 This [Github thread from July 2024](https://github.com/bluesky-social/atproto/discussions/2644) had a long answer by Bryan Newbold that is included below:
 
