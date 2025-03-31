@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Notes and discussion around WikiJS and this install in particular
 published: true
-date: 2025-03-31T00:41:58.257Z
+date: 2025-03-31T00:42:33.306Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-25T20:25:09.180Z
@@ -14,7 +14,9 @@ Notes and discussion about this WikiJS application and this install in particula
 
 ## Change Log
 
-* March 30th. 2025: added the bsky post embed code to the header of all pages, see [Natalie's Login](https://wiki.atprotocol.community/en/login-with-atproto) for example.
+### March 30th. 2025
+
+Added the bsky post embed code to the header of all pages, see [Natalie's Login](/login-with-atproto) for example.
 
 
 ## Installation
