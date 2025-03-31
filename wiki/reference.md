@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-31T22:18:13.709Z
+date: 2025-03-31T22:18:30.069Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -49,7 +49,7 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [Blobs](/en/wiki/reference/data/blobs)
 - [Records](/en/wiki/reference/data/records)
 - [Merkle Search Tree (MST)](/en/wiki/reference/data/mst)
-- [Lexicons](/en/wiki/guides/lexicons)
+- [Lexicons](/en/wiki/reference/lexicons)
 - [CAR File Format](/en/wiki/reference/data/car-files)
 - [Collection](/en/wiki/reference/data/collection)
 - [Data Repositories](/en/wiki/reference/data/repositories)
