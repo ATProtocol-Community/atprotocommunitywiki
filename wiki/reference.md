@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-03-31T22:18:30.069Z
+date: 2025-04-01T16:38:56.272Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -43,6 +43,7 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [WebSocket](/en/wiki/reference/networking/websocket)
 - [XPRC](/en/wiki/reference/networking/xprc)
 - [Jetstream](/en/wiki/reference/networking/jetstream)
+- [Session](/en/wiki/reference/networking/session)
 {.links-list}
 
 ## Data
