@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Notes, talks, and other artifacts from the ATmosphereConf Seattle event held in March 2025
 published: true
-date: 2025-03-28T13:24:28.423Z
+date: 2025-04-04T17:04:00.512Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-25T19:45:22.665Z
@@ -96,7 +96,7 @@ We have a [feedback page](/atmosphereconf/seattle2025/feedback) where you can le
 | 11:30-12:45 | Video on ATProto (Sprk, Skylight, Stream.place) |
 | 14:00-15:00 | ATProto and ActivityPub (Darius) |
 | 15:00-16:00 | Free Our Feeds (Marc) |
-| 16:00-17:30 | IndieSky & more (bnewbold) |
+| 16:00-17:30 | [IndieSky & more (bnewbold)](/atmosphereconf/seattle2025/indiesky) |
 
 #### Bluesky Room - Group Discussions
 
