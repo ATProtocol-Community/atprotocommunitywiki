@@ -2,7 +2,7 @@
 title: IndieSky Europe
 description: One day working session on discussing independent AT Protocol infrastructure for Europe
 published: true
-date: 2025-04-04T17:34:36.172Z
+date: 2025-04-04T17:36:02.105Z
 tags: notes, indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:34:36.172Z
@@ -11,7 +11,7 @@ dateCreated: 2025-04-04T17:34:36.172Z
 # Indie Sky Europe
 
 * April 25th, 2025
-* Register
+* [Register](https://lu.ma/398odzkj)
 
 One day working session on discussing independent AT Protocol infrastructure for Europe. Day after [Ahoy](https://ahoy.eu) in Hamburg, Germany.
 
