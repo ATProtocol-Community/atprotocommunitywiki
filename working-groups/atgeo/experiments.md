@@ -2,7 +2,7 @@
 title: ATgeo Experiments
 description: Write ups on product loops and experiments around ATgeo
 published: true
-date: 2025-03-28T23:46:10.548Z
+date: 2025-04-05T01:09:42.529Z
 tags: atgeo
 editor: markdown
 dateCreated: 2025-03-28T23:03:45.107Z
@@ -72,3 +72,7 @@ Non prioritized other ideas :P
 * choose style / image / emoji / colour of marker
 * Liking markers and/or a like happening on the item it contains?
 * Search markers (I guess this appview style aggregation?)
+
+### Privacy & Security Questions
+* Is there a permissions model to control who is authorized to annotate a post/object?
+* Might markers have similar semantics to Quote posts and being able to detatch posts from markers?
