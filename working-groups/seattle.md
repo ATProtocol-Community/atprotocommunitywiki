@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-06T20:11:33.776Z
+date: 2025-04-06T20:23:06.914Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -24,7 +24,7 @@ Scheduled meetings:
 
 ## on Discord
 
-Join the social discord server: https://discord.gg/XSp9sfk5qH
+Join the social discord server: https://discord.gg/VwHsHrb3K8
 
 And find our channel [#us-sea](https://discord.com/channels/1347767186223136868/1353771383645143212)
 
