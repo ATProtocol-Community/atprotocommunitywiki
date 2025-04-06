@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-06T18:07:33.669Z
+date: 2025-04-06T18:41:03.055Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -21,7 +21,13 @@ Scheduled meetings:
 
 # Location
 
-## `/dev/hack`
+### on Discord
+
+Join the social discord server: https://discord.gg/XSp9sfk5qH
+
+And find our channel [#us-sea](https://discord.com/channels/1347767186223136868/1353771383645143212)
+
+### realspace: `/dev/hack`
 Seattle Atmosphere Working Group meets in the space shared by [`/dev/hack`](https://devhack.net/) and [Seattle Community Networks](https://seattlecommunitynetwork.org/)
 
 The address is:
