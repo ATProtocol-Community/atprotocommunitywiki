@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-06T18:41:28.796Z
+date: 2025-04-06T20:11:33.776Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -13,11 +13,12 @@ Our current schedule:
 
 - Wednesday, `/dev/hack`, 6-8pm
 
-There has been discussion of meeting other times and locations, but nothing has been scheduled.
+Calendar: https://lu.ma/atproto-sea. Please sign up for events!
 
 Scheduled meetings:
 - April 9, https://lu.ma/yatys6a1
 - April 2, https://lu.ma/xooeu6am
+- March 26, https://lu.ma/748qtt08
 
 # Location
 
