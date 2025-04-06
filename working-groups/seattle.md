@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-06T20:29:04.434Z
+date: 2025-04-06T20:36:16.387Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -55,12 +55,10 @@ For more details: https://wiki.devhack.net/Entrance
 Seattle Community Network and `/dev/hack` are hosting our meetings, and I would like to call out their membership and donation pages. Thank you!
 
 ### `/dev/hack`
-- general:
-- membership:
-- sponsorship:
+- general: https://devhack.net/
 
 ### Seattle Community Network
-- general:
-- membership:
-- sponsorship:
+- general: https://seattlecommunitynetwork.org/
+- membership: https://docs.seattlecommunitynetwork.org/community/join/
+- sponsorship: https://seattlecommunitynetwork.org/donate.html
 
