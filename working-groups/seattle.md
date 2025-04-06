@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-03-27T17:26:36.756Z
+date: 2025-04-06T18:07:33.669Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -16,6 +16,7 @@ Our current schedule:
 There has been discussion of meeting other times and locations, but nothing has been scheduled.
 
 Scheduled meetings:
+- April 9, https://lu.ma/yatys6a1
 - April 2, https://lu.ma/xooeu6am
 
 # Location
