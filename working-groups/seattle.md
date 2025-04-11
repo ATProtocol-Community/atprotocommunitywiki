@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-06T20:36:43.377Z
+date: 2025-04-11T03:41:57.263Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
