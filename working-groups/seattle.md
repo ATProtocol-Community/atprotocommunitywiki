@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-11T18:33:42.898Z
+date: 2025-04-11T18:38:35.985Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -40,8 +40,11 @@ The address is:
 
 For details: https://wiki.devhack.net/Directions
 
-> **4534½ University Way NE, Seattle, WA 98105**
-{.is-alert}
+> **Unfortunately animals are not allowed in the space, no matter how brief the period.**
+>
+> Please see the [Animals](https://wiki.devhack.net/Animals) and [Accessibility](https://wiki.devhack.net/Accessibility) for further details.
+{.is-warning}
+
 
 # Entrance
 The black metal gate is usually locked.
