@@ -2,7 +2,7 @@
 title: Seattle Atmosphere Working Group
 description: Atmosphere-curious developers in Seattle working together on interesting projects
 published: true
-date: 2025-04-11T18:38:35.985Z
+date: 2025-04-11T18:46:41.269Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T17:15:52.207Z
@@ -42,7 +42,7 @@ For details: https://wiki.devhack.net/Directions
 
 > **Unfortunately animals are not allowed in the space, no matter how brief the period.**
 >
-> Please see the [Animals](https://wiki.devhack.net/Animals) and [Accessibility](https://wiki.devhack.net/Accessibility) for further details.
+> Please see the [Animals](https://wiki.devhack.net/Animals) for further details.
 {.is-warning}
 
 
@@ -54,7 +54,7 @@ The black metal gate is usually locked.
 
 We will keep it open for a little bit before the start of the meeting. Once we get started, if you have trouble getting in, please ping in the Seattle Discord room.
 
-For more details: https://wiki.devhack.net/Entrance
+For more details: [Entrance](https://wiki.devhack.net/Entrance) and [Accessibility](https://wiki.devhack.net/Accessibility).
 
 # Sponsors
 
