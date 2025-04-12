@@ -2,8 +2,8 @@
 title: Personal Data Server (PDS)
 description: User repository and network entry point
 published: true
-date: 2025-03-28T04:27:46.086Z
-tags: wiki, documentation, core architecture
+date: 2025-04-12T18:53:05.564Z
+tags: wiki, documentation, pds, core architecture
 editor: markdown
 dateCreated: 2025-03-28T01:33:09.565Z
 ---
