@@ -2,7 +2,7 @@
 title: Working Groups
 description: A list of community working groups on ATProto
 published: true
-date: 2025-03-27T16:47:35.174Z
+date: 2025-04-12T18:09:36.946Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-26T22:56:45.381Z
@@ -24,6 +24,7 @@ dateCreated: 2025-03-26T22:56:45.381Z
 * [Community Documentation](/working-groups/community-documentation)
 * [E2EE Messaging](/working-groups/e2ee)
 * [Private Data](/working-groups/private-data)
+* [IndieSky](/working-groups/indiesky/)
 
 # Regional Working Groups
 
