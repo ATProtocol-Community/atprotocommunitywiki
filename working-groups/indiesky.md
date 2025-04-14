@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-04-12T19:08:05.684Z
+date: 2025-04-14T01:25:18.880Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -43,6 +43,8 @@ TBD
 ## Moderation
 
 Jurisdictional or mission aligned moderation, and the possibility to not have Bluesky Default Moderation, would be the features provided.
+
+Related, account level banning is distributed with a message (citation needed, and separate mod services may ban for separate reasons). For server level blocks, [PDS Banlist](/wiki/reference/pds-banlist) needs an approach to sharing.
 
 ## Feeds
 
