@@ -2,7 +2,7 @@
 title: Grupos de Trabalho
 description: Uma lista de grupos de trabalho da comunidade no ATProto
 published: true
-date: 2025-03-27T21:48:00.621Z
+date: 2025-04-15T14:49:56.393Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T09:29:25.391Z
@@ -24,6 +24,7 @@ dateCreated: 2025-03-27T09:29:25.391Z
 * [Documentação Comunitária](/working-groups/community-documentation)
 * [Mensagens com E2EE](https://wiki.atprotocol.community/en/working-groups/e2ee)
 * [Dados Privados](https://wiki.atprotocol.community/en/working-groups/private-data)
+* [IndieSky](/working-groups/indiesky/)
 
 # Grupos de Trabalho Regionais
 
