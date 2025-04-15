@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Anotações, palestras e outros artefatos do evento ATmosphereConf Seattle, realizado em março de 2025
 published: true
-date: 2025-03-27T22:43:27.539Z
+date: 2025-04-15T15:59:00.633Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-27T08:56:54.761Z
@@ -37,30 +37,30 @@ Nós temos uma [página de feedback](https://wiki.atprotocol.community/en/atmosp
 |-------------|------------------|
 | 09:00-09:30 | Portas Abertas |
 | 09:30-09:45 | Abertura do evento |
-| 09:45-10:30 | [Network Punk: Welcome to the Jungle (Blaine Cook)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/networkpunk) |
+| 09:45-10:30 | [Network Punk: Welcome to the Jungle (Blaine Cook)](/en/atmosphereconf/seattle2025/networkpunk) |
 | 10:30-10:45 | Pausa para Café |
-| 10:45-11:30 | [De onde viemos; para onde iremos (Paul Frazee)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/where-did-we-come-from) |
-| 11:30-12:15 | [Smoke Signal, uma jornada na construção de ecossistemas abertos para comunidades (Nick Gerakines)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/smoke-signal) |
-| 12:15-12:30 | [Fundo Skyseed (Peter Wang)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/skyseed-fund) |
-| 12:30-12:45 | [Comentários da Jay Graber](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/jay-graber-remarks) |
+| 10:45-11:30 | [De onde viemos; para onde iremos (Paul Frazee)](/en/atmosphereconf/seattle2025/where-did-we-come-from) |
+| 11:30-12:15 | [Smoke Signal, uma jornada na construção de ecossistemas abertos para comunidades (Nick Gerakines)](/en/atmosphereconf/seattle2025/smoke-signal) |
+| 12:15-12:30 | [Fundo Skyseed (Peter Wang)](/en/atmosphereconf/seattle2025/skyseed-fund) |
+| 12:30-12:45 | [Comentários da Jay Graber](/en/atmosphereconf/seattle2025/jay-graber-remarks) |
 | 12:30-14:00 | Intervalo de Almoço |
-| 14:00-14:45 | [Atproto Ethos (Daniel Holmgren)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/atproto-ethos) |
-| 14:45-15:00 | [Todos os protocolos, comparados (Ryan Barrett)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/all-protocols-compared) |
-| 15:00-15:15 | [Ferramentas da Fedica para análise e descobertas no Bluesky (Samir Al-Battran)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/fedica) |
-| 15:15-15:30 | [NÃO RESPONDA A ESTA PALESTRA (Dan Hon)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/do-not-reply) |
+| 14:00-14:45 | [Atproto Ethos (Daniel Holmgren)](/en/atmosphereconf/seattle2025/atproto-ethos) |
+| 14:45-15:00 | [Todos os protocolos, comparados (Ryan Barrett)](/en/atmosphereconf/seattle2025/all-protocols-compared) |
+| 15:00-15:15 | [Ferramentas da Fedica para análise e descobertas no Bluesky (Samir Al-Battran)](/en/atmosphereconf/seattle2025/fedica) |
+| 15:15-15:30 | [NÃO RESPONDA A ESTA PALESTRA (Dan Hon)](/en/atmosphereconf/seattle2025/do-not-reply) |
 | 15:30-16:00 | Intervalo |
-| 16:00-16:15 | [Além do Skeet: O Potencial do ATProto para Preservação Digital e Direitos Humanos (Michelle Lee)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/beyond-the-skeet) |
-| 16:15-16:30 | [Comind: A camada cognitiva para ATProto, Cameron Pfiffer](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/comind) |
-| 16:30-16:45 | [Composição do protocolo: expandindo o atproto para dados privados (Rashid Aziz)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/protocol-composition) |
-| 16:45-17:30 | [Ansiando por Protocolos Abertos (Ms. Boba)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/yearning-for-the-open-protocols) |
+| 16:00-16:15 | [Além do Skeet: O Potencial do ATProto para Preservação Digital e Direitos Humanos (Michelle Lee)](/en/atmosphereconf/seattle2025/beyond-the-skeet) |
+| 16:15-16:30 | [Comind: A camada cognitiva para ATProto, Cameron Pfiffer](/en/atmosphereconf/seattle2025/comind) |
+| 16:30-16:45 | [Composição do protocolo: expandindo o atproto para dados privados (Rashid Aziz)](/en/atmosphereconf/seattle2025/protocol-composition) |
+| 16:45-17:30 | [Ansiando por Protocolos Abertos (Ms. Boba)](/en/atmosphereconf/seattle2025/yearning-for-the-open-protocols) |
 | 17:15-17:30 | Encerramento do Dia 1 |
 
 #### Sala Streamplace - Grupos de Discussões
 
 | **Horário**        | **Grupo de Discussão** |
 |-------------|------------------------------------------|
-| 14:00-15:00 | [IA no ATproto (mediado por Cameron Pfiffer)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/ai-atproto) |
-| 15:00-16:30 | [Dados Privados (mediado por Georgia Bullen e Boris Mann)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/private-data) |
+| 14:00-15:00 | [IA no ATproto (mediado por Cameron Pfiffer)](/en/atmosphereconf/seattle2025/ai-atproto) |
+| 15:00-16:30 | [Dados Privados (mediado por Georgia Bullen e Boris Mann)](/en/atmosphereconf/seattle2025/private-data) |
 | 16:30-17:30 | Comunidade de Lexicon (mediado por Nick Gerakines) |
 
 
@@ -72,21 +72,21 @@ Nós temos uma [página de feedback](https://wiki.atprotocol.community/en/atmosp
 |-------------|-----------------|
 | 09:00-09:30 | Portas Abertas |
 | 09:30-09:45 | Abertura do evento |
-| 09:45-10:30 | [Pessoas Nas Plataformas: Uma Atualização da Pesquisa (Erin Kissane)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/people-in-platforms) |
+| 09:45-10:30 | [Pessoas Nas Plataformas: Uma Atualização da Pesquisa (Erin Kissane)](/en/atmosphereconf/seattle2025/people-in-platforms) |
 | 10:30-10:45 | Pausa para Café |
-| 10:45-11:30 | [Além de Carruagens Sem Cavalos: Construindo Comunidades para a Era Descentralizada (Rudy Fraser)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/beyond-horseless-carriages) |
-| 11:30-12:15 | [A Forma dos Aplicativos que Virão (Devin Ivy)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/shape-of-apps) |
-| 12:15-12:30 | [Free Our Feeds: Desenvolvendo infra, ecossistema e governança no AT (Marc Faddoul)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/free-our-feeds) |
-| 12:30-12:45 | [Pontes e o Último Efeito de Rede (Anuj Ahooja)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/bridges) |
+| 10:45-11:30 | [Além de Carruagens Sem Cavalos: Construindo Comunidades para a Era Descentralizada (Rudy Fraser)](/en/atmosphereconf/seattle2025/beyond-horseless-carriages) |
+| 11:30-12:15 | [A Forma dos Aplicativos que Virão (Devin Ivy)](/en/atmosphereconf/seattle2025/shape-of-apps) |
+| 12:15-12:30 | [Free Our Feeds: Desenvolvendo infra, ecossistema e governança no AT (Marc Faddoul)](/en/atmosphereconf/seattle2025/free-our-feeds) |
+| 12:30-12:45 | [Pontes e o Último Efeito de Rede (Anuj Ahooja)](/en/atmosphereconf/seattle2025/bridges) |
 | 12:45-14:00 | Intervalo de Almoço |
-| 14:00-14:45 | [Apoiando e expandindo o desenvolvimento do ATProto em 2025 e além (Ændra Rininsland)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/supporting-growing-atproto) |
-| 14:45-15:30 | [Reduzindo a escala do atproto e aumentando de novo (phil)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/scaling-atproto) |
+| 14:00-14:45 | [Apoiando e expandindo o desenvolvimento do ATProto em 2025 e além (Ændra Rininsland)](/en/atmosphereconf/seattle2025/supporting-growing-atproto) |
+| 14:45-15:30 | [Reduzindo a escala do atproto e aumentando de novo (phil)](/en/atmosphereconf/seattle2025/scaling-atproto) |
 | 15:30-16:00 | Intervalo |
-| 16:00-16:15 | [Apresentando Roost: Ferramentas de Segurança Online Robustas e Abertas (Christopher DiBona)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/introducing-roost) |
-| 16:15-16:30 | [Contos sobre Adicionando oAuth “Login com Bsky” a uma Ferramenta de Comentários do Sistema Operacional (Jessie Rushing)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/adding-oauth) |
-| 16:30-16:45 | [PMsky: Habilitando a Moderação por Pares no Bluesky (Drew McArthur)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/pmsky) |
-| 16:45-17:00 | [Jardinagem de Mensagens na Atmosfera com Roomy.Chat (Zeu Capua)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/message-gardening) |
-| 17:00-17:15 | [Trazendo Backups QUENTES para o Bluesky (Travis Vachon)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/bringing-hot-backups) |
+| 16:00-16:15 | [Apresentando Roost: Ferramentas de Segurança Online Robustas e Abertas (Christopher DiBona)](/en/atmosphereconf/seattle2025/introducing-roost) |
+| 16:15-16:30 | [Contos sobre Adicionando oAuth “Login com Bsky” a uma Ferramenta de Comentários do Sistema Operacional (Jessie Rushing)](/en/atmosphereconf/seattle2025/adding-oauth) |
+| 16:30-16:45 | [PMsky: Habilitando a Moderação por Pares no Bluesky (Drew McArthur)](/en/atmosphereconf/seattle2025/pmsky) |
+| 16:45-17:00 | [Jardinagem de Mensagens na Atmosfera com Roomy.Chat (Zeu Capua)](/en/atmosphereconf/seattle2025/message-gardening) |
+| 17:00-17:15 | [Trazendo Backups QUENTES para o Bluesky (Travis Vachon)](/en/atmosphereconf/seattle2025/bringing-hot-backups) |
 | 17:15-17:30 | Encerramento do Dia 2 |
 
 #### Sala Streamplace - Grupos de Discussões
@@ -102,7 +102,7 @@ Nós temos uma [página de feedback](https://wiki.atprotocol.community/en/atmosp
 
 | **Horário**        | **Grupo de Discussão** |
 |-------------|------------------------------------------|
-| 11:30-12:30 | [ATGeo (Nick e Boris)](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/atgeo) |
+| 11:30-12:30 | [ATGeo (Nick e Boris)](/en/atmosphereconf/seattle2025/atgeo) |
 | 14:00-15:00 | Micropagamentos (Georgia) |
 | 15:00-16:30 | Construindo novos serviços (Ms. Boba) |
 | 16:30-17:30 | Criando Cooperativas Tecnológicas (maxine.science) |
