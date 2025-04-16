@@ -2,7 +2,7 @@
 title: IndieSky Europe
 description: One day working session on discussing independent AT Protocol infrastructure for Europe
 published: true
-date: 2025-04-05T18:02:43.620Z
+date: 2025-04-16T13:21:48.057Z
 tags: notes, indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:34:36.172Z
@@ -33,6 +33,14 @@ From co-operatives, to commons infrastructure, to small business software builde
 
 * Boris Mann
 
+## Academic social links
+What happened to the academic origin of the internet (1960)
+- Torsten Goerke
+	- Long-form scientific writing on ATproto
+	- Building AI agents in the athmosphere
+	- data.cubes.blue (PDS) <-> Datacite / DOI
+	- social.cubes.blue <-> self-hosting movement
+  
 ## Add Your Topic
 
 *Describe what you want to discuss*
