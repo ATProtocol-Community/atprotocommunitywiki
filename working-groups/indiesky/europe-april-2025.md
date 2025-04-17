@@ -2,7 +2,7 @@
 title: IndieSky Europe
 description: One day working session on discussing independent AT Protocol infrastructure for Europe
 published: true
-date: 2025-04-16T13:21:48.057Z
+date: 2025-04-17T08:28:57.960Z
 tags: notes, indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:34:36.172Z
@@ -32,6 +32,10 @@ Independent infrastructure for Europe.
 From co-operatives, to commons infrastructure, to small business software builders, to venture scale startups, what are the paths to funding and business models?
 
 * Boris Mann
+
+Are there any opportunities in the EU's research programmes?
+
+* Mathew Lowry
 
 ## Academic social links
 What happened to the academic origin of the internet (1960)
