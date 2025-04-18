@@ -2,7 +2,7 @@
 title: Bluesky Third Party Clients
 description: Alternate clients that render Bluesky microblogs
 published: true
-date: 2025-04-16T14:16:06.979Z
+date: 2025-04-18T12:35:44.047Z
 tags: bluesky
 editor: markdown
 dateCreated: 2025-04-16T09:29:47.157Z
@@ -23,10 +23,17 @@ https://useouranos.app
 
 https://deck.blue/
 
+* multi-column views
+* rich text links
+
 ## Deer Social
 
 https://deer.social/
-* Fork of 
+
+* Fork of main bsky web code
+* can toggle core moderators
+* set geo location (for geo based moderation)
+* can see through nuclear blocks
 
 ## SkyFeed
 
