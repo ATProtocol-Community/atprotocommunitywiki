@@ -2,7 +2,7 @@
 title: Private Data Working Group
 description: Private data working group
 published: true
-date: 2025-04-17T00:28:12.415Z
+date: 2025-04-19T15:30:34.912Z
 tags: working group, private data
 editor: markdown
 dateCreated: 2025-03-27T15:40:37.235Z
@@ -44,6 +44,22 @@ See [Private Data](https://wiki.atprotocol.community/en/atmosphereconf/seattle20
 ## Existing Bluesky Team Comments
 
 TODO: grab github threads and link / summarize here
+
+
+# Proposals
+
+## Private Blob
+
+Access-Controlled Blobs via Signed URLs by Nick Gerakines
+
+https://bsky.app/profile/ngerakines.me/post/3ln6flb7r7s2s
+
+https://gist.github.com/ngerakines/f50c17a2c2d50d67c0276aa54147ab22
+
+> This proposal introduces a mechanism for gating access to blob content within ATProtocol. While blobs are traditionally public byte arrays accessible by anyone through a content identifier (CID), this extension enables access control by requiring signed URLs for protected blobs.
+
+
+
 
 
 
