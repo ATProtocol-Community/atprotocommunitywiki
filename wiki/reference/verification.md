@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T21:57:33.358Z
+date: 2025-04-21T22:01:50.828Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -16,6 +16,10 @@ Launched by Bluesky on April 21st [blog post](https://bsky.social/about/blog/04-
 * Trusted verifier orgs get a "scalloped blue checkmark" (see blog post)
 * The Bluesky app will display a blue checkmark for any account listed in a verification record posted by a Trusted Verifier org.
 * Trusted Verifiers are listed internally in Bluesky's AppView
+
+## Articles
+
+* Steve Klabnik https://steveklabnik.com/writing/thoughts-on-bluesky-verification/
 
 ## Third Party
 
