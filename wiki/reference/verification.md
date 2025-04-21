@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T18:27:56.691Z
+date: 2025-04-21T18:33:55.168Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -12,9 +12,10 @@ dateCreated: 2025-04-21T17:25:00.385Z
 
 Launched by Bluesky on April 21st [blog post](https://bsky.social/about/blog/04-21-2025-verification)
 
-* any account can publish verfication records
-* trusted verifier orgs get a "scalloped blue checkmark" (see blog post)
-* accounts which have a verification record pointing at them by a trusted verifier org will display a blue checkmark in the Bluesky app
+* Any account can publish verfication records (app.bsky.graph.verification lexicon)
+* Trusted verifier orgs get a "scalloped blue checkmark" (see blog post)
+* The Bluesky app will display a blue checkmark for any account listed in a verification record posted by a Trusted Verifier org.
+* Trusted Verifiers are listed internally in Bluesky's AppView
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3lndmggj6ns2s" data-bluesky-cid="bafyreigmqsnows45d3mk754dplqvzhvm6xnqtbyc5xvy2ydf42eejvo67m" data-bluesky-embed-color-mode="system"><p lang="en">You&#x27;re taking public marketing speak a bit too literally. Anyone can publish a verification record, its just our app chooses to display them just from a specific set of accounts for now.</p>&mdash; Why (<a href="https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys?ref_src=embed">@why.bsky.team</a>) <a href="https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/post/3lndmggj6ns2s?ref_src=embed">April 21, 2025 at 9:45 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
