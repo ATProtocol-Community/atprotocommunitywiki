@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T17:30:04.126Z
+date: 2025-04-21T18:19:30.463Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -41,3 +41,10 @@ Let's get Trezy's Game Industry Labeler trusted!
 Would be great to onboard him as a community verifier sooner rather than later.
 
 Tech talk here with background -&gt; atprotocol.dev/tech-talk-tr...<br><br><a href="https://bsky.app/profile/did:plc:2cxgdrgtsmrbqnjkwyplmp43/post/3lndnp4zrxc24?ref_src=embed">[image or embed]</a></p>&mdash; Boris (<a href="https://bsky.app/profile/did:plc:2cxgdrgtsmrbqnjkwyplmp43?ref_src=embed">@bmann.ca</a>) <a href="https://bsky.app/profile/did:plc:2cxgdrgtsmrbqnjkwyplmp43/post/3lndnp4zrxc24?ref_src=embed">April 21, 2025 at 10:08 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+# Tools
+
+Tracking verified accounts https://github.com/mmattbtw/bsky-verified-account-tracker
+
+https://bsky.app/profile/verified.pds.mmatt.net
+
