@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T21:29:12.548Z
+date: 2025-04-21T21:57:33.358Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -24,6 +24,18 @@ Deer Social https://deer.social already has an option to hide verified marks.
 ## Lexicon
 
 `app.bsky.graph.verification`
+
+Example:
+
+```
+{
+  "$type": "app.bsky.graph.verification",
+  "createdAt": "2025-04-21T10:44:20.398Z",
+  "displayName": "ESPN",
+  "handle": "espn.com",
+  "subject": "did:plc:x7d6j54pm22ufehkes6jo4jf"
+}
+```
 
 why publishing some verification records: https://atproto-browser.vercel.app/at/did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.graph.verification
 
