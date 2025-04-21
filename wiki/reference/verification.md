@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T22:01:50.828Z
+date: 2025-04-21T23:13:18.207Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -65,6 +65,45 @@ Would be great to onboard him as a community verifier sooner rather than later.
 
 Tech talk here with background -&gt; atprotocol.dev/tech-talk-tr...<br><br><a href="https://bsky.app/profile/did:plc:2cxgdrgtsmrbqnjkwyplmp43/post/3lndnp4zrxc24?ref_src=embed">[image or embed]</a></p>&mdash; Boris (<a href="https://bsky.app/profile/did:plc:2cxgdrgtsmrbqnjkwyplmp43?ref_src=embed">@bmann.ca</a>) <a href="https://bsky.app/profile/did:plc:2cxgdrgtsmrbqnjkwyplmp43/post/3lndnp4zrxc24?ref_src=embed">April 21, 2025 at 10:08 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
+
+### Verification Records in API Responses
+
+When retrieving a profile via the API (`app.bsky.actor.getProfile`), verified accounts and trusted verifiers contain a `verification` block in their profile response. The structure differs based on verification status:
+
+#### Regular Verified Accounts
+
+Regular verified accounts have a `trustedVerifierStatus` of "none" in their verification block:
+
+[Example: Current NPR.org API Profile](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did:plc:ln72v57ivz2g46uqf4xxqiuh)
+
+```json
+"verification": {
+  "verifications": [{
+    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndpuhmhal2i",
+    "isValid": true,
+    "createdAt": "2025-04-21T10:47:05.956Z"
+  }],
+  "verifiedStatus": "valid",
+  "trustedVerifierStatus": "none"
+```
+#### Trusted Verifier Accounts
+
+Trusted Verifier organizations have a `trustedVerifierStatus` of "valid" in their verification block:
+
+[Example: Current Wired.com API Profile](https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=did%3Aplc%3Ainz4fkbbp7ms3ixufw6xuvdi)
+
+```json
+"verification": {
+  "verifications": [{
+    "issuer": "did:plc:z72i7hdynmk6r22z27h6tvur",
+    "uri": "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification/3lndpvghzm32x",
+    "isValid": true,
+    "createdAt": "2025-04-21T10:47:38.316Z"
+  }],
+  "verifiedStatus": "valid",
+  "trustedVerifierStatus": "valid"
+```
 # Tools
 
 ## Ozone
@@ -82,4 +121,3 @@ Why's verification tool for gosky https://github.com/bluesky-social/indigo/pull/
 Tracking verified accounts https://github.com/mmattbtw/bsky-verified-account-tracker
 
 https://bsky.app/profile/verified.pds.mmatt.net
-
