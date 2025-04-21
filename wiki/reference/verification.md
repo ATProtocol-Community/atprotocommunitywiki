@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T18:25:44.996Z
+date: 2025-04-21T18:27:56.691Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -34,7 +34,8 @@ why publishing some verification records: https://atproto-browser.vercel.app/at/
 
 TODO: list who is a verifying org as they emerge
 
-* [nytimes.com](https://bsky.app/profile/nytimes.com)
+* [bsky.app](https://bsky.app/profile/bsky.app) ([List of verification](https://pdsls.dev/at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification))
+* [nytimes.com](https://bsky.app/profile/nytimes.com) ([List of verifications](https://pdsls.dev/at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.graph.verification))
 
 Let's get Trezy's Game Industry Labeler trusted!
 
