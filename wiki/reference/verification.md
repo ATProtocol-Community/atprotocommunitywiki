@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T20:31:31.857Z
+date: 2025-04-21T21:29:12.548Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -32,10 +32,12 @@ why publishing some verification records: https://atproto-browser.vercel.app/at/
 
 ## Trusted Verifiers
 
-TODO: list who is a verifying org as they emerge
+TODO: list who is a verifying org as they emerge (h/t to [mmatt.net](https://bsky.app/profile/mmatt.net/post/3lne2ud2us22b))
 
 * [bsky.app](https://bsky.app/profile/bsky.app) ([List of verification](https://pdsls.dev/at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.verification))
 * [nytimes.com](https://bsky.app/profile/nytimes.com) ([List of verifications](https://pdsls.dev/at://did:plc:eclio37ymobqex2ncko63h4r/app.bsky.graph.verification))
+* [theathletic.bsky.social](https://bsky.app/profile/theathletic.bsky.social) ([List of verifications](https://pdsls.dev/at://did:plc:b2kutgxqlltwc6lhs724cfwr/app.bsky.graph.verification))
+* [wired.com](https://bsky.app/profile/wired.com) ([List of verifications](https://pdsls.dev/at://did:plc:inz4fkbbp7ms3ixufw6xuvdi/app.bsky.graph.verification))
 
 ### Community Verifiers
 
