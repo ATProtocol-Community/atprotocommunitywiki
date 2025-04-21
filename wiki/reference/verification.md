@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T23:15:50.484Z
+date: 2025-04-21T23:34:30.525Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -44,6 +44,11 @@ Example:
 why publishing some verification records: https://atproto-browser.vercel.app/at/did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.graph.verification
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:vpkhqolt662uhesyj6nxm7ys/app.bsky.feed.post/3lndmggj6ns2s" data-bluesky-cid="bafyreigmqsnows45d3mk754dplqvzhvm6xnqtbyc5xvy2ydf42eejvo67m" data-bluesky-embed-color-mode="system"><p lang="en">You&#x27;re taking public marketing speak a bit too literally. Anyone can publish a verification record, its just our app chooses to display them just from a specific set of accounts for now.</p>&mdash; Why (<a href="https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys?ref_src=embed">@why.bsky.team</a>) <a href="https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/post/3lndmggj6ns2s?ref_src=embed">April 21, 2025 at 9:45 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+## Presentation to Users
+
+Verification records are treated as a tuple of DID, handle and displayName by the Bluesky app.  The app displays a blue badge if and only if a user's profile matches all parts of the DID, handle, and displayName values.
+
 
 
 ## Trusted Verifiers
