@@ -2,7 +2,7 @@
 title: Verification
 description: Bluesky Verification Records and Verifier Orgs
 published: true
-date: 2025-04-21T23:34:30.525Z
+date: 2025-04-22T01:01:37.823Z
 tags: verify, verification
 editor: markdown
 dateCreated: 2025-04-21T17:25:00.385Z
@@ -126,3 +126,7 @@ Why's verification tool for gosky https://github.com/bluesky-social/indigo/pull/
 Tracking verified accounts https://github.com/mmattbtw/bsky-verified-account-tracker
 
 https://bsky.app/profile/verified.pds.mmatt.net
+
+## BluSki Trusted and Verified List
+Currently Known Trusted Verifiers - https://blu.ski/trusted
+Verified profiles from each Trusted Verifiers - https://blu.ski/verified
