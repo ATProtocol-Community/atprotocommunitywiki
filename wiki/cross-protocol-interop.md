@@ -2,7 +2,7 @@
 title: Cross Protocol Interop
 description: Cross protocol interoperability and docs
 published: true
-date: 2025-04-27T16:48:39.752Z
+date: 2025-04-27T16:48:57.678Z
 tags: cross-protocol, activitypub
 editor: markdown
 dateCreated: 2025-04-27T11:49:24.439Z
@@ -15,8 +15,6 @@ Notes and resources for cross-protocol interoperabiltiy
 ## Bridges
 
 [Bridgy Fed feature request and discussion](https://github.com/snarfed/bridgy-fed/issues/1178)
-
-> 
 
 ## Groups
 
