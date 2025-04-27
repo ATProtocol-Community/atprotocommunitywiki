@@ -2,7 +2,7 @@
 title: Cross Protocol Interop
 description: Cross protocol interoperability and docs
 published: true
-date: 2025-04-27T16:48:57.678Z
+date: 2025-04-27T16:51:26.267Z
 tags: cross-protocol, activitypub
 editor: markdown
 dateCreated: 2025-04-27T11:49:24.439Z
@@ -14,7 +14,10 @@ Notes and resources for cross-protocol interoperabiltiy
 
 ## Bridges
 
-[Bridgy Fed feature request and discussion](https://github.com/snarfed/bridgy-fed/issues/1178)
+* [Bridgy Fed](https://github.com/snarfed/bridgy-fed)
+* [pinhole](https://fietkau.software/pinhole)
+* [Eclipse](https://eclipse.pub/)
+
 
 ## Groups
 
@@ -29,3 +32,5 @@ ActivityPub has the Article type, and ATProto will have multiple long form Lexic
 Work on specifying and adding bridge support, display, and interaction around article content.
 
 See: Darius RSS cross poster and Hometown support for read more.
+
+[Bridgy Fed feature request and discussion](https://github.com/snarfed/bridgy-fed/issues/1178)
