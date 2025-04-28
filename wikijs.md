@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Notes and discussion around WikiJS and this install in particular
 published: true
-date: 2025-03-31T00:42:33.306Z
+date: 2025-04-28T18:01:19.815Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-25T20:25:09.180Z
@@ -14,6 +14,12 @@ Notes and discussion about this WikiJS application and this install in particula
 
 ## Change Log
 
+### April 29th, 2025
+
+Baldemoto contributing atproto.wiki domain
+
+Baldemoto being onboarded to Commons Computer and backend admin for wikijs
+
 ### March 30th. 2025
 
 Added the bsky post embed code to the header of all pages, see [Natalie's Login](/login-with-atproto) for example.
@@ -23,7 +29,13 @@ Added the bsky post embed code to the header of all pages, see [Natalie's Login]
 
 WikiJS https://js.wiki/
 
-Details on this install will go here. Boris is admin.
+Running on [Commons Computer](https://bmannconsulting.com/notes/commons-computer/)
+* also hosts the Ghost site https://atprotocol.dev
+* gitea install https://gitea.atprotocol.community
+
+Domains
+* atprotocol.community owned by ATProtocol Community Fund
+* baldemoto contributed atproto.wiki
 
 ### Git Storage
 
