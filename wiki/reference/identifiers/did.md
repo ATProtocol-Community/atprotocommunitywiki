@@ -2,7 +2,7 @@
 title: Decentralized Identifiers (DID)
 description: 
 published: true
-date: 2025-04-28T21:02:45.663Z
+date: 2025-04-28T21:14:06.048Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:07:27.976Z
@@ -39,30 +39,40 @@ All DIDs must:
 ## DID Documents
 Each DID resolves to a **DID Document** which contains critical information about the actor:
 
+
+- **[Handle](/en/wiki/reference/identifiers/handles) Association**: The `alsoKnownAs` array contains the user's handle, allowing human-readable addressing
+- **Verification Method**: The `verificationMethod` array contains the public signing key used to authenticate the account
+- **Service Endpoint**: The `service` array specifies the PDS or PDSes hosting the user's repository.
+
+Below is a sample DID document:
+
+
 ```json
 {
-  "id": "<did>",
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+{
+  "id": "67h1rfibjpxfwztnip4tncij",
   "alsoKnownAs": [
-    "<handle>"
+    "alice.bsky.social"
   ],
   "verificationMethod": [
     {
-      "id": "<did>#atproto",
+      "id": "67h1rfibjpxfwztnip4tncij#atproto",
       "type": "Multikey",
-      "controller": "<did>",
-      "publicKeyMultibase": "<public signing key>"
+      "controller": "67h1rfibjpxfwztnip4tncij",
+      "publicKeyMultibase": "ftcElJyrhbkvaVdrPCAWRInDQCdILvyYVAKNfyFzQHIUiyMza"
     }
   ],
   "service": [
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "<personal data server>"
+      "serviceEndpoint": "https://morel.us-east.host.bsky.network"
     }
   ]
 }
 ```
-
-- **[Handle](/en/wiki/reference/identifiers/handles) Association**: The `alsoKnownAs` array contains the user's handle, allowing human-readable addressing
-- **Verification Method**: The `verificationMethod` array contains the public signing key used to authenticate the account
-- **Service Endpoint**: The `service` array specifies the PDS or PDSes hosting the user's repository.
