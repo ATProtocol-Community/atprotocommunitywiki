@@ -2,11 +2,13 @@
 title: DID:PLC
 description: 
 published: true
-date: 2025-03-31T22:09:44.362Z
+date: 2025-04-28T21:36:46.921Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:09:44.362Z
 ---
 
 # DID:PLC
-WIP
+The **Decentralized Identifier method Public Ledger of Credentials (`did:plc`)** is a self-authenticating [Decentralized Identifier (DID)](/en/wiki/reference/identifiers/did) operated by Bluesky Social. It is the most widely used of two currently supported DID methods in the AT Protocol, alongside `did:web`.
+
+Bluesky Social maintains a centralized "[DID PLC Directory](https://web.plc.directory/)", which is used to obtain metadata about and update specific DID PLCs. As of April 2025, the service stores public keys, [handles](/en/wiki/reference/identifiers/handles), and [Personal Data Server (PDS)](/en/wiki/reference/core-architecture/pds) information for any given identifier.
