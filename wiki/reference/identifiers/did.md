@@ -2,7 +2,7 @@
 title: Decentralized Identifiers (DID)
 description: 
 published: true
-date: 2025-04-28T21:14:06.048Z
+date: 2025-04-28T21:14:22.519Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:07:27.976Z
@@ -55,13 +55,13 @@ Below is a sample DID document:
     "https://w3id.org/security/suites/secp256k1-2019/v1"
   ],
 {
-  "id": "67h1rfibjpxfwztnip4tncij",
+  "id": "did:plc:67h1rfibjpxfwztnip4tncij",
   "alsoKnownAs": [
     "alice.bsky.social"
   ],
   "verificationMethod": [
     {
-      "id": "67h1rfibjpxfwztnip4tncij#atproto",
+      "id": "did:plc67h1rfibjpxfwztnip4tncij#atproto",
       "type": "Multikey",
       "controller": "67h1rfibjpxfwztnip4tncij",
       "publicKeyMultibase": "ftcElJyrhbkvaVdrPCAWRInDQCdILvyYVAKNfyFzQHIUiyMza"
