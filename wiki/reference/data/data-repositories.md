@@ -2,7 +2,7 @@
 title: Repositories
 description: 
 published: true
-date: 2025-04-29T18:00:32.870Z
+date: 2025-04-29T18:01:02.468Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:15:56.247Z
@@ -39,6 +39,7 @@ Repositories use several identifier types:
 - **[Content Identifiers (CIDs)](/en/wiki/reference/identifiers/cid)**: Used to reference specific content objects via cryptographic hashes
 - **[Namespaced Identifiers (NSIDs)](/en/wiki/reference/identifiers/nsid)**: Used to specify the Lexicon schema type for collections of records
 - **[Record keys (rkeys)](/en/wiki/reference/identifiers/rkey)**: Used to identify individual records within a collection
+{.links-list}
 
 ## Data Integrity
 When a repository is updated, the changes propagate through the Merkle tree, which results in a new root CID. The new root is signed by the repository owner's private key, creating a new commit. This mechanism ensures that all data can be cryptographically verified as authored by the repository owner while maintaining a complete history of changes to the repository. 
