@@ -2,7 +2,7 @@
 title: Protocol Reference
 description: A reference of all major components and implementations of ATProto
 published: true
-date: 2025-04-01T16:51:33.446Z
+date: 2025-04-29T17:56:14.757Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:33:21.144Z
@@ -53,7 +53,7 @@ dateCreated: 2025-03-28T03:33:21.144Z
 - [Lexicons](/en/wiki/reference/lexicons)
 - [CAR File Format](/en/wiki/reference/data/car-files)
 - [Collection](/en/wiki/reference/data/collection)
-- [Data Repositories](/en/wiki/reference/data/repositories)
+- [Data Repositories](/en/wiki/reference/data/data-repositories)
 - [DAG-CBOR](/en/wiki/reference/data/dag-cbor)
 {.links-list}
 
