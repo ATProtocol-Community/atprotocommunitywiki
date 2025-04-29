@@ -2,7 +2,7 @@
 title: Decentralized Identifiers (DID)
 description: 
 published: true
-date: 2025-04-29T05:01:17.676Z
+date: 2025-04-29T05:03:01.197Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:07:27.976Z
@@ -11,7 +11,7 @@ dateCreated: 2025-03-31T22:07:27.976Z
 # Decentralized Identifiers (DID)
 **Decentralized Identifiers (DIDs)** in the AT Protocol serve as a persistent, long-term account identifier that enables actors to maintain their identity across services and handle changes. DIDs follow the W3C DID Standard, which provides a method for self-sovereign digital identity.
 
-DIDs serve as the foundation for identity in the AT Protocol, enabling actors to maintain their identity across handles or service providers, cryptographically verify their content, and migrate between different Personal Data Servers (PDSes) while preserving their identity and social graph.
+DIDs serve as the foundation for identity in the AT Protocol, enabling actors to maintain their identity across handles or service providers, cryptographically verify their content, and migrate between different [Personal Data Servers (PDSes)](/en/wiki/reference/core-architecture/pds) while preserving their identity and social graph.
 
 The AT Protocol currently supports two DID Methods: 
 - **[DID:PLC](/en/wiki/reference/identifiers/did-plc)**: A novel DID method developed by Bluesky Social, designed specifically for the AT Protocol ecosystem. It provides mechanisms for key rotation, account recovery, and service migration.
