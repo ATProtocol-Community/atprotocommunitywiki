@@ -2,7 +2,7 @@
 title: AT Protocol Explainers
 description: to do
 published: true
-date: 2025-04-29T20:41:10.481Z
+date: 2025-04-29T20:49:23.705Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T03:37:40.585Z
@@ -21,5 +21,5 @@ dateCreated: 2025-03-28T03:37:40.585Z
 
 ## Identifiers
 
-- [Understanding the Dual-Identifier System](/en/wiki/explainers/dual-identifiers)
+- [Understanding the Dual-Identifier System](/en/wiki/explainers/identifiers/dual-identifiers)
 {.links-list}
