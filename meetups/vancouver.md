@@ -2,7 +2,7 @@
 title: ATProto Vancouver
 description: ATProto Meetups in Vancouver, BC, Canada
 published: true
-date: 2025-04-29T23:46:23.769Z
+date: 2025-04-29T23:55:29.264Z
 tags: meetup, vancouver, canada
 editor: markdown
 dateCreated: 2025-04-29T23:46:23.769Z
@@ -31,6 +31,10 @@ We'll share some apps, developer news, and do a show & tell with what people are
 No technical skills required! Content creators, community organizers, and everyone else is welcome!
 
 ### Notes
+
+NorthSky are local! https://northskysocial.com/
+* worker owned co-op, going to start with PDS hosting
+* have a graphical account migration tool they are working on
 
 Gander Social https://gandersocial.ca
 * Canadian ATproto app, Boris is getting more info
