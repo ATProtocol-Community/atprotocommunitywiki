@@ -2,7 +2,7 @@
 title: Understanding the AT Protocol's Dual Identifier System
 description: 
 published: true
-date: 2025-04-29T20:55:46.945Z
+date: 2025-04-29T20:57:50.982Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T20:16:57.466Z
@@ -22,7 +22,7 @@ As an example, if you are expecting an email from John, and you know his address
 
 There is an inherent problem, however, in the use of clean, user-defined identifiers in mass-communication protocols, a problem you're likely familiar with if you've ever signed up for an email address: like all identifiers, email addresses must satisfy a **uniqueness constraint**. Therefore, within each domain, there can be one, and only one `john`. Indeed, because of this limitation, it is much more likely that John has an email address that looks something more like `john.doe.1974@gmail.com` or some variant therein.
 
-One can imagine that this problem could be easily solved by simply assigning a random assortment of characters to each user who signs up. Now, instead of John's email address being `john.doe.1974@gmail.com`, his address would instead be `F3WCO6OjALhg0zrEY9th@gmail.com`. This system would surely prevent any conflict between email addresses. However, this system also presents an obvious problem: How could users be expected to memorize email addresses when they are all simply an assortment of random characters? Such a solution is inelegant and impractical for any mass communication protocol.
+One can imagine that this problem could be easily solved by simply assigning a random assortment of characters to each user who signs up, and preventing users from changing it in the future. Now, instead of John's email address being `john.doe.1974@gmail.com`, his address would instead be  `F3WCO6OjALhg0zrEY9th@gmail.com`. This system would surely prevent any conflict between email addresses. However, this system also presents an obvious problem: How could users be expected to memorize email addresses when they are all simply an assortment of random characters? Such a solution is inelegant and impractical for any mass communication protocol.
 
 Therein lies the contradiction that every communication protocol must somehow resolve: How can a protocol provide human-readable, memorable identifiers that accurately represent the users' preferred identities while *simultaneously* satisfying the uniqueness constraint for all identifiers?
 
