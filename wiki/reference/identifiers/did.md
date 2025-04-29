@@ -2,7 +2,7 @@
 title: Decentralized Identifiers (DID)
 description: 
 published: true
-date: 2025-04-28T21:15:16.755Z
+date: 2025-04-29T05:01:17.676Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:07:27.976Z
@@ -61,7 +61,7 @@ Below is a sample DID document:
   ],
   "verificationMethod": [
     {
-      "id": "did:plc67h1rfibjpxfwztnip4tncij#atproto",
+      "id": "did:plc:67h1rfibjpxfwztnip4tncij#atproto",
       "type": "Multikey",
       "controller": "did:plc:67h1rfibjpxfwztnip4tncij",
       "publicKeyMultibase": "ftcElJyrhbkvaVdrPCAWRInDQCdILvyYVAKNfyFzQHIUiyMza"
