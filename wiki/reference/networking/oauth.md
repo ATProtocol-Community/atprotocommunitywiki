@@ -2,7 +2,7 @@
 title: OAuth
 description: 
 published: true
-date: 2025-04-29T17:45:40.208Z
+date: 2025-04-29T17:46:24.559Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:11:51.384Z
@@ -89,10 +89,10 @@ A typical authentication flow works as follows:
 
 The AT Protocol implements the OAuth Authorization Code flow with several mandatory security enhancements:
 
-**Proof Key for Code Exchange (PKCE)**: Prevents authorization code interception attacks
-**Bidirectional Identity Verification**: Ensures the authorization server is legitimate for the claimed account
-**Pushed Authorization Requests (PAR)**: Improves security by sending authorization parameters directly to the server
-**Demonstrating Proof of Possession (DPoP)**: Binds tokens to specific client instances
-**Server-issues nonces**: Prevents token replay attacks
-**Short Token Lifetimes**: Limits the impact of compromised tokens.
-**Mandatory HTTPS**: Ensures all communication is encrypted.
+- **Proof Key for Code Exchange (PKCE)**: Prevents authorization code interception attacks
+- **Bidirectional Identity Verification**: Ensures the authorization server is legitimate for the claimed account
+- **Pushed Authorization Requests (PAR)**: Improves security by sending authorization parameters directly to the server
+- **Demonstrating Proof of Possession (DPoP)**: Binds tokens to specific client instances
+- **Server-issues nonces**: Prevents token replay attacks
+- **Short Token Lifetimes**: Limits the impact of compromised tokens.
+- **Mandatory HTTPS**: Ensures all communication is encrypted.
