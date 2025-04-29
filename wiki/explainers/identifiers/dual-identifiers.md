@@ -2,7 +2,7 @@
 title: Understanding the AT Protocol's Dual Identifier System
 description: 
 published: true
-date: 2025-04-29T20:57:50.982Z
+date: 2025-04-29T21:00:03.812Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T20:16:57.466Z
@@ -26,7 +26,7 @@ One can imagine that this problem could be easily solved by simply assigning a r
 
 Therein lies the contradiction that every communication protocol must somehow resolve: How can a protocol provide human-readable, memorable identifiers that accurately represent the users' preferred identities while *simultaneously* satisfying the uniqueness constraint for all identifiers?
 
-The effects of this contradiction are lessened in protocols such as SMPT (the email protocol) and ActivityPub, as part of the identifier is defined by the domain authority of the server in which your account resides. However, this solution is impractical for a protocol such as ATProto, as one of the key goals of the protocol is to enable users to freely move their accounts to whichever server they wish, without affecting their experience within the network. It would be rather impractical if your account's identifier changed every time this happened!
+The effects of this contradiction are lessened in protocols such as SMPT (the email protocol) and ActivityPub, as part of the identifier is defined by the domain authority of the server in which your account resides. However, this solution is impractical for a protocol such as ATProto, as one of the key goals of the protocol is to enable users to freely move their accounts to whichever server they wish, without affecting their experience within the network. It would be rather impractical if the account's identifier changed every time this happened!
 
 How can we solve this problem? There are many potential solutions to this contradiction, however, for now, we will hone into one particular solution, analyze its benefits and drawbacks, and iterate to synthesize a solution.
 
