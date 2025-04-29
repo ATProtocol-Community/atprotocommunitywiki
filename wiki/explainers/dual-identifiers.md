@@ -1,14 +1,14 @@
 ---
-title: Understanding the Dual Identifier System
+title: Understanding the AT Protocol's Dual Identifier System
 description: 
 published: true
-date: 2025-04-29T20:29:09.546Z
+date: 2025-04-29T20:30:28.988Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T20:16:57.466Z
 ---
 
-# Understanding the Dual Identifier System
+# Understanding the AT Protocol's Dual Identifier System
 
 One of the foundational aspects of the AT Protocol, and one of its differentiating features compared to other communication protocols, is the dual-identifier system for users within the protocol. Upon signup, users within ATProto are assigned both an immutable [Decentralized Identifier (DID)](/en/wiki/reference/identifiers/did), and a mutable [handle](/en/wiki/reference/identifiers/handles). 
 
