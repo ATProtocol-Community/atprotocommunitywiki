@@ -2,7 +2,7 @@
 title: Understanding the Dual Identifier System
 description: 
 published: true
-date: 2025-04-29T20:26:34.833Z
+date: 2025-04-29T20:29:09.546Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-29T20:16:57.466Z
@@ -20,7 +20,7 @@ In any communication protocol, it is a necessity to establish an identifier syst
 
 As an example, if you are expecting an email from John, and you know his address is `john@gmail.com`, you would be able to determine an if email is truly from John by simply checking the email address of the sender. If the email instead came from `johnn@gmail.com` or `john@outlook.com`, you could determine with certainty that the email was not sent from John's email address.
 
-There is an inherent problem, however, in the use of clean, user-defined identifiers in mass-communication protocols, a problem you're likely familiar with if you've ever signed up for an email address: like all identifiers, email addresses must satisfy a **uniqueness constraint**. Therefore, within each domain, there can be one, and only one `john` per domain segment (e.g. `@gmail.com` or `@outlook.com`). Indeed, because of this limitation, it is much more likely that John has an email address that looks something more like `john.doe.1974@gmail.com` or some variant therein.
+There is an inherent problem, however, in the use of clean, user-defined identifiers in mass-communication protocols, a problem you're likely familiar with if you've ever signed up for an email address: like all identifiers, email addresses must satisfy a **uniqueness constraint**. Therefore, within each domain, there can be one, and only one `john` per domain. Indeed, because of this limitation, it is much more likely that John has an email address that looks something more like `john.doe.1974@gmail.com` or some variant therein.
 
 One can imagine that this problem could be easily solved by simply assigning a random assortment of characters to each user who signs up. Now, instead of John's email being `john.doe.1974@gmail.com`, John's email address would be `F3WCO6OjALhg0zrEY9th@gmail.com`. This system would surely prevent any conflict between email addresses. However, this system also presents an obvious problem: How could users be expected to memorize email addresses when they are all simply an assortment of random characters? Such a solution is inelegant and impractical for any mass communication protocol.
 
