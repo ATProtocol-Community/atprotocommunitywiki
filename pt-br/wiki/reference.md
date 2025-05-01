@@ -2,7 +2,7 @@
 title: Referência do Protocolo
 description: Referências de todos os principais componentes e implementações do ATProto
 published: true
-date: 2025-05-01T07:29:45.285Z
+date: 2025-05-01T07:33:38.665Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T22:09:10.482Z
@@ -31,7 +31,7 @@ dateCreated: 2025-03-28T22:09:10.482Z
 - [URIs AT](/en/wiki/reference/identifiers/at-uri)
 - [DID:PLC](/en/wiki/reference/identifiers/did-plc)
 - [DID:WEB](/en/wiki/reference/identifiers/did-web)
-- [Record Keys (rkeys)](/en/wiki/reference/identifiers/rkey)
+- [Chaves de Registro (rkeys)](/en/wiki/reference/identifiers/rkey)
 {.links-list}
 
 ## Rede
@@ -47,11 +47,11 @@ dateCreated: 2025-03-28T22:09:10.482Z
 
 ## Dados
 - [Blobs](/en/wiki/reference/data/blobs)
-- [Records](/en/wiki/reference/data/records)
-- [Merkle Search Tree (MST)](/en/wiki/reference/data/mst)
+- [Registros](/en/wiki/reference/data/records)
+- [Árvore de Busca Merkle (MST)](/en/wiki/reference/data/mst)
 - [Lexicons](/en/wiki/reference/lexicons)
 - [Arquivos tipo CAR](/en/wiki/reference/data/car-files)
-- [Collection](/en/wiki/reference/data/collection)
+- [Coleção](/en/wiki/reference/data/collection)
 - [Repositórios de Dados](/en/wiki/reference/data/repositories)
 - [DAG-CBOR](/en/wiki/reference/data/dag-cbor)
 {.links-list}
