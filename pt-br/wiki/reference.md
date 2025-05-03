@@ -2,7 +2,7 @@
 title: Referência do Protocolo
 description: Referências de todos os principais componentes e implementações do ATProto
 published: true
-date: 2025-05-03T02:07:09.772Z
+date: 2025-05-03T04:40:07.790Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T22:09:10.482Z
@@ -12,7 +12,7 @@ dateCreated: 2025-03-28T22:09:10.482Z
 
 ## Arquitetura Principal
 - [AppViews](/en/wiki/reference/core-architecture/appview)
-- [Servidores de Dados Pessoais (PDS) *Repositório do Usuário e porta de entrada da rede*](/en/wiki/reference/core-architecture/pds)
+- [Servidor de Dados Pessoais (PDS) *Repositório do usuário e porta de entrada da rede*](/en/wiki/reference/core-architecture/pds)
 - [Relays](/en/wiki/reference/core-architecture/relay) 
 {.links-list}
 
