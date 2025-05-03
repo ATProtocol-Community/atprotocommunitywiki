@@ -25,10 +25,16 @@ dateCreated: 2025-03-25T20:31:11.492Z
 
 ## On Their Way 
 
+- [indigo(Official Bluesky go implementation)](https://github.com/bluesky-social/indigo/tree/main/pds)
+  > Go source code for Bluesky's atproto services.
 - [cocoon](https://github.com/haileyok/cocoon)
   > Its not public yet, but will be once I get the mvp done (NB: this is real soon!)
 - [millipds](https://github.com/DavidBuchanan314/millipds)
   > A from-scratch atproto PDS implementation that dreams of becoming "production grade" software (it isn't, yet).
+- [hexPDS](https://github.com/NetWatchInc/hexpds)
+  > An ATProto PDS written in Elixir
+- [bluepds](https://github.com/DrChat/bluepds)
+  > This is an implementation of an ATProto PDS, built with Axum and Atrium.
 
 
 ## Others / Learning / Experimenting
