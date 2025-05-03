@@ -2,8 +2,8 @@
 title: AppViews
 description: 
 published: true
-date: 2025-04-28T20:09:37.027Z
-tags: 
+date: 2025-05-03T04:35:35.043Z
+tags: core architecture
 editor: markdown
 dateCreated: 2025-03-31T22:03:44.282Z
 ---
