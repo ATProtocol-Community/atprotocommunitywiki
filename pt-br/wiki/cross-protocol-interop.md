@@ -2,7 +2,7 @@
 title: Interoperabilidade entre Protocolos
 description: Interoperabilidade entre protocolos e documentação
 published: true
-date: 2025-05-03T01:43:25.061Z
+date: 2025-05-03T01:44:18.827Z
 tags: cross-protocol, activitypub
 editor: markdown
 dateCreated: 2025-05-03T01:43:25.061Z
@@ -12,7 +12,7 @@ dateCreated: 2025-05-03T01:43:25.061Z
 
 Anotações e recursos para interoperabilidade entre protocolos
 
-## Pontes (Bridges)
+## Pontes
 
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed)
 * [pinhole](https://fietkau.software/pinhole)
