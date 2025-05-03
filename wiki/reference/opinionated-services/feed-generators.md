@@ -2,8 +2,8 @@
 title: Feed Generators
 description: 
 published: true
-date: 2025-04-28T19:38:51.013Z
-tags: 
+date: 2025-05-03T04:45:48.993Z
+tags: wiki, documentation, opinionated services, feed
 editor: markdown
 dateCreated: 2025-03-31T22:04:36.151Z
 ---
