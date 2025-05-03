@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Notes and discussion around WikiJS and this install in particular
 published: true
-date: 2025-04-28T18:01:19.815Z
+date: 2025-05-03T14:15:03.020Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-25T20:25:09.180Z
@@ -58,3 +58,7 @@ Can turn on iframes and use embed code. Or, figure out a way to paste in links, 
 Research
 * https://feedback.js.wiki/wiki/p/how-to-embedded-youtube-video
 * https://github.com/Requarks/wiki/discussions/4580
+
+### Changes + Posting bot
+
+would be good to have page that lists all recent edits, and also have recent edits posted to an atproto account
