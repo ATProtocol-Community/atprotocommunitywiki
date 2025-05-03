@@ -2,8 +2,8 @@
 title: Explicativos do AT Protocol
 description: Em construção
 published: true
-date: 2025-05-03T07:28:56.169Z
-tags: 
+date: 2025-05-03T07:30:01.323Z
+tags: wiki, atproto
 editor: markdown
 dateCreated: 2025-03-28T21:34:39.921Z
 ---
