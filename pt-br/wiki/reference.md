@@ -2,7 +2,7 @@
 title: Referência do Protocolo
 description: Referências de todos os principais componentes e implementações do ATProto
 published: true
-date: 2025-05-01T07:33:38.665Z
+date: 2025-05-03T02:07:09.772Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T22:09:10.482Z
@@ -42,7 +42,7 @@ dateCreated: 2025-03-28T22:09:10.482Z
 - [WebSocket](/en/wiki/reference/networking/websocket)
 - [XPRC](/en/wiki/reference/networking/xprc)
 - [Jetstream](/en/wiki/reference/networking/jetstream)
-- [Session](/en/wiki/reference/networking/session)
+- [Sessão](/en/wiki/reference/networking/session)
 {.links-list}
 
 ## Dados
@@ -52,7 +52,7 @@ dateCreated: 2025-03-28T22:09:10.482Z
 - [Lexicons](/en/wiki/reference/lexicons)
 - [Arquivos tipo CAR](/en/wiki/reference/data/car-files)
 - [Coleção](/en/wiki/reference/data/collection)
-- [Repositórios de Dados](/en/wiki/reference/data/repositories)
+- [Repositórios de Dados](/en/wiki/reference/data/data-repositories)
 - [DAG-CBOR](/en/wiki/reference/data/dag-cbor)
 {.links-list}
 
@@ -62,7 +62,7 @@ dateCreated: 2025-03-28T22:09:10.482Z
 - [Signing Keys](/en/wiki/reference/cryptography/signing-keys)
 - [NIST P256](/en/wiki/reference/cryptography/p256)
 - [NIST K256](/en/wiki/reference/cryptography/k256)
-- [Messaging Layer Security (MLS)](/en/wiki/reference/cryptography/mls)
+- [Camada de Segurança de Mensagens (MLS)](/en/wiki/reference/cryptography/mls)
 {.links-list}
 
 ## Moderação
@@ -73,5 +73,5 @@ dateCreated: 2025-03-28T22:09:10.482Z
 - [Implementações](/en/wiki/reference/community/implementations)
 - [Bibliotecas](/en/wiki/reference/community/libraries)
 - [Ferramentas](/en/wiki/reference/community/tools)
-- [Lore](/en/wiki/reference/community/lore)
+- [História](/en/wiki/reference/community/lore)
 {.links-list}
