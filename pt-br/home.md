@@ -2,7 +2,7 @@
 title: Wiki Comunitária do AT Protocol
 description: Página Inicial da Wiki Comunitária do AT Protocol
 published: true
-date: 2025-05-04T05:45:40.421Z
+date: 2025-05-04T05:50:12.423Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T04:51:31.200Z
@@ -32,4 +32,4 @@ Se você gostaria de aprender mais sobre o AT Protocol, confira os links abaixo 
 
 
 ---
-Todo conteúdo aqui está sob a [licença CC0](https://github.com/ATProtocol-Community/atprotocommunitywiki?tab=CC0-1.0-1-ov-file#readme) e contribuindo [via github](https://github.com/victoriamdo/atprotowikicomunitaria) ou através da interface web do WikiJS, você está adicionando conteúdo sob essa licença.
+Todo conteúdo aqui está sob a [licença CC0](https://github.com/ATProtocol-Community/atprotocommunitywiki?tab=CC0-1.0-1-ov-file#readme) e contribuindo [via github](https://github.com/ATProtocol-Community/atprotocommunitywiki) ou através da interface web do WikiJS, você está adicionando conteúdo sob essa licença.
