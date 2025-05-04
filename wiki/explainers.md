@@ -2,7 +2,7 @@
 title: AT Protocol Explainers
 description: to do
 published: true
-date: 2025-05-03T07:30:18.795Z
+date: 2025-05-04T06:00:58.975Z
 tags: wiki, atproto
 editor: markdown
 dateCreated: 2025-03-28T03:37:40.585Z
@@ -24,7 +24,7 @@ Steve's is one of 5 currently (as of May 1 2025) in this collection: [everything
 ## Suggestion
 I'd like to work on an explainer which is based around a single diagram, but with multiple levels of detail - eg
 * orbital view: shows PDSs, the relay and a couple of appviews
-* stratosphere: the PDS becomes visible
+* stratosphere: the PLC Directory becomes visible
 ...
 
 and so on until we get to a super detailed view of each element in the network. People can start in orbit and drill down as deep as they want to go.
