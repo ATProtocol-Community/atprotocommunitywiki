@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-05-09T04:38:18.252Z
+date: 2025-05-09T04:41:20.098Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -16,6 +16,7 @@ The name of the working group comes out of the [group discussion at ATmosphereCo
 
 There is some funding available through the AT Protocol Community Fund being run through a [dedicated project on Open Collective](https://opencollective.com/atprotocoldev/projects/indiesky).
 
+Join us in the community Developer Discord [#indieskywg channel](https://discord.atprotocol.dev)
 
 # Organizations & Initiatives
 
@@ -25,7 +26,8 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 * [NorthSky](https://northskysocial.com/) -  group of passionate web developers and community moderators working to build a digital space designed around active moderation and user safety for 2SLGBTQIA+ communities. Will be running servers in Canada.
 * [Free Our Feeds](https://freeourfeeds.com/) - would like to see infrastructure independent of the Bluesky company
-* MapleSky - Canadian sovereign infrastructure (Blaine, Boris, in formation)
+* [Deer.Social](https://deer.social) - app fork of bluesky social-app on web (and soon on mobile)
+* [Gander Social](https://gandersocial.ca/) - Canadian focused app fork of bluesky social-app
 
 # Upcoming Meetings
 
@@ -42,6 +44,8 @@ From our last meeting, we did a speed run through the entire architecture. It fe
 We'll call for questions and notes ahead of time, likely using Laurens questions from Ahoy IndieSky as a basis.
 
 
+# Past Meetings
+
 ## IndieSky WG001: Virtual Kick Off Meeting
 
 May 8th, 9am PST / 12pm EST / 1800 CEST
@@ -52,8 +56,6 @@ May 8th, 9am PST / 12pm EST / 1800 CEST
 * Identify shared needs and areas of interest, and highlight communication & documentation channels
 
 * [Notes](/working-groups/indiesky/wg001) and video recording
-
-# Past Meetings
 
 ## IndieSky Europe April 25th, 2025 (Ahoy)
 
