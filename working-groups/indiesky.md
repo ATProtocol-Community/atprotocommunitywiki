@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-05-09T03:53:16.530Z
+date: 2025-05-09T04:38:18.252Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -29,8 +29,20 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 # Upcoming Meetings
 
+## IndieSky WG002: PDS Hosting
 
-## IndieSky Virtual Kick Off Meeting
+May 22nd, 9am PST / 12pm EST / 1800 CEST
+
+From our last meeting, we did a speed run through the entire architecture. It felt like PDS hosting would show immediate data sovereignty, but there were very few people who had open or paid signups.
+
+* PDS for Jurisdictions: running a PDS in a particular country or jurisdiction
+* PDS for Communities of Interest: Academic / university affiliated hosted was a special case
+* PDS for App Devs: running a PDS along with a custom app to provide smooth sign up
+
+We'll call for questions and notes ahead of time, likely using Laurens questions from Ahoy IndieSky as a basis.
+
+
+## IndieSky WG001: Virtual Kick Off Meeting
 
 May 8th, 9am PST / 12pm EST / 1800 CEST
 
