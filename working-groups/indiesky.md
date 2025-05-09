@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-04-26T20:42:41.071Z
+date: 2025-05-09T03:53:16.530Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -34,12 +34,12 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 May 8th, 9am PST / 12pm EST / 1800 CEST
 
-Please [register to attend via Zoom video](https://lu.ma/xpg8kqbk)
-
 * Introductions
 * Overview of IndieSky goals around independent ATProto infrastructure
 * Recap of IndieSky day at Ahoy
 * Identify shared needs and areas of interest, and highlight communication & documentation channels
+
+* [Notes](/working-groups/indiesky/wg001) and video recording
 
 # Past Meetings
 
