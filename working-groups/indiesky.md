@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-05-09T04:41:20.098Z
+date: 2025-05-10T17:37:13.157Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -69,3 +69,6 @@ PDS hosting, Relays, AppViews, Moderation, Feeds, and more.
 
 See [IndieSky Stack](./indiesky/stack)
 
+# Academic Institutions hosting
+
+[letter to the dean](./indiesky/academic)
