@@ -2,7 +2,7 @@
 title: Self hosted PDS experience 
 description: What is different about being on a non Bluesky PDS
 published: true
-date: 2025-04-29T15:39:26.678Z
+date: 2025-05-12T06:08:09.617Z
 tags: pds, self hosted
 editor: markdown
 dateCreated: 2025-04-29T15:39:26.678Z
@@ -14,7 +14,7 @@ What is the experience of being on a non Bluesky PDS?
 
 If you have your user account on a Personal Data Server (PDS) that isn't run by Bluesky, what is different?
 
-For starters, the experience of using the Bluesky website or mobile apps isnt any different. Instead of signing into Bluesky, you authenticate with the server you're hosting on, and any posts you make or images or video you uplaod are stored on your PDS.
+For starters, the experience of using the Bluesky website or mobile apps isn't any different. Instead of signing into Bluesky, you authenticate with the server you're hosting on, and any posts you make or images or video you uplaod are stored on your PDS.
 
 ## Bluesky PDS Outages
 
