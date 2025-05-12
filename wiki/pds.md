@@ -2,7 +2,7 @@
 title: PDS Hosting & Customization
 description: Running a PDS
 published: true
-date: 2025-05-12T05:41:07.117Z
+date: 2025-05-12T06:07:36.030Z
 tags: pds, indiesky
 editor: markdown
 dateCreated: 2025-05-11T23:43:40.775Z
@@ -23,7 +23,7 @@ Read more on the [PDS core architecture page »](/wiki/reference/core-architectu
 
 TODO: probably a sub page of IndieSky, describing / aggregating the different ways that people self-host without the Bluesky "Dedicate an entire VPS to it"
 
-e.g.
+See also [Bluesky ATProto PDS Self Hosting](https://atproto.com/guides/self-hosting)
 
 ### Running Bluesky PDS with FlyIO
 
@@ -55,13 +55,29 @@ Replace the entirety of `${PDS_ADMIN_PASSWORD}` with your admin password (this i
 
 Now you can run this curl command in your terminal whenever you need an invite code created.
 
+### Self hosting a Bluesky PDS with Dokku, Dave Peck
+
+https://davepeck.org/notes/bluesky/self-hosting-a-bluesky-pds-with-dokku/
+
+[Dokku](https://dokku.com/) is a self-hosted Heroku clone.
+
+> To get things running, I packaged up the PDS in a Dockerfile that can be deployed to services like Heroku, GCP Cloud Run, AWS Fargate, etc.
+
+Dave finishes with:
+
+> While I focus on Dokku here, my approach could easily be adapted to other hosting environments, including Heroku, Google Cloud Run, or AWS Fargate. If you manage to get Bluesky running on one of these platforms, please let me know!
+> 
+> One useful thing to know is that Blueky’s PDS implementation supports both local storage (which is what I used) and S3-compatible storage. If you’re using Heroku or AWS, you probably want to store your data in S3. Just set the PDS_BLOBSTORE_DISK_LOCATION environment variable to an s3:// URL and you should be good to go.
+
 ## Customization
 
 TODO: various ways of customizing your PDS
 
-e.g.
-
 ### Customizing the email from your PDS
+
+> answers needed!!!
+{.is-danger}
+
 
 The templates are actually over in the source code https://github.com/bluesky-social/atproto/tree/main/packages/pds/src/mailer rather than the PDS repo https://github.com/bluesky-social/pds (because the PDS repo is packaged up with a docker file to deploy)
 
