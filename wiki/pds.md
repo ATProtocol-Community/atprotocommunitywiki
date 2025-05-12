@@ -1,9 +1,9 @@
 ---
-title: PDS
-description: Personal Data Server
+title: PDS Hosting & Customization
+description: Running a PDS
 published: true
-date: 2025-05-12T05:36:24.267Z
-tags: pds
+date: 2025-05-12T05:41:07.117Z
+tags: pds, indiesky
 editor: markdown
 dateCreated: 2025-05-11T23:43:40.775Z
 ---
