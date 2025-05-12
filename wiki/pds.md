@@ -2,7 +2,7 @@
 title: PDS
 description: Personal Data Server
 published: true
-date: 2025-05-12T01:08:59.962Z
+date: 2025-05-12T05:36:24.267Z
 tags: pds
 editor: markdown
 dateCreated: 2025-05-11T23:43:40.775Z
@@ -34,6 +34,26 @@ https://github.com/likeandscribe/pds-fly
 ### Running Bluesky PDS with Railway
 
 A Railway template has been created https://railway.com/template/xBNJ1u - thanks to [@mkizka.dev](https://bsky.app/profile/mkizka.dev) for this!
+
+There are instructions on the [Railway template page](https://railway.com/template/xBNJ1u) which talk about using git clone and editing the create account script.
+
+Instead, you can use the curl command embedded in the [pdsadmin create-invite-script file](https://github.com/bluesky-social/pds/blob/main/pdsadmin/create-invite-code.sh):
+
+```
+curl \
+  --fail \
+  --silent \
+  --show-error \
+  --request POST \
+  --user "admin:${PDS_ADMIN_PASSWORD}" \
+  --header "Content-Type: application/json" \
+  --data '{"useCount": 1}' \
+  "https://${PDS_HOSTNAME}/xrpc/com.atproto.server.createInviteCode" | jq --raw-output '.code'
+```
+
+Replace the entirety of `${PDS_ADMIN_PASSWORD}` with your admin password (this is generated, look in the Railway settings) and `${PDS_HOSTNAME}` with your hostname 'mynewpdsdomain.com'.
+
+Now you can run this curl command in your terminal whenever you need an invite code created.
 
 ## Customization
 
