@@ -2,7 +2,7 @@
 title: PDS
 description: Personal Data Server
 published: true
-date: 2025-05-12T00:00:19.283Z
+date: 2025-05-12T01:08:59.962Z
 tags: pds
 editor: markdown
 dateCreated: 2025-05-11T23:43:40.775Z
@@ -30,6 +30,10 @@ e.g.
 https://github.com/likeandscribe/pds-fly
 
 (needs a bunch more config and docs)
+
+### Running Bluesky PDS with Railway
+
+A Railway template has been created https://railway.com/template/xBNJ1u - thanks to [@mkizka.dev](https://bsky.app/profile/mkizka.dev) for this!
 
 ## Customization
 
