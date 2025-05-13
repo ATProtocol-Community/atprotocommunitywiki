@@ -2,7 +2,7 @@
 title: AT Protocol Community Wiki
 description: Homepage of the AT Protocol Community Wiki
 published: true
-date: 2025-04-29T20:48:51.265Z
+date: 2025-05-13T05:10:21.313Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-17T06:48:14.149Z
@@ -22,6 +22,7 @@ If you'd like to learn more about the AT Protocol, follow the links below (WIP)
 - [Reference *Glossary of ATProto's components*](/en/wiki/reference)
 - [How-to's *Learn to implement protocol components in your projects*](/en/wiki/guides)
 - [Getting Started with ATProto *Hit the ground running with step-by-step projects*](/en/wiki/tutorials)
+- [Public Policy Issues *How legal and regulatory issues affect ATproto deployments* ](/en/wiki/publicpolicy)
 {.links-list}
 
 ## Updates
