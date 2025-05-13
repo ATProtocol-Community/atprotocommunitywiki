@@ -2,7 +2,7 @@
 title: Legal and Regulatory Issues
 description: How laws and regulations in different jurisdictions affect ATproto deployment and operations
 published: true
-date: 2025-05-13T06:04:19.784Z
+date: 2025-05-13T06:46:34.916Z
 tags: dma, competition, antitrust, privacy, dataprotection, gdpr, policy, legal, dsa, trustandsafety
 editor: markdown
 dateCreated: 2025-05-13T05:18:45.883Z
@@ -17,6 +17,9 @@ Here is some [background](https://www.ianbrown.tech/2025/02/18/fleeing-the-hells
 
 ## Trust and Safety
 As decentralised ATproto communities become more common, operators of Personal Data Stores in particular (since they act as hosts) should be aware of their legal trust and safety-related obligations. This [guide](https://about.iftas.org/2024/04/09/dsa-guide-for-the-fediverse/) (to the Fediverse and the EU's Digital Services Act) is a good starting point. Other component operators might look at Cloudflare's [musings](https://developers.cloudflare.com/fundamentals/reference/report-abuse/) on legal obligations for infrastructure operators.
+
+## Surveillance
+ATproto component operators concerned about the impact of over-broad surveillance laws and technologies on their users (such as those of the US government under the Trump administration) should [read this first](https://www.ianbrown.tech/2020/07/19/59/).
 
 ## Privacy and Data Protection
 As with trust and safety, decentralised ATproto component operators should be aware of their potential obligations under privacy and data protection laws, such as the European Union's (EU) well-known General Data Protection Regulation (GDPR). Over 170 countries (including the 30 EU+EEA states and Switzerland) have adopted this type of broad law.
