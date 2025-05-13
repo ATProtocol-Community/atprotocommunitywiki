@@ -2,7 +2,7 @@
 title: Cross Protocol Interop
 description: Cross protocol interoperability and docs
 published: true
-date: 2025-04-27T16:53:01.067Z
+date: 2025-05-13T06:06:51.326Z
 tags: cross-protocol, activitypub
 editor: markdown
 dateCreated: 2025-04-27T11:49:24.439Z
@@ -17,6 +17,7 @@ Notes and resources for cross-protocol interoperabiltiy
 * [Bridgy Fed](https://github.com/snarfed/bridgy-fed)
 * [pinhole](https://fietkau.software/pinhole)
 * [Eclipse](https://eclipse.pub/)
+* [Early thoughts](https://www.ianbrown.tech/2024/10/09/mastodon-and-bluesky-show-interoperability-in-action/) on bridging the ATmosphere and Fediverse
 
 
 ## Groups
