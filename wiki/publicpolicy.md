@@ -2,7 +2,7 @@
 title: Legal and Regulatory Issues
 description: How laws and regulations in different jurisdictions affect ATproto deployment and operations
 published: true
-date: 2025-05-13T06:01:25.879Z
+date: 2025-05-13T06:04:19.784Z
 tags: dma, competition, antitrust, privacy, dataprotection, gdpr, policy, legal, dsa, trustandsafety
 editor: markdown
 dateCreated: 2025-05-13T05:18:45.883Z
@@ -23,7 +23,7 @@ As with trust and safety, decentralised ATproto component operators should be aw
 
 Privacy and data protection are two related but distinct concepts in EU law. Data protection protects *all* related human rights (eg freedom of expression and association, as well as privacy). A network of national enforcers, plus the European Data Protection Supervisor, enforces the GDPR (and the specialised communications services e-Privacy Directive, which the 30 EU+EEA states have turned into national laws).
 
-US federal privacy law is relatively strong in relation to the federal government, but weak indeed in relation to most industry sectors (with specific exceptions, such as for health information under HIPAA.) However, states -- notably California, but including others -- have much strong private-sector regulation, and regulators with teeth to enforce it.
+US federal privacy law is relatively strong in relation to the federal government, but weak indeed in relation to most industry sectors (with specific exceptions, such as for health information under [HIPAA](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act).) However, states -- notably California, but including others -- have much strong private-sector regulation, and [regulators with teeth](https://cppa.ca.gov/) to enforce it.
 
 *Please add similar summaries of other high-impact jurisdictions here, such as China and India.*
 
