@@ -2,7 +2,7 @@
 title: Cross Protocol Interop
 description: Cross protocol interoperability and docs
 published: true
-date: 2025-05-13T06:09:42.313Z
+date: 2025-05-14T06:15:49.481Z
 tags: cross-protocol, activitypub
 editor: markdown
 dateCreated: 2025-04-27T11:49:24.439Z
@@ -37,3 +37,9 @@ Work on specifying and adding bridge support, display, and interaction around ar
 See: Darius RSS cross poster and Hometown support for read more.
 
 [Bridgy Fed feature request/discussion](https://github.com/snarfed/bridgy-fed/issues/1178)
+
+## Minor niggles
+
+Using interoperable long form content (such as the Article) type will make the biggest single difference in bridging and other forms of cross-protocol access. But what about smaller issues? (And which should be handled by clients rather than within the protocol?)
+
+* Consistent application of hashtag rules between ATproto and ActivityPub services? (Eg Mastodon seems more consistent in seeing most punctuation as terminating a hashtag. This is useful in adding them within posts, rather than additionally at the end.)
