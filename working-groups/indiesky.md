@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-05-10T17:37:13.157Z
+date: 2025-05-19T18:31:28.122Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -43,6 +43,11 @@ From our last meeting, we did a speed run through the entire architecture. It fe
 
 We'll call for questions and notes ahead of time, likely using Laurens questions from Ahoy IndieSky as a basis.
 
+Register here: https://lu.ma/emwqsj8c
+
+The meeting will be recorded and notes taken / shared afterwards.
+
+* [Notes](/working-groups/indiesky/wg002) and video recording
 
 # Past Meetings
 
