@@ -2,7 +2,7 @@
 title: Mobile PDS
 description: 
 published: true
-date: 2025-05-20T22:33:10.097Z
+date: 2025-05-20T22:33:38.289Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -10,13 +10,13 @@ dateCreated: 2025-05-20T22:26:14.854Z
 
 # MobilePDS Working Group 
 
-## Participants
+Participants
 
 * Sebastian [@seabass.bsky.social](https://bsky.app/profile/seabass.bsky.social), Flashes
 * yawn, Flashes
 * Your Name Here!
 
-## Resources
+Resources
 
 this site!
 
