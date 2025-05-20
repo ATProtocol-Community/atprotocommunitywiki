@@ -2,7 +2,7 @@
 title: CEMR: A Commons-Based Moderation Relay for ATProto
 description: 
 published: true
-date: 2025-05-20T22:14:12.528Z
+date: 2025-05-20T22:19:41.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:14:12.528Z
@@ -62,6 +62,8 @@ The **CEMR** (Commons European Moderation Relay) is an open infrastructure initi
 ---
 
 ## System Diagram
+
+https://www.icloud.com/iclouddrive/05bpmHdNBq-ln-iMuesVKNnuw#CEMR
 
 ```mermaid
 graph TD
