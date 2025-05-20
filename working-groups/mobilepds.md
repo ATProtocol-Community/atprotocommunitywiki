@@ -2,7 +2,7 @@
 title: MobilePDS Working Group
 description: 
 published: true
-date: 2025-05-20T22:38:19.288Z
+date: 2025-05-20T22:49:56.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -112,3 +112,31 @@ A simple overview of how the mobilePDS architecture works:
                  Repo Sync   │             │ feed/posts/etc.
                              ▼             ▼
                   [Relays (e.g. CEMR)]     [AppViews]
+                  
+                  
+```
+#### Mobile PDS Signing Key Management
+A mobile PDS (MPDS) key asset is control over the signing key. When setting up an MPDS, the following keys are generated and subsequently registered at the PLC:
+
+1. Device Signing Key (SKD) which is specific for the mobile device being used
+2. Web Signing Key (SKW) which is specific for the Caching PDS (CPDS) used
+
+The SKD is generated using platform specific trusted computer mechanisms with the resulting private key remaining on the device. Under many circumstances this will require a PLC update to roll a new device key when migrating between devices.
+
+Users might want to interact with web based clients though while still retaining the signing authority on their end. In order to support this, an SKW is generated like this:
+
+1. Register a WebAuthn credential at the cache using the PRF extension
+2. Generate an ephemeral P256 ECDSA keypair
+3. HKDF derive a symmetric encryption key from the PRF result and encrypt the keypair using AES-GCM
+4. Store the resulting encrypted keypair as part of the registration metadata at the CPDS
+
+Web clients can now reconstruct the SKW like this:
+
+1. Login to the CPDS using a passkey, either directly or cross device using the mobile device as authenticator
+2. Retrieve the encrypted keypair using an API on the CPDS
+3. HKDF derive a symmetric encryption key from the PRF result and decrypt the keypair using AES-GCM
+4. Import the keypair as non-extractable with the Web Crypto API
+
+Now web clients can send signed writes to the CPDS which generates an appropriate diff for the MPDS to consume.
+
+Note: domain binding (PRF salts, HKDF salt and info and GCM AAD) the cryptographic artifacts are TBD.
