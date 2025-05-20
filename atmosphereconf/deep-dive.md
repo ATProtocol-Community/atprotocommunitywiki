@@ -2,7 +2,7 @@
 title: A deep-as-you-like dive into the ATmosphere
 description: An unfinished multilayered explainer into how Bluesky and the rest of the ATmosphere works.
 published: true
-date: 2025-05-20T13:28:15.756Z
+date: 2025-05-20T13:32:35.088Z
 tags: explainer
 editor: markdown
 dateCreated: 2025-05-20T13:26:19.174Z
@@ -20,7 +20,7 @@ dateCreated: 2025-05-20T13:26:19.174Z
 
 **Looking at Bluesky from orbit, you can only distinguish three elements:**
 
-
+![[https://experiments.myhub.ai/permanent_versions/atproto/atproto1.orbital-1.png]]
 
 They are:
 
