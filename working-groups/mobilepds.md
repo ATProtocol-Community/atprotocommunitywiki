@@ -2,7 +2,7 @@
 title: Mobile PDS
 description: 
 published: true
-date: 2025-05-20T22:28:35.902Z
+date: 2025-05-20T22:29:22.179Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -16,9 +16,8 @@ yawn, Flashes
 Your Name Here!
 
 ## Resources
+
 this site!
-Community Dev Discord -> Working Groups -> #e2ee-messaging-wg
-AT Messaging Proto Github which has the preliminary AT Messaging spec
 
 
 ## Overview
@@ -29,7 +28,7 @@ This architecture supports **DSA-aligned content moderation**, preserves user pr
 
 ---
 
-## How It Works
+### How It Works
 
 - The MobilePDS:
   - Hosts the user’s **ATProto repo** locally
@@ -46,7 +45,7 @@ This architecture supports **DSA-aligned content moderation**, preserves user pr
 
 ---
 
-## Why This Matters
+### Why This Matters
 
 - **Sovereign Identity**: The DID is generated and signed on-device, never relinquished to a remote host
 - **DSA-aligned Hosting**: The mirror PDS can comply with takedown obligations without being the data controller
@@ -55,7 +54,7 @@ This architecture supports **DSA-aligned content moderation**, preserves user pr
 
 ---
 
-## �Technical Features
+### Technical Features
 
 | Component           | Details                                          |
 |--------------------|--------------------------------------------------|
@@ -67,7 +66,7 @@ This architecture supports **DSA-aligned content moderation**, preserves user pr
 
 ---
 
-## Designed to work with
+### Designed to work with
 
 - ✅ **CEMR** (Commons European Moderation Relay)
 - ✅ Any ATProto AppView or client
@@ -76,7 +75,7 @@ This architecture supports **DSA-aligned content moderation**, preserves user pr
 
 ---
 
-## Commons-Oriented Vision
+### Commons-Oriented Vision
 
 The MobilePDS is part of a **public digital infrastructure strategy** for Europe:
 - Open source and auditable
@@ -86,7 +85,7 @@ The MobilePDS is part of a **public digital infrastructure strategy** for Europe
 ---
 
 
-## Diagram
+### Diagram
 
 A simple overview of how the mobilePDS architecture works:
 
