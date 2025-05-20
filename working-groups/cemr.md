@@ -1,8 +1,8 @@
 ---
-title: CEMR: A Commons-Based Moderation Relay for ATProto
+title: Commons Moderation Working Group
 description: 
 published: true
-date: 2025-05-20T22:37:21.481Z
+date: 2025-05-20T22:37:56.682Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:14:12.528Z
