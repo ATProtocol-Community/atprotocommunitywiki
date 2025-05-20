@@ -2,13 +2,23 @@
 title: Mobile PDS
 description: 
 published: true
-date: 2025-05-20T22:26:46.919Z
+date: 2025-05-20T22:28:35.902Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
 ---
 
 # MobilePDS: Portable, User-Controlled Identity & Data for ATProto
+
+## Participants
+Sebastian, Flashes
+yawn, Flashes
+Your Name Here!
+
+## Resources
+this site!
+Community Dev Discord -> Working Groups -> #e2ee-messaging-wg
+AT Messaging Proto Github which has the preliminary AT Messaging spec
 
 
 ## Overview
