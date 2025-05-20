@@ -2,7 +2,7 @@
 title: Mobile PDS
 description: 
 published: true
-date: 2025-05-20T22:26:14.854Z
+date: 2025-05-20T22:26:46.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -81,7 +81,7 @@ The MobilePDS is part of a **public digital infrastructure strategy** for Europe
 A simple overview of how the mobilePDS architecture works:
 
 ```text
-                   [mobilePDS on Device]
+                   [MobilePDS on Device]
                     ┌───────────────────────┐
                     │ - Hosts repo locally  │
                     │ - Signs records       │
@@ -91,7 +91,7 @@ A simple overview of how the mobilePDS architecture works:
              Sync (CAR + HTTP)
                              │
                              ▼
-                     [Proxy PDS (Mirror)]
+                     [Mirror PDS (Mirror)]
                     ┌─────────────────────────────┐
                     │ - Caches signed data         │
                     │ - Enforces DSA-based labels  │
