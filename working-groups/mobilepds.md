@@ -2,7 +2,7 @@
 title: Mobile PDS
 description: 
 published: true
-date: 2025-05-20T22:33:38.289Z
+date: 2025-05-20T22:34:26.464Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -18,8 +18,8 @@ Participants
 
 Resources
 
-this site!
-
+* this site!
+* channel on Discord?
 
 ## Overview
 
