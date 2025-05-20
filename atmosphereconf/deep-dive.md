@@ -2,7 +2,7 @@
 title: A deep-as-you-like dive into the ATmosphere
 description: An unfinished multilayered explainer into how Bluesky and the rest of the ATmosphere works.
 published: true
-date: 2025-05-20T13:32:35.088Z
+date: 2025-05-20T13:36:12.428Z
 tags: explainer
 editor: markdown
 dateCreated: 2025-05-20T13:26:19.174Z
@@ -19,8 +19,8 @@ dateCreated: 2025-05-20T13:26:19.174Z
 ## Geostationary Orbit view
 
 **Looking at Bluesky from orbit, you can only distinguish three elements:**
+![geostationary](https://experiments.myhub.ai/permanent_versions/atproto/atproto1.orbital-1.png)
 
-![[https://experiments.myhub.ai/permanent_versions/atproto/atproto1.orbital-1.png]]
 
 They are:
 
@@ -50,7 +50,7 @@ They are:
 
 ### 1) Users! And their accounts!
 
-
+![geostationary](https://experiments.myhub.ai/permanent_versions/atproto/strato-did.drawio.png)
 
 * **A user** typing a post into an appview and hitting Publish. This stores the content in his/her PDS, from which it will be scooped up by the relay and shared with the world 
 * **DID**: the user's account is a Decentralised Identifier (DID) - a file which *in this case* is stored on the user's PDS. Other options are possible.
@@ -68,6 +68,7 @@ They are:
 
 The view from the stratosphere also shows us a new component, required for global search:
 
+![geostationary](https://experiments.myhub.ai/permanent_versions/atproto/strato-did-all.drawio.png)
 
 * the **PLC Directory** (technically "DID:PLC Directory") allows appviews to find users and their content;
 * In the image, someone using an Appview is searching for a user via "user search" - they'll find it thanks to the PLC Directory.
@@ -83,8 +84,10 @@ The view from the stratosphere also shows us a new component, required for globa
 
 **As you get deeper into the atmosphere, more details start appearing.**
 
+![geostationary](https://experiments.myhub.ai/permanent_versions/atproto/meso.drawio.png)
 
-In the above diagram, two tools take content from the Relay and provide their outputs to appviews*. Both are designed to put control of moderation in users' hands, and are independent of the Bluesky company or its technology:
+
+In the above diagram, two tools (feed generators and labellers) take content from the Relay and provide their outputs to appviews*. Both are designed to put control of moderation in users' hands, and are independent of the Bluesky company or its technology:
 
 * **feed generators**: as their name implies, these create **custom feeds**. Each is a subset of the Bluesky firehose, tuned to a particular community's interests and moderation preferences. They're infinite in number, as anyone can create one, and anyone can use any feed by simply “pinning” it.
 * **labellers**: as the name implies, these apply labels to posts and/or accounts. Like custom feeds, anyone can create one, using a variety of tools, and anyone can subscribe to one if they want to see the label.
@@ -94,7 +97,7 @@ In the above diagram, two tools take content from the Relay and provide their ou
 **2 More Things** about:
 
 * **feed generators:** 
-	* custom feeds are created using 3rd party tools (**custom feed builders**), and anyone can make one of _them_, too. Popular options so far include [Skyfeed](https://skyfeed.app/), [Bluesky Feed Creator](https://blueskyfeedcreator.com/) and [graze.social](http://graze.social/), which has a business model allowing feed editors to make money. The competition between builders means custom feeds themselves are only going to get more powerful.
+	* custom feeds are created using 3rd party tools (**custom feed builders**), and anyone can make one of *them*, too. Popular options so far include [Skyfeed](https://skyfeed.app/), [Bluesky Feed Creator](https://blueskyfeedcreator.com/) and [graze.social](http://graze.social/), which has a business model allowing feed editors to make money. The competition between builders means custom feeds themselves are only going to get more powerful.
 	* custom feeds can also be bundled in Starter Packs, and so help the Pack's creator form a porous community within the global Bluesky conversation
 	* more about Feed Generators
 * **labellers**: 
