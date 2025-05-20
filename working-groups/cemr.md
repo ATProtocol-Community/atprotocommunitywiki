@@ -2,7 +2,7 @@
 title: Commons Moderation Working Group
 description: 
 published: true
-date: 2025-05-20T22:37:56.682Z
+date: 2025-05-20T23:03:05.788Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:14:12.528Z
@@ -15,6 +15,7 @@ Participants
 
 * Sebastian [@seabass.bsky.social](https://bsky.app/profile/seabass.bsky.social), Flashes
 * yawn, Flashes
+* Robin [@robin.berjon.com](https://bsky.app/profile/robin.berjon.com), IPFS
 * Your Name Here!
 
 Resources
