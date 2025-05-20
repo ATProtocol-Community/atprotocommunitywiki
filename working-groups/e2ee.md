@@ -2,7 +2,7 @@
 title: E2EE Messaging Working Group
 description: E2EE Messaging for ATProto
 published: true
-date: 2025-04-12T18:07:03.990Z
+date: 2025-05-20T17:11:46.185Z
 tags: e2ee, mls, chat, dms
 editor: markdown
 dateCreated: 2025-03-26T23:24:40.083Z
@@ -18,6 +18,7 @@ Participants
 Resources
 * this site!
 * [Community Dev Discord](https://discord.atprotocol.dev) -> Working Groups -> [#e2ee-messaging-wg](https://discord.com/channels/1097580399187738645/1355066563174076476)
+* [AT Messaging Proto Github](https://github.com/ATProtocol-Community/atmessaging-proto/blob/main/README.md) which has the preliminary AT Messaging spec
 
 # Overview
 
