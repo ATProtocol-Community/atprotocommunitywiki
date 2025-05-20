@@ -2,7 +2,7 @@
 title: AT Protocol Explainers
 description: to do
 published: true
-date: 2025-05-20T13:44:06.597Z
+date: 2025-05-20T20:37:48.197Z
 tags: wiki, atproto
 editor: markdown
 dateCreated: 2025-03-28T03:37:40.585Z
@@ -19,7 +19,7 @@ dateCreated: 2025-03-28T03:37:40.585Z
 
 — Steve Klabnik, [@steveklabnik.com](https://bsky.app/profile/steveklabnik.com)
 
-Proof of concept under development, volunteers welcome, to [A deep-as-you-like dive into the ATmosphere](/en/atmosphereconf/deep-dive).
+Proof of concept under development, volunteers welcome, to [A deep-as-you-like dive into the ATmosphere](/en/wiki/explainers/deep-dive)
 
 Steve's is one of 5 currently (as of May 1 2025) in Mathew's collection: [everything tagged #atprotol and #guide](https://myhub.ai/@mathewlowry/?tags=guide&types=like&types=do&types=think&timeframe=anytime&quality=all&tags=atprotocol). I'll add more as I learn more).
 
