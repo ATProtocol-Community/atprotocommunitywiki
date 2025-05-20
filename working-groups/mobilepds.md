@@ -2,18 +2,19 @@
 title: Mobile PDS
 description: 
 published: true
-date: 2025-05-20T22:29:22.179Z
+date: 2025-05-20T22:33:10.097Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
 ---
 
-# MobilePDS: Portable, User-Controlled Identity & Data for ATProto
+# MobilePDS Working Group 
 
 ## Participants
-Sebastian, Flashes
-yawn, Flashes
-Your Name Here!
+
+* Sebastian [@seabass.bsky.social](https://bsky.app/profile/seabass.bsky.social), Flashes
+* yawn, Flashes
+* Your Name Here!
 
 ## Resources
 
