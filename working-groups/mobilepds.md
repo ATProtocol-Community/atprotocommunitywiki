@@ -1,8 +1,8 @@
 ---
-title: Mobile PDS
+title: MobilePDS Working Group
 description: 
 published: true
-date: 2025-05-20T22:34:26.464Z
+date: 2025-05-20T22:38:19.288Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
