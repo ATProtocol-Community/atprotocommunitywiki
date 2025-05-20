@@ -2,7 +2,7 @@
 title: A deep-as-you-like dive into the ATmosphere
 description: An unfinished multilayered explainer into how Bluesky and the rest of the ATmosphere works.
 published: true
-date: 2025-05-20T13:26:19.174Z
+date: 2025-05-20T13:28:15.756Z
 tags: explainer
 editor: markdown
 dateCreated: 2025-05-20T13:26:19.174Z
@@ -12,17 +12,15 @@ dateCreated: 2025-05-20T13:26:19.174Z
 
 **Interested in understanding how Bluesky and the ATProtocol works? This explainer starts with a very simple diagram, and then progressively adds detail. Dive as deep as you like (when it's finished)**
 
-*(Sidenote Intro: This page provides a proof-of-concept for a multi-layered explainer of Bluesky and the ATmosphere to non-specialists. Unfortunately I **am** one of those non-specialists, so if anyone  would like to help develop this, reach out to me via Discord or Bluesky - if you provide the technical expertise, I'll provide the words.*) 
+*(Sidenote Intro: This page provides a proof-of-concept for a multi-layered explainer of Bluesky and the ATmosphere to non-specialists. Unfortunately I **am** one of those non-specialists, so if anyone  would like to help develop this, reach out to me via Discord or Bluesky - if you provide the technical expertise, I'll provide the words.
 
+*Finally, note that the final version will need a more attractive graphic, obviously. But let's get the content right first).*
 
-*Final note: the final version will need a more attractive graphic, obviously. But let's get the content right first).*
-
----
 ## Geostationary Orbit view
 
 **Looking at Bluesky from orbit, you can only distinguish three elements:**
 
-![[atproto1.orbital-1.png]]
+
 
 They are:
 
@@ -45,15 +43,14 @@ They are:
 	* Each appview uses a **Lexicon** to define what content it displays, and how it displays it. Bluesky therefore only looks for content structured using the Bluesky Lexicon, and so doesn't show its users Whitewind blog posts, and vice versa. 
 	* learn more about [Appviews](https://atproto.wiki/en/wiki/reference/core-architecture/appview) and [Lexicons](https://atproto.wiki/en/wiki/reference/lexicons).
 
----
 
 ## Thermosphere view
 
 **In the thermosphere you're still in orbit, but you're beginning to encounter some atmosphere. From this distance, a couple more details come into view:**
 
-### 1) Users and their accounts
+### 1) Users! And their accounts!
 
-![[strato-did.drawio.png]]
+
 
 * **A user** typing a post into an appview and hitting Publish. This stores the content in his/her PDS, from which it will be scooped up by the relay and shared with the world 
 * **DID**: the user's account is a Decentralised Identifier (DID) - a file which *in this case* is stored on the user's PDS. Other options are possible.
@@ -71,7 +68,6 @@ They are:
 
 The view from the stratosphere also shows us a new component, required for global search:
 
-![[strato-did-all.drawio.png]]
 
 * the **PLC Directory** (technically "DID:PLC Directory") allows appviews to find users and their content;
 * In the image, someone using an Appview is searching for a user via "user search" - they'll find it thanks to the PLC Directory.
@@ -82,13 +78,11 @@ The view from the stratosphere also shows us a new component, required for globa
 * I use the word "central" deliberately - the PLC Directory is currently (May 2025) run by the Bluesky *company* (Bluesky Social PBC, which is frequently cited as evidence that Bluesky *the app* is not completely decentralised. Plans are afoot to spin it off as a separate entity, perhaps managed by multiple organisations as a public good. 
 * learn more about [PLC Directory](https://web.plc.directory/)
 
----
 
 ## Mesosphere: Feed generators and labellers
 
 **As you get deeper into the atmosphere, more details start appearing.**
 
-![[meso.drawio.png]]
 
 In the above diagram, two tools take content from the Relay and provide their outputs to appviews*. Both are designed to put control of moderation in users' hands, and are independent of the Bluesky company or its technology:
 
@@ -112,6 +106,8 @@ Principle source:  [Three things you probably didn't know about Bluesky](https:/
 
 
 ---
+ 
+ 
 
 ## What should come next? (up to here)
 
