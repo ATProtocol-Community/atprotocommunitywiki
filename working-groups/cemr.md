@@ -2,36 +2,49 @@
 title: CEMR: A Commons-Based Moderation Relay for ATProto
 description: 
 published: true
-date: 2025-05-20T22:19:41.253Z
+date: 2025-05-20T22:37:21.481Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:14:12.528Z
 ---
 
-# CEMR: A Commons-Based Moderation Relay for ATProto
+# Commons Moderation Working Group
 
-## Purpose
+
+Participants
+
+* Sebastian [@seabass.bsky.social](https://bsky.app/profile/seabass.bsky.social), Flashes
+* yawn, Flashes
+* Your Name Here!
+
+Resources
+
+* this site!
+* channel on Discord?
+
+## Overview
+### Purpose
 
 The **CEMR** (Commons European Moderation Relay) is an open infrastructure initiative that enables **DSA-compliant content moderation** for decentralized social networking — specifically for the **ATProto ecosystem**, including platforms like **Bluesky**. It offers a transparent, modular solution to support small PDS (Personal Data Server) operators and AppView developers with **label-based moderation**, **geo-specific filtering**, and **legal safeguards**, without centralizing power.
 
 ---
 
-## Key Components
+### Key Components
 
-### 1. **Labeling Service**
+#### 1. **Labeling Service**
 
 - Subscribes to ATProto Jetstream (via Relay or directly)
 - Parses content from posts, profiles, and feeds
 - Applies **automated moderation labels** (e.g., CSAM, hate speech)
 - Emits **signed labels** via `com.atproto.label.*` feed
 
-### 2. **Moderation Policy Feed**
+#### 2. **Moderation Policy Feed**
 
 - Public, signed stream of labels and explanations
 - Consumers (AppViews or PDSes) can choose to trust labels
 - Supports **audits, appeals**, and **shared governance**
 
-### 3. **Open Source PDS Filter**
+#### 3. **Open Source PDS Filter**
 
 - Middleware that sits in front of a PDS
 - Filters or blocks access to content based on:
@@ -39,7 +52,7 @@ The **CEMR** (Commons European Moderation Relay) is an open infrastructure initi
   - **Label types** (e.g., block CSAM globally, hate speech in Germany)
 - Optional: notice display, appeals redirect, transparency log
 
-### 4. **Optional AppView Integration**
+#### 4. **Optional AppView Integration**
 
 - AppViews can subscribe to CEMR's label stream
 - Use labels to:
@@ -49,7 +62,7 @@ The **CEMR** (Commons European Moderation Relay) is an open infrastructure initi
 
 ---
 
-## DSA Compliance Enablement
+### DSA Compliance Enablement
 
 | DSA Requirement                | Handled By                                   |
 | ------------------------------ | -------------------------------------------- |
@@ -61,7 +74,7 @@ The **CEMR** (Commons European Moderation Relay) is an open infrastructure initi
 
 ---
 
-## System Diagram
+### System Diagram
 
 https://www.icloud.com/iclouddrive/05bpmHdNBq-ln-iMuesVKNnuw#CEMR
 
