@@ -2,7 +2,7 @@
 title: A deep-as-you-like dive into the ATmosphere
 description: An unfinished multilayered explainer into how Bluesky and the rest of the ATmosphere works.
 published: true
-date: 2025-05-20T13:36:12.428Z
+date: 2025-05-20T13:37:06.932Z
 tags: explainer
 editor: markdown
 dateCreated: 2025-05-20T13:26:19.174Z
