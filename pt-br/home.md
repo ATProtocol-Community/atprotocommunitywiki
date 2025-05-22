@@ -2,7 +2,7 @@
 title: Wiki Comunitária do AT Protocol
 description: Página Inicial da Wiki Comunitária do AT Protocol
 published: true
-date: 2025-05-04T05:50:12.423Z
+date: 2025-05-22T18:44:32.052Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T04:51:31.200Z
@@ -22,6 +22,7 @@ Se você gostaria de aprender mais sobre o AT Protocol, confira os links abaixo 
 - [Referência *Glossário dos componentes do ATProto*](/wiki/reference)
 - [Guias Práticos *Aprenda como implementar componentes do protocolo em seus projetos*](/wiki/guides)
 - [Introdução ao ATproto *Comece imediatamente com projetos passo a passo*](/wiki/tutorials)
+- [Questões de Políticas Públicas *Como questões legais e regulatórias afetam as implantações do ATproto* ](/en/wiki/publicpolicy)
 {.links-list}
 
 ## Atualizações
