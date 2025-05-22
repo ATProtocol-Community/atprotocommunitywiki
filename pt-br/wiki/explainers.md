@@ -2,7 +2,7 @@
 title: Explicativos do AT Protocol
 description: Em construção
 published: true
-date: 2025-05-03T07:30:01.323Z
+date: 2025-05-22T16:05:29.911Z
 tags: wiki, atproto
 editor: markdown
 dateCreated: 2025-03-28T21:34:39.921Z
@@ -19,12 +19,10 @@ dateCreated: 2025-03-28T21:34:39.921Z
 
 — Steve Klabnik, [@steveklabnik.com](https://bsky.app/profile/steveklabnik.com)
 
+Prova de conceito em desenvolvimento, voluntários são bem-vindos em [A deep-as-you-like dive into the ATmosphere](/en/wiki/explainers/deep-dive)
+
 A postagem do Steve é um dos cinco itens nessa coleção atualmente (01/05/2025): [tudo com as tags #atprotol e #guide](https://myhub.ai/@mathewlowry/?tags=guide&types=like&types=do&types=think&timeframe=anytime&quality=all&tags=atprotocol).
 
-## Sugestão
-
-> Veja essa seção na versão desta página em inglês.
-{.is-info}
 
 ## Identificadores
 
