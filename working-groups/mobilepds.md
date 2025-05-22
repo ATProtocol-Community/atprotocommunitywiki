@@ -2,7 +2,7 @@
 title: MobilePDS Working Group
 description: 
 published: true
-date: 2025-05-22T07:32:49.970Z
+date: 2025-05-22T07:40:01.777Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -75,7 +75,7 @@ This architecture supports **DSA-aligned content moderation**, preserves user pr
 
 ### Designed to work with
 
-- ✅ **CEMR** (Commons European Moderation Relay)
+- ✅ [**CEMR** (Commons European Moderation Relay)](https://atproto.wiki/en/working-groups/cemr)
 - ✅ Any ATProto AppView or client
 - ✅ Any compliant mirror PDS
 - ✅ Legal regimes requiring caching-based compliance (DSA)
