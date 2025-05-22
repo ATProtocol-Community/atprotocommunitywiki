@@ -2,13 +2,13 @@
 title: Long form
 description: Long form content working group
 published: true
-date: 2025-05-22T10:56:54.874Z
+date: 2025-05-22T11:02:05.263Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T09:40:29.393Z
 ---
 
-# Long form
+# Long Form
 Participants
 * Matt [@librenews.bsky.social](https://bsky.app/profile/librenews.bsky.social)
 * Dylan Gregori Singer [@symm.social](https://symm.social)
