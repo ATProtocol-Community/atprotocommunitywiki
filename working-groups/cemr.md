@@ -2,7 +2,7 @@
 title: Commons Moderation Working Group
 description: 
 published: true
-date: 2025-05-22T15:19:20.935Z
+date: 2025-05-22T17:06:29.135Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:14:12.528Z
@@ -17,6 +17,7 @@ Participants
 * yawn, Flashes
 * Robin [@robin.berjon.com](https://bsky.app/profile/robin.berjon.com), IPFS
 * Ted [@knowtheory.net](https://bsky.app/profile/knowtheory.net), ATProto Community Fund
+- Torsten [tgoerke](tgoerke.bsky.social)
 * Your Name Here!
 
 Resources
