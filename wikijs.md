@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Notes and discussion around WikiJS and this install in particular
 published: true
-date: 2025-05-22T18:32:52.690Z
+date: 2025-05-22T18:33:38.308Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-25T20:25:09.180Z
@@ -20,11 +20,11 @@ Baldemoto contributing atproto.wiki domain
 
 Baldemoto being onboarded to Commons Computer and backend admin for wikijs
 
-### March 30th. 2025
+### March 30th, 2025
 
 Added the bsky post embed code to the header of all pages, see [Natalie's Login](/login-with-atproto) for example.
 
-### May 22nd. 2025
+### May 22nd, 2025
 
 Languages that are not currently in use (Dutch, French, German, Spanish) have been removed until more translators volunteer.
 
