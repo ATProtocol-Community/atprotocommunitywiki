@@ -2,7 +2,7 @@
 title: MobilePDS Working Group
 description: 
 published: true
-date: 2025-05-22T07:40:01.777Z
+date: 2025-05-22T07:42:47.658Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -121,7 +121,7 @@ A simple overview of how the mobilePDS architecture works:
                   
                   
 ```
-#### Mobile PDS Signing Key Management
+#### WIP - Mobile PDS Signing Key Management (requires support for multiple signing keys) 
 A mobile PDS (MPDS) key asset is control over the signing key. When setting up an MPDS, the following keys are generated and subsequently registered at the PLC:
 
 1. Device Signing Key (SKD) which is specific for the mobile device being used
