@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Anotações e discussões sobre WikiJS e esta instalação em particular
 published: true
-date: 2025-05-22T18:51:07.707Z
+date: 2025-05-22T18:51:44.642Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-27T05:47:26.684Z
@@ -18,7 +18,7 @@ Anotações e discussões sobre WikiJS e esta instalação em particular
 
 Baldemoto contribuiu com o domínio atproto.wiki
 
-Baldemoto integrado ao uso do Commons Computer e administração de backend para wikijs
+Baldemoto integrado ao uso do Commons Computer e administração de backend para wikiJS
 
 ### 30 de Março de 2025
 
