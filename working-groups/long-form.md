@@ -2,7 +2,7 @@
 title: Long form
 description: Long form content working group
 published: true
-date: 2025-05-22T11:02:05.263Z
+date: 2025-05-22T11:28:10.674Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T09:40:29.393Z
@@ -15,4 +15,4 @@ Participants
 
 Resources
 * this site!
-* channel on Discord? <-- (comment: we can use [my personal discord server](https://symm.city) if people are comfortable with that?? ~symmetricalboy)
+* channel on Discord? <-- (comment: we can connect on the api touchers discord i think. ~symmetricalboy)
