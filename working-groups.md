@@ -2,7 +2,7 @@
 title: Working Groups
 description: A list of community working groups on ATProto
 published: true
-date: 2025-05-20T22:11:10.236Z
+date: 2025-05-22T09:36:01.173Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-26T22:56:45.381Z
@@ -27,3 +27,4 @@ dateCreated: 2025-03-26T22:56:45.381Z
 * [IndieSky](/working-groups/indiesky/)
 * [CEMR](/working-groups/cemr/)
 * [Mobile PDS](/working-groups/mobilepds/)
+* [Long form](/working-groups/long-form)
