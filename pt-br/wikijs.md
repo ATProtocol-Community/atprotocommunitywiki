@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Anotações e discussões sobre WikiJS e esta instalação em particular
 published: true
-date: 2025-05-22T18:32:48.888Z
+date: 2025-05-22T18:38:06.368Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-27T05:47:26.684Z
@@ -12,21 +12,21 @@ dateCreated: 2025-03-27T05:47:26.684Z
 
 Anotações e discussões sobre WikiJS e esta instalação em particular
 
-## Change Log
+## Registro de alterações
 
-### April 29th, 2025
+### 29 de Abril de 2025
 
-Baldemoto contributing atproto.wiki domain
+Baldemoto contribuiu com o domínio atproto.wiki
 
-Baldemoto being onboarded to Commons Computer and backend admin for wikijs
+Baldemoto integrado ao Commons Computer e administração de backend para wikijs
 
-### March 30th. 2025
+### 30 de Março de 2025
 
-Added the bsky post embed code to the header of all pages, see [Natalie's Login](/login-with-atproto) for example.
+Adicionado código de incorporação para postagens do Bluesky ao cabeçalho de todas as páginas, veja o [Login da Natalie](/en/login-with-atproto) como exemplo.
 
-### May 22nd. 2025
+### 22 de Maio de 2025
 
-Languages that are not currently in use (Dutch, French, German, Spanish) have been removed until more translators volunteer.
+Os idiomas que não estão em uso no momento (holandês, francês, alemão, espanhol) foram removidos até que mais tradutores se voluntariem.
 
 ## Instalação
 
