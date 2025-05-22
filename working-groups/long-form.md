@@ -2,7 +2,7 @@
 title: Long form
 description: Long form content working group
 published: true
-date: 2025-05-22T10:54:16.707Z
+date: 2025-05-22T10:56:54.874Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T09:40:29.393Z
@@ -11,7 +11,7 @@ dateCreated: 2025-05-22T09:40:29.393Z
 # Long form
 Participants
 * Matt [@librenews.bsky.social](https://bsky.app/profile/librenews.bsky.social)
-* [Dylan Gregori Singer (symmetricalboy)](https://symm.social)
+* Dylan Gregori Singer [@symm.social](https://symm.social)
 
 Resources
 * this site!
