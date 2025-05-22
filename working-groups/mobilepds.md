@@ -2,7 +2,7 @@
 title: MobilePDS Working Group
 description: 
 published: true
-date: 2025-05-20T22:49:56.135Z
+date: 2025-05-22T07:32:49.970Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -20,6 +20,12 @@ Resources
 
 * this site!
 * channel on Discord?
+
+## TODOs
+
+1. Extract the functions that a single tenant PDS would need (from https://github.com/bluesky-social/atproto/discussions/2350)
+2. Split up those function between the mobile SDK and the mirror PDS
+3. Setup a roadmap for development
 
 ## Overview
 
