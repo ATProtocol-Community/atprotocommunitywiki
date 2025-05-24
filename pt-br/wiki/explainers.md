@@ -2,7 +2,7 @@
 title: Explicativos do AT Protocol
 description: Em construção
 published: true
-date: 2025-05-22T18:06:28.148Z
+date: 2025-05-24T05:11:27.966Z
 tags: wiki, atproto
 editor: markdown
 dateCreated: 2025-03-28T21:34:39.921Z
@@ -26,5 +26,5 @@ A postagem do Steve é um dos cinco itens nessa coleção atualmente (01/05/2025
 
 ## Identificadores
 
-- [Entendendo o Sistema de Duplo Idenfitidor](/en/wiki/explainers/identifiers/dual-identifiers)
+- [Entendendo o Sistema de Duplo Identificador](/en/wiki/explainers/identifiers/dual-identifiers)
 {.links-list}
