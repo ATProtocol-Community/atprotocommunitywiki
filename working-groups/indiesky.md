@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-06-02T05:55:55.428Z
+date: 2025-06-02T16:49:49.733Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -33,7 +33,7 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 ## IndieSky WG003: Moderation
 
-June 5, 9am PST / 12pm EST / 1800 CEST
+June 12, 9am PST / 12pm EST / 1800 CEST
 
 Moderation is the product!  As we talked about PDSes last session, moderation came up as a major concern when hosting data infrastructure for other users.  This session we'll talk about moderation for ATmosphere:
 
