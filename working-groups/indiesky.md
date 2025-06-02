@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-06-02T05:47:45.715Z
+date: 2025-06-02T05:55:55.428Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -40,6 +40,12 @@ Moderation is the product!  As we talked about PDSes last session, moderation ca
 * Moderating ATproto apps
 * Bluesky's moderation and their Ozone labeler
 * Community moderation, and communities currently running moderation (like Blacksky)
+
+Register here: https://lu.ma/d6lfjfd0
+
+The meeting will be recorded and notes taken / shared afterwards.
+
+* [Notes](/working-groups/indiesky/wg002) and video recording
 
 # Past Meetings
 
