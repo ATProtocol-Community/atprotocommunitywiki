@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-05-19T18:31:28.122Z
+date: 2025-06-02T05:47:45.715Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -31,6 +31,18 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 # Upcoming Meetings
 
+## IndieSky WG003: Moderation
+
+June 5, 9am PST / 12pm EST / 1800 CEST
+
+Moderation is the product!  As we talked about PDSes last session, moderation came up as a major concern when hosting data infrastructure for other users.  This session we'll talk about moderation for ATmosphere:
+
+* Moderating ATproto apps
+* Bluesky's moderation and their Ozone labeler
+* Community moderation, and communities currently running moderation (like Blacksky)
+
+# Past Meetings
+
 ## IndieSky WG002: PDS Hosting
 
 May 22nd, 9am PST / 12pm EST / 1800 CEST
@@ -49,7 +61,6 @@ The meeting will be recorded and notes taken / shared afterwards.
 
 * [Notes](/working-groups/indiesky/wg002) and video recording
 
-# Past Meetings
 
 ## IndieSky WG001: Virtual Kick Off Meeting
 
