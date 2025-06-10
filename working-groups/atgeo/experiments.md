@@ -2,7 +2,7 @@
 title: ATgeo Experiments
 description: Write ups on product loops and experiments around ATgeo
 published: true
-date: 2025-04-05T01:09:42.529Z
+date: 2025-06-10T20:51:08.095Z
 tags: atgeo
 editor: markdown
 dateCreated: 2025-03-28T23:03:45.107Z
@@ -20,7 +20,7 @@ An application and initial geo appview that lets people annotate existing ATprot
 
 The goal of the Marker Lexicon is to annotate or add geo data to existing AT URI records. It's a very thin wrapper mostly meant to be used as a proof of concept to add geo data to the network, without having to create Lexicons that are geo-native ahead of time.
 
-* name/label? (optional? -- can use this to make just labeled pins as the simplest element)
+* name/label? (optional? -- can use this to make just labeled markers as the simplest element)
 * geo lexicon field - venue OR lat/long OR address? (insert geo lexicon definition here)
 * link to existing ATproto record (optional)
 
@@ -38,11 +38,11 @@ Visual treatment for display on the map is the main unique thing? e.g. hover on 
 
 Can also display SmokeSignal events (native support) on the map.
 
-Instructions for devs to do a PR to add support for display / interaction in "pin" mode.
+Instructions for devs to do a PR to add support for display / interaction in "mark" mode.
 
 ## App
 
-The home page is a map view showing the last N markers + native geo items (so: we're running a backend service that fetches pins + records with native geo lexicon support).
+The home page is a map view showing the last N markers + native geo items (so: we're running a backend service that fetches markers + records with native geo lexicon support).
 
 You can login via OAuth and get access to:
 
@@ -53,7 +53,7 @@ You can login via OAuth and get access to:
 * Making "maps" which are collections of markers (e.g. Places that serve great Lahksa in Vancouver, Places I took Pictures Last Week, etc)
 	* we may need to do this as a complete example / purpose --> make markers of things and collect them on a map
   
-### Creating a New Pin
+### Creating a New Marker
 
 This is where we can test a "location" widget.
 
