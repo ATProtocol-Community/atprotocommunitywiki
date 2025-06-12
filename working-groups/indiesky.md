@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-06-11T14:31:53.435Z
+date: 2025-06-12T14:05:01.689Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -45,7 +45,7 @@ Register here: https://lu.ma/d6lfjfd0
 
 The meeting will be recorded and notes taken / shared afterwards.
 
-* [Notes](https://notes.commonscomputer.com/indiesky?both) and video recording
+* [Notes](https://notes.commonscomputer.com/indieskywg?both) and video recording
 
 # Past Meetings
 
