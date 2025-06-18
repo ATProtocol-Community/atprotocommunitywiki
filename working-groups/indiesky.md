@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-06-12T14:05:01.689Z
+date: 2025-06-18T17:37:42.618Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -31,6 +31,10 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 # Upcoming Meetings
 
+## IndieSky WG004
+
+Coming soon!
+
 ## IndieSky WG003: Moderation
 
 June 12, 9am PST / 12pm EST / 1800 CEST
@@ -41,11 +45,9 @@ Moderation is the product!  As we talked about PDSes last session, moderation ca
 * Bluesky's moderation and their Ozone labeler
 * Community moderation, and communities currently running moderation (like Blacksky)
 
-Register here: https://lu.ma/d6lfjfd0
-
 The meeting will be recorded and notes taken / shared afterwards.
 
-* [Notes](https://notes.commonscomputer.com/indieskywg?both) and video recording
+* [Notes](/working-groups/indiesky/wg003) and video recording
 
 # Past Meetings
 
@@ -60,8 +62,6 @@ From our last meeting, we did a speed run through the entire architecture. It fe
 * PDS for App Devs: running a PDS along with a custom app to provide smooth sign up
 
 We'll call for questions and notes ahead of time, likely using Laurens questions from Ahoy IndieSky as a basis.
-
-Register here: https://lu.ma/emwqsj8c
 
 The meeting will be recorded and notes taken / shared afterwards.
 
