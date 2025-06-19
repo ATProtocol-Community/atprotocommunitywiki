@@ -2,7 +2,7 @@
 title: Private Data Working Group
 description: Private data working group
 published: true
-date: 2025-04-19T15:30:34.912Z
+date: 2025-06-19T17:14:30.738Z
 tags: working group, private data
 editor: markdown
 dateCreated: 2025-03-27T15:40:37.235Z
@@ -13,6 +13,7 @@ dateCreated: 2025-03-27T15:40:37.235Z
 Participants
 * Boris [@bmann.ca](https://bsky.app/profile/bmann.ca)
 * Ted [@knowtheory.net](https://bsky.app/profile/knowtheory.net)
+* David [@david.frasergo.org](https://bsky.app/profile/david.frasergo.org)
 * Your Name Here!
 
 Resources
