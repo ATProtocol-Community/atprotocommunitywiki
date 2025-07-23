@@ -2,7 +2,7 @@
 title: ATProto NYC Community Hack Day
 description: An ATProto Community Hack Day in New York City
 published: true
-date: 2025-07-17T22:47:07.231Z
+date: 2025-07-23T18:49:01.058Z
 tags: event, nyc
 editor: markdown
 dateCreated: 2025-07-10T00:29:41.513Z
@@ -62,7 +62,7 @@ Running an instance / hacking on Smoke Signal
 
 ### Ecosystem Events
 
-WHo wants to come to FOSDEM? More local meetups (who is going to run NYC ongoing!) What non-ATProto events should we present at in the coming year?
+Who wants to come to FOSDEM? More local meetups (who is going to run NYC ongoing!) What non-ATProto events should we present at in the coming year?
 
 ## rsky
 
@@ -73,6 +73,7 @@ Onboarding to rsky codebase, roadmap, plans[^borisdidthis]
 * Rudy - Blacksky / rsky ???
 * Nick - Smoke Signal / AIP ???
 * Eli - Stream place updates ???
+* Stellz - wallet linking / payment ???
 * lightning talks / demos -- everyone that hacked / wants to present, come up and talk about what you did
 * you? we'll make a call for speakers and get it sorted
 
