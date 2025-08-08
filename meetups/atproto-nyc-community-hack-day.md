@@ -2,7 +2,7 @@
 title: ATProto NYC Community Hack Day
 description: An ATProto Community Hack Day in New York City
 published: true
-date: 2025-07-23T18:49:01.058Z
+date: 2025-08-08T18:25:25.561Z
 tags: event, nyc
 editor: markdown
 dateCreated: 2025-07-10T00:29:41.513Z
@@ -28,6 +28,7 @@ Some of the projects & people who will be around include:
 * Smoke Signal (Nick)
 * Blacksky (Rudy)
 * Sprk (Joe)
+* AT-home (Tynan)
 * you? (RSVP + add yourself here!)
 
 Some "friends of ATProto" like [Unternet](https://unternet.co), [n0](https://n0.computer), [Folk Computer](https://folk.computer/)[^folk] are also likely to be around, and there are lots of other great creative technologists in NYC that are likely to want to come join.
