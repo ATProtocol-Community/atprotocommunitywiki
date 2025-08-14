@@ -2,7 +2,7 @@
 title: ATProto NYC Community Hack Day
 description: An ATProto Community Hack Day in New York City
 published: true
-date: 2025-08-12T14:19:45.961Z
+date: 2025-08-14T15:53:34.763Z
 tags: event, nyc
 editor: markdown
 dateCreated: 2025-07-10T00:29:41.513Z
@@ -32,7 +32,7 @@ Some of the projects & people who will be around include:
 * Cosmik Network (Ronen)
 * you? (RSVP + add yourself here!)
 
-Some "friends of ATProto" like [Unternet](https://unternet.co), [n0](https://n0.computer), [Folk Computer](https://folk.computer/)[^folk] are also likely to be around, and there are lots of other great creative technologists in NYC that are likely to want to come join.
+Some "friends of ATProto" like [Unternet](https://unternet.co), [n0](https://n0.computer), [Folk Computer](https://folk.computer/)[^folk], [ROOST](https://roost.tools) are also likely to be around, and there are lots of other great creative technologists in NYC that are likely to want to come join.
 
 We have a provisional venue (thanks Hex House!) where we can gather during the day and then do a larger presentation and demo focused evening event.
 
