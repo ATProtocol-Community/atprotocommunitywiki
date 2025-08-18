@@ -2,7 +2,7 @@
 title: ATGeo
 description: Geo, venue, and general location and gis data for ATProto
 published: true
-date: 2025-05-01T13:59:53.685Z
+date: 2025-08-18T00:31:32.104Z
 tags: working group, atgeo, gis
 editor: markdown
 dateCreated: 2025-03-27T18:33:13.710Z
@@ -32,6 +32,12 @@ The four main deliverables include:
 The Community Fund will fund contributors, as well as support developers in integrating the venue/geo lexicons.
 
 Backend, commons infrastructure servers will be run for at least a year to start.
+
+# Meetings
+
+- **[Upcoming]** If you’re interested in joining a meeting to formalize the ATgeo Working Group, add your availability [to the survey in this post](https://discourse.lexicon.community/t/formalization-meeting-atgeo-working-group/93
+)! The meeting will be between August 25th and the 29th, to be scheduled around Thursday August 21st.
+ 
 
 # Intent to Implement
 
