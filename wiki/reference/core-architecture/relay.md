@@ -2,7 +2,7 @@
 title: Relays
 description: 
 published: true
-date: 2025-05-03T04:41:07.753Z
+date: 2025-08-24T00:01:59.657Z
 tags: wiki, documentation, core architecture, relay
 editor: markdown
 dateCreated: 2025-03-31T22:04:13.354Z
@@ -32,8 +32,6 @@ As part of its processing, relays perform initial data cleaning by discarding ma
 WIP
 
 ## Operational considerations
-Running a relay requires significant resources compared to other AT Protocol services. As of mid-2024, maintaining a real-time copy of all user repositories for a network of 6 million users cost approximately $153 per month in storage and bandwidth alone, not including computational resources for processing and serving the data.
-
-Due to these resource requirements, there are likely to be fewer relays than self-hosted PDSes. However, the protocol is designed to support multiple relays operating independently, such that no single entity has control over data distribution in the network.
+As April 21, 2025, [a full-network relay can be run for as low as $20 per month ($30 CAD)](https://bsky.app/profile/did:plc:hdhoaan3xa3jiuq4fg4mefid/post/3lne2wvr5hc2b) thanks to the [sync 1.1 update](https://github.com/bluesky-social/proposals/tree/main/0006-sync-iteration). If one wanted to, they could also [run it on a raspberry pi](https://whtwnd.com/futur.blue/3lkubavdilf2m).
 
 Relays can be operated at different scales. Full-network relays track all repositories across the entire network, providing complete coverage. Partial-network relays might focus on specific communities, applications, or regions, reducing resource requirements. Specialized relays could serve particular use cases, such as academic research, brand monitoring, or archive preservation. 
