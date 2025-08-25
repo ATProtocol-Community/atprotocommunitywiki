@@ -2,7 +2,7 @@
 title: ATvision
 description: ATvision - common infrastructure for impression analytics
 published: true
-date: 2025-08-25T21:19:00.889Z
+date: 2025-08-25T21:27:06.371Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T21:19:00.889Z
@@ -17,7 +17,7 @@ Participants
 
 Resources
 * this!
-* [Graphtracks Discord](https://discord.com/channels/1242106048316309575/1409647243509891262)
+* [Graphtracks Discord](https://discord.gg/KQzvUaJb)
 
 # Overview
 
