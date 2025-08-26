@@ -2,7 +2,7 @@
 title: ATvision
 description: ATvision - common infrastructure for impression analytics
 published: true
-date: 2025-08-25T21:27:06.371Z
+date: 2025-08-26T21:08:22.208Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T21:19:00.889Z
@@ -29,9 +29,9 @@ Goals:
 
 * privacy first, no individual user tracking
 * global opt-out
-* context awarness of impressions
-* standart definition of impression
-* developement of new standard lexicon
+* context awareness of impressions
+* standard definition of impression
+* development of new standard lexicon
 * metrics accuracy and authenticity
 
 # Architecture
