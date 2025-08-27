@@ -2,7 +2,7 @@
 title: ATvision
 description: ATvision - common infrastructure for impression analytics
 published: true
-date: 2025-08-27T19:42:49.612Z
+date: 2025-08-27T19:44:04.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T21:19:00.889Z
@@ -62,7 +62,9 @@ Example
 
 # Meetings
 
-TODO: kick-off meeting
+## Kick-off meeting 8 Sep 
+
+[SmokeSignals](https://smokesignal.events/did:plc:apcrxi2bjrgckbym5ez5wlfh/3lxdgodmd2e2r)
 
 # Notes
 
