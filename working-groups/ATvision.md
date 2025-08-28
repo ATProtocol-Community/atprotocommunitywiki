@@ -2,13 +2,13 @@
 title: ATvision
 description: ATvision - common infrastructure for impression analytics
 published: true
-date: 2025-08-27T19:44:04.449Z
+date: 2025-08-28T11:30:34.160Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T21:19:00.889Z
 ---
 
-# Private Data Working Group
+# ATvision Working Group
 
 Participants
 * Marat [@minbash.bsky.social](https://bsky.app/profile/minbash.bsky.social)
