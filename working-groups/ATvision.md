@@ -2,7 +2,7 @@
 title: ATvision
 description: ATvision - common infrastructure for impression analytics
 published: true
-date: 2025-08-28T11:30:34.160Z
+date: 2025-09-08T18:06:33.627Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T21:19:00.889Z
@@ -12,7 +12,7 @@ dateCreated: 2025-08-25T21:19:00.889Z
 
 Participants
 * Marat [@minbash.bsky.social](https://bsky.app/profile/minbash.bsky.social)
-
+* Ted Han [@knowtheory.net](https://bsky.app/profile/knowtheory.net)
 * Your Name Here!
 
 Resources
