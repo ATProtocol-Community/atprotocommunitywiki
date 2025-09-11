@@ -2,7 +2,7 @@
 title: ATvision
 description: ATvision - common infrastructure for impression analytics
 published: true
-date: 2025-09-11T19:00:27.815Z
+date: 2025-09-11T19:55:57.577Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-25T21:19:00.889Z
@@ -25,7 +25,7 @@ Resources
 
 The ATvision Working Group is focused on bringing impression(view) analytics into ATmosphere. ATvision is closing common gap in growth analytics for open social media.
 
-Impression is event when piece of content was show to user with some context
+Impression is an event when piece of content was shown to a user with some context
 
 Goals:
 
