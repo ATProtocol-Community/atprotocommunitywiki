@@ -2,7 +2,7 @@
 title: IndieSky Working Group
 description: Independent AT Protocol infrastructure
 published: true
-date: 2025-06-18T17:37:42.618Z
+date: 2025-10-03T00:45:46.850Z
 tags: indiesky
 editor: markdown
 dateCreated: 2025-04-04T17:17:52.124Z
@@ -35,6 +35,8 @@ Organizations and initiatives interested in implementing, supporting, running in
 
 Coming soon!
 
+# Past Meetings
+
 ## IndieSky WG003: Moderation
 
 June 12, 9am PST / 12pm EST / 1800 CEST
@@ -48,8 +50,6 @@ Moderation is the product!  As we talked about PDSes last session, moderation ca
 The meeting will be recorded and notes taken / shared afterwards.
 
 * [Notes](/working-groups/indiesky/wg003) and video recording
-
-# Past Meetings
 
 ## IndieSky WG002: PDS Hosting
 
