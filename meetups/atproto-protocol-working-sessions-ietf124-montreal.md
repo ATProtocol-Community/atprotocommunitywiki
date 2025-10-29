@@ -2,7 +2,7 @@
 title: ATProto Protocol Working Session at IETF124
 description: IETF124 is in Montreal, Nov 1st - 7th
 published: true
-date: 2025-07-17T17:33:09.770Z
+date: 2025-10-29T17:41:01.068Z
 tags: protocol, ietf
 editor: markdown
 dateCreated: 2025-07-17T17:33:09.770Z
@@ -15,6 +15,8 @@ dateCreated: 2025-07-17T17:33:09.770Z
 The likely topics include OAuth Scopes, E2EE Messaging, and Private Data, but anyone doing protocol work is welcome to attend and contribute.
 
 * [RSVP on Smoke Signal](https://smokesignal.events/did:plc:lehcqqkwzcwvjvw66uthu5oq/3lu6hmy4rxv2c)
+
+You can participate in the atp session at the IETF remotely. [Learn more →](https://discourse.atprotocol.community/t/how-you-can-help-atproto-at-the-upcoming-ietf-meeting/222)
 
 ## Remote Participation
 
