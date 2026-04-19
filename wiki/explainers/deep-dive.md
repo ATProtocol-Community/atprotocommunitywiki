@@ -2,7 +2,7 @@
 title: A deep-as-you-like dive into the ATmosphere
 description: An unfinished multilayered explainer into how Bluesky and the rest of the ATmosphere works.
 published: true
-date: 2026-04-19T11:44:07.748Z
+date: 2026-04-19T11:44:23.557Z
 tags: explainer
 editor: markdown
 dateCreated: 2025-05-20T13:26:19.174Z
@@ -14,9 +14,9 @@ dateCreated: 2025-05-20T13:26:19.174Z
 
 *(Sidenote Intro: This page provides a proof-of-concept for a multi-layered explainer of the ATmosphere to non-specialists. Unfortunately I **am** one of those non-specialists, so reach out via [Bluesky](https://bsky.app/profile/mathewlowry.bsky.social) if you can provide the protocol expertise I lack.*
 
-*Note that the final version will need attractive graphics and ideally would be told using scrollytelling, with each scroll revealing more detail as the reader dives into the Atmosphere. 
+*Note that the final version will need attractive graphics and ideally would be told using scrollytelling, with each scroll revealing more detail as the reader dives into the Atmosphere.* 
 
-But let's get the content right first).*
+*But let's get the content right first).*
 
 ## Geostationary Orbit view
 
