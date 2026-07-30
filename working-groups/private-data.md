@@ -2,7 +2,7 @@
 title: Private Data Working Group
 description: Private data working group
 published: true
-date: 2025-07-25T22:07:05.449Z
+date: 2026-07-30T12:29:07.499Z
 tags: working group, private data
 editor: markdown
 dateCreated: 2025-03-27T15:40:37.235Z
@@ -43,6 +43,8 @@ The [E2EE Working Group](/working-groups/e2ee) is covering DMs / group chats, wh
 See [Private Data](https://wiki.atprotocol.community/en/atmosphereconf/seattle2025/private-data) -- covered both DMs / Chat, which is [E2EE](/working-groups/e2ee), as well as private data which this group will cover.
 
 ## Existing Bluesky Team Comments
+
+* [protocol check-in fall '25](https://atproto.com/blog/protocol-check-in-fall-2025#private-data#private-data) and links from there
 
 TODO: grab github threads and link / summarize here
 
