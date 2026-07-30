@@ -2,7 +2,7 @@
 title: Private Data Working Group
 description: Private data working group
 published: true
-date: 2026-07-30T12:29:07.499Z
+date: 2026-07-30T13:08:48.087Z
 tags: working group, private data
 editor: markdown
 dateCreated: 2025-03-27T15:40:37.235Z
@@ -45,8 +45,9 @@ See [Private Data](https://wiki.atprotocol.community/en/atmosphereconf/seattle20
 ## Existing Bluesky Team Comments
 
 * [protocol check-in fall '25](https://atproto.com/blog/protocol-check-in-fall-2025#private-data#private-data) and links from there
+* [proposal 0016 permissioned data](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 
-TODO: grab github threads and link / summarize here
+TODO: grab more github threads and link / summarize here
 
 
 # Proposals
