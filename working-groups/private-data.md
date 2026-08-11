@@ -2,7 +2,7 @@
 title: Private Data Working Group
 description: Private data working group
 published: true
-date: 2026-07-30T13:11:02.133Z
+date: 2026-08-11T10:53:34.517Z
 tags: working group, private data
 editor: markdown
 dateCreated: 2025-03-27T15:40:37.235Z
@@ -14,7 +14,7 @@ Participants
 * Boris [@bmann.ca](https://bsky.app/profile/bmann.ca)
 * Ted [@knowtheory.net](https://bsky.app/profile/knowtheory.net)
 * David [@david.frasergo.org](https://bsky.app/profile/david.frasergo.org)
-* Your Name Here!
+* Michiel [@michielbdejong.com](https://bsky.app/profile/michielbdejong.com)
 
 Resources
 * this site!
@@ -46,6 +46,7 @@ See [Private Data](https://wiki.atprotocol.community/en/atmosphereconf/seattle20
 
 * [protocol check-in fall '25](https://atproto.com/blog/protocol-check-in-fall-2025#private-data#private-data) and links from there
 * [permissioned data diary](https://dholms.leaflet.pub/)
+* [community forum discussion](https://discourse.atmosphere.community/t/permissioned-data-proposal-discussion/946)
 * [proposal 0016 permissioned data](https://github.com/bluesky-social/proposals/tree/main/0016-permissioned-data)
 
 TODO: grab more github threads and link / summarize here
