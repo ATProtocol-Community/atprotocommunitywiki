@@ -2,7 +2,7 @@
 title: MobilePDS Working Group
 description: 
 published: true
-date: 2025-05-22T07:42:47.658Z
+date: 2026-09-27T22:26:19.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-20T22:26:14.854Z
@@ -14,6 +14,7 @@ Participants
 
 * Sebastian [@seabass.bsky.social](https://bsky.app/profile/seabass.bsky.social), Flashes
 * yawn, Flashes
+* Bart-Jan
 * Your Name Here!
 
 Resources
