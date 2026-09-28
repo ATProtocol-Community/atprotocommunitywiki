@@ -2,7 +2,7 @@
 title: Labels
 description: 
 published: true
-date: 2025-05-04T01:53:53.632Z
+date: 2025-05-04T01:53:55.334Z
 tags: wiki, documentation, opinionated services, labels
 editor: markdown
 dateCreated: 2025-03-31T22:06:23.373Z

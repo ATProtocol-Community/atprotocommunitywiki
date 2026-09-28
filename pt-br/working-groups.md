@@ -2,7 +2,7 @@
 title: Grupos de Trabalho
 description: Uma lista de grupos de trabalho da comunidade no ATProto
 published: true
-date: 2025-09-22T06:00:27.318Z
+date: 2025-09-22T06:00:31.335Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-27T09:29:25.391Z

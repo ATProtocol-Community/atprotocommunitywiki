@@ -2,7 +2,7 @@
 title: Social Events
 description: Where to find, organize, and participate in ATProtocol social events
 published: true
-date: 2025-05-05T03:01:02.701Z
+date: 2025-05-05T03:01:06.836Z
 tags: meetup, discord, social
 editor: markdown
 dateCreated: 2025-05-05T03:01:02.701Z

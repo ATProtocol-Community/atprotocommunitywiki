@@ -2,7 +2,7 @@
 title: Beyond the Skeet: ATProto's Potential for Digital Preservation and Human Rights
 description: todo
 published: true
-date: 2025-04-02T18:45:05.141Z
+date: 2025-04-02T18:45:07.288Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:03:27.869Z

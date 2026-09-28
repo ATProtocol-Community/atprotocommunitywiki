@@ -2,7 +2,7 @@
 title: Wishlist: Longform Display in Bluesky
 description: A Wishlist item to explore the implications of displaying longform content in Bluesky clients
 published: true
-date: 2025-04-27T12:40:07.229Z
+date: 2025-04-27T12:40:10.323Z
 tags: bluesky, wishlist, long form, article
 editor: markdown
 dateCreated: 2025-04-27T12:40:07.229Z

@@ -2,7 +2,7 @@
 title: Identificadores de Conteúdo (CIDs)
 description: 
 published: true
-date: 2025-05-09T15:34:20.593Z
+date: 2025-05-09T15:34:22.132Z
 tags: wiki, documentation, identifiers, cid
 editor: markdown
 dateCreated: 2025-05-09T15:34:20.593Z

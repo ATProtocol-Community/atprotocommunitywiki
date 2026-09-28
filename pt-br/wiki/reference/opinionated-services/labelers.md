@@ -2,7 +2,7 @@
 title: Rotuladores
 description: 
 published: true
-date: 2025-05-04T01:49:36.548Z
+date: 2025-05-04T01:49:39.960Z
 tags: wiki, documentation, opinionated services, labeler
 editor: markdown
 dateCreated: 2025-05-04T01:49:36.548Z

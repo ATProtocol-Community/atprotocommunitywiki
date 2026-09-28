@@ -2,7 +2,7 @@
 title: Geradores de Feed
 description: 
 published: true
-date: 2025-05-03T04:45:18.294Z
+date: 2025-05-03T04:45:19.844Z
 tags: wiki, documentation, opinionated services, feed
 editor: markdown
 dateCreated: 2025-05-03T04:45:18.294Z

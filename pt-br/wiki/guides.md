@@ -2,7 +2,7 @@
 title: Guias Práticos
 description: Em construção
 published: true
-date: 2025-03-28T21:36:37.299Z
+date: 2025-03-28T21:36:39.225Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-28T21:36:37.299Z

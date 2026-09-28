@@ -2,7 +2,7 @@
 title: Interoperabilidade entre Protocolos
 description: Interoperabilidade entre protocolos e documentação
 published: true
-date: 2025-05-03T01:44:18.827Z
+date: 2025-05-03T01:44:20.630Z
 tags: cross-protocol, activitypub
 editor: markdown
 dateCreated: 2025-05-03T01:43:25.061Z

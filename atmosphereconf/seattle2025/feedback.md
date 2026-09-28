@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025 Feedback
 description: Please give us your feedback about the conference!
 published: true
-date: 2025-03-26T17:59:26.683Z
+date: 2025-03-26T17:59:28.772Z
 tags: atmosphereconf, feedback
 editor: markdown
 dateCreated: 2025-03-25T20:50:03.632Z

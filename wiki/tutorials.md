@@ -2,7 +2,7 @@
 title: Getting Started With ATproto
 description: to do
 published: true
-date: 2025-03-28T03:30:33.173Z
+date: 2025-03-28T03:30:36.013Z
 tags: tutorial
 editor: markdown
 dateCreated: 2025-03-28T03:30:33.173Z

@@ -2,7 +2,7 @@
 title: Legal and Regulatory Issues
 description: How laws and regulations in different jurisdictions affect ATproto deployment and operations
 published: true
-date: 2025-05-13T06:46:34.916Z
+date: 2025-05-13T06:46:38.146Z
 tags: dma, competition, antitrust, privacy, dataprotection, gdpr, policy, legal, dsa, trustandsafety
 editor: markdown
 dateCreated: 2025-05-13T05:18:45.883Z

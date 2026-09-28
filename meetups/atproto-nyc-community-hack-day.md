@@ -2,7 +2,7 @@
 title: ATProto NYC Community Hack Day
 description: An ATProto Community Hack Day in New York City
 published: true
-date: 2025-08-14T15:53:34.763Z
+date: 2025-08-14T15:53:37.711Z
 tags: event, nyc
 editor: markdown
 dateCreated: 2025-07-10T00:29:41.513Z

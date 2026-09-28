@@ -2,7 +2,7 @@
 title: Yearning for the Open Protocols
 description: todo
 published: true
-date: 2025-04-02T18:58:33.103Z
+date: 2025-04-02T18:58:35.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:05:47.868Z

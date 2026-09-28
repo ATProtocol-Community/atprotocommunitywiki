@@ -2,7 +2,7 @@
 title: Smoke Signal, an journey in building open ecosystems for communities 
 description: TODO
 published: true
-date: 2025-04-02T18:16:33.461Z
+date: 2025-04-02T18:16:35.804Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T20:55:48.518Z

@@ -2,7 +2,7 @@
 title: URIs AT
 description: 
 published: true
-date: 2025-05-09T15:25:41.968Z
+date: 2025-05-09T15:25:44.970Z
 tags: wiki, documentation, identifiers, at uri
 editor: markdown
 dateCreated: 2025-05-09T15:25:41.968Z

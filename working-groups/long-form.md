@@ -2,7 +2,7 @@
 title: Long form
 description: Long form content working group
 published: true
-date: 2025-05-22T11:28:10.674Z
+date: 2025-05-22T11:28:12.328Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T09:40:29.393Z

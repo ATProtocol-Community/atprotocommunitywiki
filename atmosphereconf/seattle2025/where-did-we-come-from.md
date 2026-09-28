@@ -2,7 +2,7 @@
 title: Where did we come from; where will we go
 description: TODO
 published: true
-date: 2025-04-02T18:16:09.805Z
+date: 2025-04-02T18:16:12.235Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T20:54:58.597Z

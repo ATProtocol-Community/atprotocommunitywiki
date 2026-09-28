@@ -2,7 +2,7 @@
 title: Login with ATProto
 description: From a design, UX, and re-usable UX perspective, designing a recognizable login with ATProto approach
 published: true
-date: 2025-04-02T05:34:05.369Z
+date: 2025-04-02T05:34:11.683Z
 tags: design, ux, login, branding
 editor: markdown
 dateCreated: 2025-03-27T22:42:35.393Z

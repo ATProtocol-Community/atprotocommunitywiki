@@ -2,7 +2,7 @@
 title: Lexicon Embed
 description: How do we embed, display, and render different Lexicons across the ATmosphere?
 published: true
-date: 2025-07-02T22:43:32.455Z
+date: 2025-07-02T22:43:35.880Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-02T22:43:32.455Z

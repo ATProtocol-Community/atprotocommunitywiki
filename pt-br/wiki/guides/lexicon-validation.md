@@ -2,7 +2,7 @@
 title: Validação de Lexicon
 description: Como você valida lexicons?
 published: true
-date: 2025-05-03T00:31:34.844Z
+date: 2025-05-03T00:31:38.959Z
 tags: lexicon, validation
 editor: markdown
 dateCreated: 2025-05-03T00:31:34.844Z

@@ -2,7 +2,7 @@
 title: ATmosphereConf Seattle 2025
 description: Anotações, palestras e outros artefatos do evento ATmosphereConf Seattle, realizado em março de 2025
 published: true
-date: 2025-04-15T15:59:00.633Z
+date: 2025-04-15T15:59:02.598Z
 tags: atmosphereconf, event
 editor: markdown
 dateCreated: 2025-03-27T08:56:54.761Z

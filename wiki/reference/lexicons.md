@@ -2,7 +2,7 @@
 title: Lexicon
 description: 
 published: true
-date: 2025-04-29T17:55:42.617Z
+date: 2025-04-29T17:55:44.253Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:14:31.198Z

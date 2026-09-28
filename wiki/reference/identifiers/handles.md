@@ -2,7 +2,7 @@
 title: Handles
 description: 
 published: true
-date: 2025-04-28T20:45:35.343Z
+date: 2025-04-28T20:45:36.983Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:07:02.204Z

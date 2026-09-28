@@ -2,7 +2,7 @@
 title: Presentations
 description: Presentations and slide decks about ATProto
 published: true
-date: 2025-05-28T14:02:07.410Z
+date: 2025-05-28T14:02:10.745Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-28T14:02:07.410Z

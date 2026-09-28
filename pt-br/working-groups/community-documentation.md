@@ -2,7 +2,7 @@
 title: Grupo de Trabalho de Documentação Comunitária
 description: Discussões sobre documentação mantida pela comunidade, incluindo esta wiki
 published: true
-date: 2025-03-28T21:26:04.557Z
+date: 2025-03-28T21:26:08.122Z
 tags: wiki, documentation, working group
 editor: markdown
 dateCreated: 2025-03-27T06:20:26.911Z

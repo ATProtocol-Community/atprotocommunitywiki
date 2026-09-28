@@ -2,7 +2,7 @@
 title: Self hosted PDS experience 
 description: What is different about being on a non Bluesky PDS
 published: true
-date: 2025-05-12T06:08:09.617Z
+date: 2025-05-12T06:08:11.368Z
 tags: pds, self hosted
 editor: markdown
 dateCreated: 2025-04-29T15:39:26.678Z

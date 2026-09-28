@@ -2,7 +2,7 @@
 title: Scaling atproto down and back up again
 description: todo
 published: true
-date: 2025-03-27T21:28:58.095Z
+date: 2025-03-27T21:29:00.033Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:28:58.095Z

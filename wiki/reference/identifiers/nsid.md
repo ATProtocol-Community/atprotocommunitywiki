@@ -2,7 +2,7 @@
 title: Namespaced Identifiers (NSIDs)
 description: 
 published: true
-date: 2025-04-28T21:22:18.703Z
+date: 2025-04-28T21:22:20.327Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:08:28.917Z

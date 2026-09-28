@@ -2,7 +2,7 @@
 title: Sidecar Pattern
 description: Posting multiple records to ATProto with a shared rky
 published: true
-date: 2025-05-07T16:52:14.428Z
+date: 2025-05-07T16:52:18.136Z
 tags: sidecar
 editor: markdown
 dateCreated: 2025-04-29T18:55:10.608Z

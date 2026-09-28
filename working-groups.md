@@ -2,7 +2,7 @@
 title: Working Groups
 description: A list of community working groups on ATProto
 published: true
-date: 2025-08-26T21:06:16.311Z
+date: 2025-08-26T21:06:19.250Z
 tags: working group
 editor: markdown
 dateCreated: 2025-03-26T22:56:45.381Z

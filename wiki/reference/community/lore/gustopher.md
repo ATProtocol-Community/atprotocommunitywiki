@@ -2,7 +2,7 @@
 title: Gustopher Goosetopher
 description: 
 published: true
-date: 2025-03-26T21:02:21.381Z
+date: 2025-03-28T05:00:55.026Z
 tags: lore, goose, gustopher, goosetopher, design, mascot
 editor: markdown
 dateCreated: 2025-03-25T00:19:11.986Z

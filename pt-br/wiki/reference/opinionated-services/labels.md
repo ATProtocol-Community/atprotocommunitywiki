@@ -2,7 +2,7 @@
 title: Rótulos
 description: 
 published: true
-date: 2025-05-04T01:51:41.044Z
+date: 2025-05-04T01:51:42.699Z
 tags: wiki, documentation, opinionated services, labels
 editor: markdown
 dateCreated: 2025-05-04T01:51:41.044Z

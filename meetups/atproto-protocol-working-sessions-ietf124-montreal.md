@@ -2,7 +2,7 @@
 title: ATProto Protocol Working Session at IETF124
 description: IETF124 is in Montreal, Nov 1st - 7th
 published: true
-date: 2025-10-29T17:41:01.068Z
+date: 2025-10-29T17:41:05.580Z
 tags: protocol, ietf
 editor: markdown
 dateCreated: 2025-07-17T17:33:09.770Z

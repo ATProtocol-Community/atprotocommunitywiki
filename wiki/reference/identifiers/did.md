@@ -2,7 +2,7 @@
 title: Decentralized Identifiers (DID)
 description: 
 published: true
-date: 2025-04-29T05:03:01.197Z
+date: 2025-04-29T05:03:03.520Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:07:27.976Z

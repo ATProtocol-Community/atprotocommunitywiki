@@ -2,7 +2,7 @@
 title: Firehose
 description: 
 published: true
-date: 2025-04-29T17:37:56.049Z
+date: 2025-04-29T17:37:58.490Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T22:11:07.316Z

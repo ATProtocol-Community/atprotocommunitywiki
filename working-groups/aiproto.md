@@ -2,7 +2,7 @@
 title: AIproto Working Group
 description: Discussion around AI + LLMs and ATproto
 published: true
-date: 2025-03-26T23:00:15.303Z
+date: 2025-03-26T23:00:17.543Z
 tags: ai, llm, aiproto
 editor: markdown
 dateCreated: 2025-03-26T22:51:40.817Z

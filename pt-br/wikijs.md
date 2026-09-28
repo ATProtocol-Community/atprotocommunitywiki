@@ -2,7 +2,7 @@
 title: WikiJS Meta
 description: Anotações e discussões sobre WikiJS e esta instalação em particular
 published: true
-date: 2025-05-22T18:51:44.642Z
+date: 2025-05-22T18:51:46.262Z
 tags: wiki, wikijs, meta
 editor: markdown
 dateCreated: 2025-03-27T05:47:26.684Z

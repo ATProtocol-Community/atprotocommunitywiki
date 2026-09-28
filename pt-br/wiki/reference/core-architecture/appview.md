@@ -2,7 +2,7 @@
 title: AppViews
 description: 
 published: true
-date: 2025-05-03T04:38:13.112Z
+date: 2025-05-03T04:38:14.782Z
 tags: wiki, documentation, core architecture, appview
 editor: markdown
 dateCreated: 2025-05-03T04:35:47.769Z

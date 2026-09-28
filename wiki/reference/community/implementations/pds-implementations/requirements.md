@@ -2,7 +2,7 @@
 title: What is required to make a PDS implementation?
 description: 
 published: true
-date: 2025-03-31T20:00:47.473Z
+date: 2025-08-24T03:05:50.328Z
 tags: pds
 editor: markdown
 dateCreated: 2025-03-31T20:00:11.627Z

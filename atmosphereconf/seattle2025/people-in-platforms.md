@@ -2,7 +2,7 @@
 title: People In Platforms: A Research Update
 description: todo
 published: true
-date: 2025-03-27T21:52:21.810Z
+date: 2025-03-27T21:52:23.810Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:06:39.898Z

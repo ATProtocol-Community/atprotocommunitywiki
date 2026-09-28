@@ -2,7 +2,7 @@
 title: AI on ATProto Group Session, Seattle 2025
 description: AI on ATProto Group Notes
 published: true
-date: 2025-03-26T23:15:35.992Z
+date: 2025-03-26T23:15:37.975Z
 tags: atmosphereconf, notes, ai, llm
 editor: markdown
 dateCreated: 2025-03-26T22:48:01.916Z

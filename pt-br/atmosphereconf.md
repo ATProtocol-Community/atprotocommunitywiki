@@ -2,7 +2,7 @@
 title: ATmosphereConf
 description: Uma lista de Conferências da ATmosfera
 published: true
-date: 2025-04-15T15:13:01.255Z
+date: 2025-04-15T15:13:03.368Z
 tags: atmosphereconf
 editor: markdown
 dateCreated: 2025-03-27T09:17:41.467Z

@@ -2,7 +2,7 @@
 title: DO NOT REPLY TO THIS LIGHTNING TALK
 description: todo
 published: true
-date: 2025-04-02T18:42:36.139Z
+date: 2025-04-02T18:42:38.337Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:02:42.913Z

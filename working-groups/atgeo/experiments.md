@@ -2,7 +2,7 @@
 title: ATgeo Experiments
 description: Write ups on product loops and experiments around ATgeo
 published: true
-date: 2025-06-10T20:51:08.095Z
+date: 2025-06-10T20:51:11.330Z
 tags: atgeo
 editor: markdown
 dateCreated: 2025-03-28T23:03:45.107Z

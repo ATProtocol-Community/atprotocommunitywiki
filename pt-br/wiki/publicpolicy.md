@@ -2,7 +2,7 @@
 title: Questões de Políticas Públicas 
 description: Como as leis e regulamentações em diferentes jurisdições afetam a implantação e as operações do ATproto
 published: true
-date: 2025-05-22T18:48:29.336Z
+date: 2025-05-22T18:48:31.616Z
 tags: dma, competition, antitrust, privacy, dataprotection, gdpr, policy, legal, dsa, trustandsafety, lgpd
 editor: markdown
 dateCreated: 2025-05-22T18:48:29.336Z

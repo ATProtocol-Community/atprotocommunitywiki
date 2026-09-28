@@ -2,7 +2,7 @@
 title: DID:PLC
 description: 
 published: true
-date: 2025-05-09T16:20:57.792Z
+date: 2025-05-09T16:20:59.527Z
 tags: wiki, documentation, identifiers, did:plc
 editor: markdown
 dateCreated: 2025-03-31T22:09:44.362Z

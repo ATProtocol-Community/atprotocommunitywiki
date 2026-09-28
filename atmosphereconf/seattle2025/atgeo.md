@@ -2,7 +2,7 @@
 title: ATgeo Group Discussion, Seattle 2025
 description: Notes from the ATgeo group discussion, Seattle 2025, Day 2
 published: true
-date: 2025-03-27T18:34:10.556Z
+date: 2025-03-27T18:34:12.849Z
 tags: atmosphereconf, notes, atgeo
 editor: markdown
 dateCreated: 2025-03-27T18:34:10.556Z

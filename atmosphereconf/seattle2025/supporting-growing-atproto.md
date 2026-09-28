@@ -2,7 +2,7 @@
 title: Supporting and growing ATProto development in 2025 and beyond
 description: todo
 published: true
-date: 2025-03-27T21:28:11.950Z
+date: 2025-03-27T21:28:13.811Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:28:11.950Z

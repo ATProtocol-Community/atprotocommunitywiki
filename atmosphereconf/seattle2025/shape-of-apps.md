@@ -2,7 +2,7 @@
 title: The Shape of Apps to Come
 description: todo
 published: true
-date: 2025-03-27T21:50:18.267Z
+date: 2025-03-27T21:50:20.278Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T21:25:56.214Z

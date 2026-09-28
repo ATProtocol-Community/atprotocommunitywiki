@@ -2,7 +2,7 @@
 title: Network Punk: Welcome to the Jungle, Blaine Cook
 description: todo
 published: true
-date: 2025-03-27T21:55:44.846Z
+date: 2025-03-27T21:55:46.819Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T20:07:54.105Z

@@ -2,7 +2,7 @@
 title: IndieSky Stack
 description: The ATProto components and technical stack and what roles and capabilities they have
 published: true
-date: 2025-04-26T20:41:09.276Z
+date: 2025-04-26T20:41:12.671Z
 tags: pds, indiesky, moderation, relay, appview
 editor: markdown
 dateCreated: 2025-04-26T20:41:09.276Z

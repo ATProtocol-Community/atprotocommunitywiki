@@ -2,7 +2,7 @@
 title: Atproto Ethos
 description: todo
 published: true
-date: 2025-03-27T21:53:58.211Z
+date: 2025-03-27T21:54:00.009Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-27T20:59:06.071Z
